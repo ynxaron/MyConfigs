@@ -83,3 +83,23 @@ git push -u origin main
 ls
 git push -u origin main
 git ls-files
+git add *
+git commit -m "Setting things up"
+git push -u origin main
+cd ..
+mkdir Codes
+cd Codes/
+vim README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ynxaron/Codes.git
+git push -u origin main
+yay -S emacs
+git clone https://github.com/doomemacs/doomemacs
+rm -rf doomemacs/
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs
+~/.config/emacs/bin/doom install
+cd ~/.config/
+git add * && git commit -m "Updating The Config: Added 'doom emacs'"
