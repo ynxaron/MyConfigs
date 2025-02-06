@@ -8,12 +8,25 @@
 [
   {
     "context": "Workspace",
-    "bindings": {}
+    "bindings": {
+      "ctrl-`": "workspace::ToggleBottomDock"
+    }
   },
   {
     "context": "Editor",
     "bindings": {
       // "j k": ["workspace::SendKeystrokes", "escape"]
     }
+  },
+  {
+    "context": "Terminal",
+    "bindings": {
+      "cmd-`": "workspace::ToggleBottomDock"
+    }
   }
 ]
+//s, see the Zed
+// documentation: https://zed.dev/docs/key-bindings
+//
+// To see the default key bindings run `zed: open default keymap`
+// from the command palette.

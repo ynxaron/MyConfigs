@@ -137,3 +137,297 @@ git clone --depth 1 https://github.com/AstroNvim/template ~/.config/nvim
 nvim
 git add * and 
 git add * and git commit -m "Adding astrovim config"
+git add *
+git commit -m "Adding Astrovim Config"
+cd nvim/
+rm -rf .git
+mpv
+yay -S mpv
+cd Videos/
+mkdir neetcode
+cd neetcode/
+ytdlp 'https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr'
+yay -S ytdlp
+yay -S yt-dlp
+ytdlp 'https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr'
+yt-dlp 'https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr'
+ls
+rm 'Contains Duplicate - Leetcode 217 - Python [3OamzN90kPg].webm'
+ls
+yay -S ani-cli
+anicli
+ani-cli
+ani-cli -d
+ani-cli -h
+ani-cli -d
+ls
+rm `Spy x Family Episode 1.mp4`
+rm `Spy x Family Episode 1.mp4.aria2`
+cd Videos/
+ls
+mkdir miscellaneous
+cd miscellaneous/
+yt-dlp miscellaneous
+yt-dlp 'https://www.youtube.com/watch?v=rJ1PLLPcWXs'
+yt-dlp -o "%(playlist_index)s_%(title)s.%(ext)s" 'https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr'
+cd ..
+mkdir video_essays
+cd video_essays/
+yt-dlp 'https://www.youtube.com/watch?v=rJ1PLLPcWXs'
+yt-dlp 'https://www.youtube.com/playlist?list=PLlG-q227hpLxRaexj1_W-1UjFvQegTIUC'
+yt-dlp -F 'https://www.youtube.com/playlist?list=PLlG-q227hpLxRaexj1_W-1UjFvQegTIUC'
+yt-dlp -F 'https://www.youtube.com/watch?v=LeeCK5PoPEA&list=PLlG-q227hpLxRaexj1_W-1UjFvQegTIUC&index=1'
+yt-dlp -f 302 'https://www.youtube.com/watch?v=LeeCK5PoPEA&list=PLlG-q227hpLxRaexj1_W-1UjFvQegTIUC&index=1'
+ls
+mpv "Was Assassin's Creed as good as I remember？ - A look at the start of Ubisoft's Golden Goose [LeeCK5PoPEA].f399.mp4.part"
+ls
+rm "A Dream Come True - Th<\n>"
+rm ./*
+yt-dlp -F 'https://www.youtube.com/watch?v=LeeCK5PoPEA&list=PLlG-q227hpLxRaexj1_W-1UjFvQegTIUC&index=1'
+yt-dlp -f 18 'https://www.youtube.com/watch?v=LeeCK5PoPEA&list=PLlG-q227hpLxRaexj1_W-1UjFvQegTIUC&index=1'
+cd Videos/video_essays/
+cd
+ls /home
+sudo visudo
+cd Videos/video_essays/
+ls
+mpv "A Dream Come True - The Legend of Zelda： Link's Awakening Review [OiTPIZ5Pmjs].mp4.part"
+cd Videos/video_essays/
+ls
+mpv "A Dream Come True - The Legend of Zelda： Link's Awakening Review [OiTPIZ5Pmjs].mp4"
+857586
+curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+yay
+cd Videos/video_essays/
+l
+ls
+pwd
+pid
+which id
+cd Videos/video_essays/
+ls | where size > 10mb | sort-by modified 
+http
+http get
+curl -s https://ohmyposh.dev/install.sh | bash -s
+oh-my-posh get shell
+oh-my-posh init nu
+source ~/.oh-my-posh.nu
+vim ~/.config/nushell/config.nu
+oh-my-posh font install
+oh-my-posh init nu
+source ~/.oh-my-posh.nu
+oh-my-posh Get-PoshThemes
+cd .config/nushell/
+ls
+vim oh_my_posh_theme.json
+cd
+oh-my-posh init nu --config ~/.config/nushell/oh_my_posh_theme.json
+source ~/.oh-my-posh.nu
+ls
+cd Downloads/
+cd
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/catppuccin_frappe.omp.json
+source ~/.oh-my-posh.nu
+cd Documents/
+cd Downloads/
+ls
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/cloud-context.omp.json
+source ~/.oh-my-posh.nu
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/catppuccin_frappe.omp.json
+source ~/.oh-my-posh.nu
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/huvix.omp.json
+source ~/.oh-my-posh.nu
+cd Downloads/
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/illusi0n.omp.json
+source ~/.oh-my-posh.nu
+cd Downloads/
+ls
+cd ../Documents/
+ls
+cd ../Pictures/
+ls
+cd Screenshots/
+ls
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/material.omp.json
+source ~/.oh-my-posh.nu
+cd Downloads/
+ls
+cd ..
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/1_shell.omp.json
+source ~/.oh-my-posh.nu
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/amro.omp.json
+source ~/.oh-my-posh.nu
+cd Downloads/
+ls
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/catppuccin_frappe.omp.json
+source ~/.oh-my-posh.nu
+cd Downloads/
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/cloud-context.omp.json
+source ~/.oh-my-posh.nu
+cd Downloads/
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/di4am0nd.omp.json
+source ~/.oh-my-posh.nu
+cd Downloads/
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/emodipt-extend.omp.json
+source ~/.oh-my-posh.nu
+cd Downloads/
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/half-life.omp.json
+source ~/.oh-my-posh.nu
+cd Downloads/
+ls
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/honukai.omp.json
+source ~/.oh-my-posh.nu
+cd Downloads/
+ls
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/amro.omp.json
+source ~/.oh-my-posh.nu
+cd Downloads/
+ls
+curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.sh | sh
+yay -S spicetify
+yay -Ss spicetify
+yay -Ss spicetify-cli
+yay -S spicetify-cli
+nch
+yay -S spicetify-cli-git
+config nu
+nch
+yay -Rs firefox
+yay -S firefox
+yay -Rs firefox
+yt-dlp 'https://www.youtube.com/watch?v=2zYZC6dCy7w'
+yt-dlp -F 'https://www.youtube.com/watch?v=2zYZC6dCy7w'
+yay -S firefox
+yt-dlp -f 18 'https://www.youtube.com/watch?v=2zYZC6dCy7w'
+mpv "Best 77 books I've read over the past 77 years [2zYZC6dCy7w].f401.mp4.part"
+yay -S vesktop
+mkdir .things
+cd .things/
+vim discord_invite_links.md
+zed Codes/
+exit
+ls
+clr
+python Easy
+ls
+cd leetcode/
+ls
+cd Easy/
+ls
+python two_sum.py
+clr
+clear
+ls
+python prod_except_itself.py
+clear
+l
+ls
+cd ..
+fzf
+yay -Ss ytui
+yay -S ytui-music-bin
+yay -Ss ytui
+yay -Ss ytui-music
+cargo
+yay -S ytui-music
+yay -S cargo
+yay -Rs cargo
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+rust
+rustc
+yay -Rs rustc
+rustc
+which rustc
+yay -Qq
+yay -Qq | grep
+yay -Qq | grep "rustc"
+yay -Qq | grep "rus"
+rustup
+yay -Rs rustup
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+cargo
+rustc
+cd .cargo/bin/
+ls
+./cargo
+cd
+cargo
+vim ~/.config/nushell/config.nu
+nvim ~/.config/nushell/config.nu
+rust
+yay -S ytui-music
+yay -S ytui
+ytui
+ytui query search
+ytui query search "hey jude"
+yay -Rs ytui
+ytui
+which ytui
+yay -Qq | grep "ytui"
+yay -Rs ytui-bin
+yay -Rs firefox
+sudo -s
+sudo visudo
+rustc
+cargo
+Downloads/
+ls
+yay
+rm zen-x86_64.AppImage
+lsblk
+sudo fdisk -l
+ytdlp
+yt-dlp "ytsearch:music for writing"
+cd Codes/leetcode/
+zed Codes/leetcode/
+clr
+clear
+pfetch
+cd Videos/
+ls
+cd video_essays/
+ls
+mpv 'A Thorough Look at Dragon Age [Revised⧸Expanded⧸HD] [Vrd6GpZXvdk].mp4'
+cargo install ytui
+cd .cargo/bin/
+vim ytui
+./ytui
+cd ..
+ls
+cd registry/
+ls
+cd ~/
+cd .config/nushell/
+ls
+vim config.nu
+nvim config.nu
+cd Easy/
+ls
+python prod_except_itself.py
+cd Codes/leetcode/
+ls
+cd Easy/
+ls
+zed ..
+ls 
+python prod_except_itself.py
+cd .config/zed/
+ls
+cd themes/
+ls
+cd ..
+ls
+zed .
+ls
+clr
+vim ../nushell/config.nu
+nu
+clr
+exit
+clr
+git ls-files
+cd ..
+git log
+clr
+git status

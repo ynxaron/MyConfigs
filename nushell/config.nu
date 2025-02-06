@@ -19,4 +19,8 @@
 $env.config.buffer_editor = "vim"
 $env.config.show_banner = false
 
+alias cargo = ~/.cargo/bin/cargo
+alias clr = clear
+
 pfetch
+source ~/.oh-my-posh.nu

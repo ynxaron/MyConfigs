@@ -86,3 +86,187 @@ INFO 6/2/2025, 9:47:06 am  ----------------before-quit-----------------
 INFO 6/2/2025, 9:47:06 am  ------------------will-quit------------------
 INFO 6/2/2025, 9:47:06 am  -----------------quit------------------
 INFO 6/2/2025, 9:47:06 am  closeLogging
+INFO 6/2/2025, 6:15:13 pm  launch with argv [/usr/share/typora/Typora, /home/ynx/CreativeWriting/Three_Winter_Nights/Three_Winter_Nights_FV.md]
+INFO 6/2/2025, 6:15:13 pm  start LM in devVersion=false
+INFO 6/2/2025, 6:15:13 pm  [watch L]
+INFO 6/2/2025, 6:15:13 pm  ls put SLicense
+INFO 6/2/2025, 6:15:13 pm  [L] installDate is 2/6/2025, trail remains: 15 days
+INFO 6/2/2025, 6:15:13 pm  [watch L] hasL: false
+INFO 6/2/2025, 6:15:13 pm  ------------------start------------------
+INFO 6/2/2025, 6:15:13 pm  typora version: 1.9.3
+INFO 6/2/2025, 6:15:13 pm  addRecentDocument
+INFO 6/2/2025, 6:15:13 pm  [Raven] instanceKey = 8a5cb294-95db-411f-bb10-99dedfcf6413
+user-dict.json not found
+INFO 6/2/2025, 6:15:13 pm  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+INFO 6/2/2025, 6:15:13 pm  synced recovery
+INFO 6/2/2025, 6:15:13 pm  [focus] 1
+ERROR 6/2/2025, 6:15:13 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 6:15:13 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 6:15:14 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 6:15:14 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 6/2/2025, 6:15:14 pm  handle document.loadData
+ERROR 6/2/2025, 6:15:14 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 6:15:14 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 6/2/2025, 6:15:14 pm  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 6/2/2025, 6:15:14 pm  [RenderProcess 1][Log] reset NodeMap
+INFO 6/2/2025, 6:15:14 pm  [RenderProcess 1][Log] readContentFrom /home/ynx/CreativeWriting/Three_Winter_Nights/Three_Winter_Nights_FV.md
+INFO 6/2/2025, 6:15:14 pm  synced recovery
+INFO 6/2/2025, 6:15:14 pm  [RenderProcess 1][Log] onBecomeActive
+INFO 6/2/2025, 6:15:14 pm  [RenderProcess 1][Log] File.activeWindow = true
+INFO 6/2/2025, 6:15:23 pm  [downloadDict] downloading https://dict.typora.io/en-GB/index.dic
+INFO 6/2/2025, 6:15:23 pm  [downloadDict] downloading https://dict.typora.io/en-GB/index.aff
+INFO 6/2/2025, 6:15:24 pm  window.File && (function(){ClientCommand.zoomIn()})();
+INFO 6/2/2025, 6:15:25 pm  window.File && (function(){ClientCommand.zoomIn()})();
+INFO 6/2/2025, 6:15:30 pm  [blur] 1
+INFO 6/2/2025, 6:15:30 pm  [win] blur
+INFO 6/2/2025, 6:15:30 pm  [focus] 2
+INFO 6/2/2025, 6:15:31 pm  [blur] 2
+INFO 6/2/2025, 6:15:31 pm  [focus] 1
+INFO 6/2/2025, 6:15:31 pm  [blur] 1
+INFO 6/2/2025, 6:15:31 pm  [win] blur
+INFO 6/2/2025, 6:15:31 pm  [focus] 2
+INFO 6/2/2025, 6:15:32 pm  [focus] 1
+INFO 6/2/2025, 6:15:33 pm  synced recovery
+INFO 6/2/2025, 6:15:33 pm  ----------------before-quit-----------------
+INFO 6/2/2025, 6:15:33 pm  ------------------will-quit------------------
+INFO 6/2/2025, 6:15:33 pm  -----------------quit------------------
+INFO 6/2/2025, 6:15:33 pm  closeLogging
+INFO 6/2/2025, 8:07:49 pm  launch with argv [/usr/share/typora/Typora]
+INFO 6/2/2025, 8:07:49 pm  start LM in devVersion=false
+INFO 6/2/2025, 8:07:49 pm  [watch L]
+INFO 6/2/2025, 8:07:49 pm  ls put SLicense
+INFO 6/2/2025, 8:07:49 pm  [L] installDate is 2/6/2025, trail remains: 15 days
+INFO 6/2/2025, 8:07:49 pm  [watch L] hasL: false
+INFO 6/2/2025, 8:07:49 pm  ------------------start------------------
+INFO 6/2/2025, 8:07:49 pm  typora version: 1.9.3
+INFO 6/2/2025, 8:07:49 pm  [Raven] instanceKey = a45e65d0-de2c-4232-bbbf-90d1728cc919
+user-dict.json not found
+INFO 6/2/2025, 8:07:49 pm  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+INFO 6/2/2025, 8:07:49 pm  synced recovery
+INFO 6/2/2025, 8:07:49 pm  [focus] 1
+ERROR 6/2/2025, 8:07:49 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 8:07:49 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 8:07:50 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 8:07:50 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 6/2/2025, 8:07:50 pm  handle document.loadData
+ERROR 6/2/2025, 8:07:50 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 8:07:50 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 6/2/2025, 8:07:50 pm  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 6/2/2025, 8:07:50 pm  [RenderProcess 1][Log] reset NodeMap
+INFO 6/2/2025, 8:07:50 pm  synced recovery
+INFO 6/2/2025, 8:07:50 pm  [RenderProcess 1][Log] onBecomeActive
+INFO 6/2/2025, 8:07:50 pm  [RenderProcess 1][Log] File.activeWindow = true
+INFO 6/2/2025, 8:07:51 pm  [blur] 1
+INFO 6/2/2025, 8:07:51 pm  [win] blur
+INFO 6/2/2025, 8:08:00 pm  addRecentDocument
+INFO 6/2/2025, 8:08:00 pm  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 6/2/2025, 8:08:00 pm  [RenderProcess 1][Log] reset NodeMap
+INFO 6/2/2025, 8:08:00 pm  [RenderProcess 1][Log] readContentFrom /home/ynx/CreativeWriting/The Story Behind Three Winter Nights.md
+INFO 6/2/2025, 8:08:00 pm  [focus] 1
+INFO 6/2/2025, 8:08:00 pm  synced recovery
+INFO 6/2/2025, 8:08:05 pm  synced recovery
+INFO 6/2/2025, 8:08:10 pm  synced recovery
+INFO 6/2/2025, 8:08:10 pm  synced recovery
+INFO 6/2/2025, 8:08:10 pm  ----------------before-quit-----------------
+INFO 6/2/2025, 8:08:10 pm  ------------------will-quit------------------
+INFO 6/2/2025, 8:08:10 pm  -----------------quit------------------
+INFO 6/2/2025, 8:08:10 pm  closeLogging
+INFO 6/2/2025, 8:08:14 pm  launch with argv [/usr/share/typora/Typora]
+INFO 6/2/2025, 8:08:14 pm  start LM in devVersion=false
+INFO 6/2/2025, 8:08:14 pm  [watch L]
+INFO 6/2/2025, 8:08:14 pm  ls put SLicense
+INFO 6/2/2025, 8:08:14 pm  [L] installDate is 2/6/2025, trail remains: 15 days
+INFO 6/2/2025, 8:08:14 pm  [watch L] hasL: false
+INFO 6/2/2025, 8:08:14 pm  ------------------start------------------
+INFO 6/2/2025, 8:08:14 pm  typora version: 1.9.3
+INFO 6/2/2025, 8:08:14 pm  [Raven] instanceKey = adb6c28f-9dc6-4042-92b7-5f5b0aaf99d3
+user-dict.json not found
+INFO 6/2/2025, 8:08:14 pm  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+INFO 6/2/2025, 8:08:14 pm  synced recovery
+INFO 6/2/2025, 8:08:14 pm  [focus] 1
+ERROR 6/2/2025, 8:08:14 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 8:08:14 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 8:08:15 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 8:08:15 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 6/2/2025, 8:08:15 pm  handle document.loadData
+ERROR 6/2/2025, 8:08:15 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 8:08:15 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 6/2/2025, 8:08:15 pm  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 6/2/2025, 8:08:15 pm  [RenderProcess 1][Log] reset NodeMap
+INFO 6/2/2025, 8:08:15 pm  synced recovery
+INFO 6/2/2025, 8:08:15 pm  [RenderProcess 1][Log] onBecomeActive
+INFO 6/2/2025, 8:08:15 pm  [RenderProcess 1][Log] File.activeWindow = true
+INFO 6/2/2025, 8:08:18 pm  [blur] 1
+INFO 6/2/2025, 8:08:18 pm  [win] blur
+INFO 6/2/2025, 8:08:24 pm  addRecentFolder
+INFO 6/2/2025, 8:08:24 pm  [focus] 1
+INFO 6/2/2025, 8:08:32 pm  switchDocument 1 [/home/ynx/CreativeWriting/Three_Winter_Nights/Three_Winter_Nights_FV.md]
+INFO 6/2/2025, 8:08:32 pm  addRecentDocument
+INFO 6/2/2025, 8:08:32 pm  synced recovery
+INFO 6/2/2025, 8:08:32 pm  [RenderProcess 1][Log] File.activeWindow = true
+INFO 6/2/2025, 8:08:32 pm  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 6/2/2025, 8:08:32 pm  [RenderProcess 1][Log] reset NodeMap
+INFO 6/2/2025, 8:08:32 pm  [RenderProcess 1][Log] readContentFrom /home/ynx/CreativeWriting/Three_Winter_Nights/Three_Winter_Nights_FV.md
+INFO 6/2/2025, 8:08:32 pm  synced recovery
+INFO 6/2/2025, 8:09:01 pm  [blur] 1
+INFO 6/2/2025, 8:09:01 pm  [win] blur
+INFO 6/2/2025, 8:11:11 pm  [focus] 1
+INFO 6/2/2025, 8:11:12 pm  synced recovery
+INFO 6/2/2025, 8:11:12 pm  ----------------before-quit-----------------
+INFO 6/2/2025, 8:11:12 pm  ------------------will-quit------------------
+INFO 6/2/2025, 8:11:12 pm  -----------------quit------------------
+INFO 6/2/2025, 8:11:12 pm  closeLogging

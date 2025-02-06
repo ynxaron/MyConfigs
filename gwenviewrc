@@ -1,0 +1,16 @@
+[FullScreen]
+FullScreenModeActive=true
+
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Screenshots/250206_19h51m15s_screenshot.png
+Name1[$e]=250206_19h51m15s_screenshot.png
+
+[SideBar]
+InformationSplitterSizes=0,0

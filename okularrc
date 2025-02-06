@@ -1,0 +1,15 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/CreativeWriting/Three_Winter_Nights/Three_Winter_Nights_FV.md
+File2[$e]=$HOME/Downloads/Unit-1.pdf
+Name1[$e]=Three_Winter_Nights_FV.md
+Name2[$e]=Unit-1.pdf

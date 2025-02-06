@@ -1,2 +1,3 @@
-2025/02/06-09:38:47.609 4882 Creating DB /home/ynx/.config/Typora/Local Storage/leveldb since it was missing.
-2025/02/06-09:38:47.615 4882 Reusing MANIFEST /home/ynx/.config/Typora/Local Storage/leveldb/MANIFEST-000001
+2025/02/06-20:07:49.254 482fe Reusing MANIFEST /home/ynx/.config/Typora/Local Storage/leveldb/MANIFEST-000001
+2025/02/06-20:07:49.255 482fe Recovering log #3
+2025/02/06-20:07:49.256 482fe Reusing old log /home/ynx/.config/Typora/Local Storage/leveldb/000003.log 
