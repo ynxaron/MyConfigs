@@ -1,0 +1,88 @@
+INFO 6/2/2025, 9:38:47 am  launch with argv [/usr/share/typora/Typora]
+INFO 6/2/2025, 9:38:47 am  launchFromDiffVersion, pre version is undefined
+INFO 6/2/2025, 9:38:47 am  start LM in devVersion=false
+INFO 6/2/2025, 9:38:47 am  [watch L]
+INFO 6/2/2025, 9:38:47 am  ls put SLicense
+INFO 6/2/2025, 9:38:47 am  [L] Read from incorrupted InstallDate
+INFO 6/2/2025, 9:38:47 am  writeInstallDate fromBTime=true
+INFO 6/2/2025, 9:38:47 am  overwriteThemeFolder
+INFO 6/2/2025, 9:38:47 am  ------------------start------------------
+INFO 6/2/2025, 9:38:47 am  typora version: 1.9.3
+INFO 6/2/2025, 9:38:47 am  [Raven] instanceKey = c9a257c9-d9c4-462d-9019-922b63bb4375
+INFO 6/2/2025, 9:38:47 am  ls put IDate
+INFO 6/2/2025, 9:38:47 am  [L] installDate is 2/6/2025, trail remains: 15 days
+INFO 6/2/2025, 9:38:47 am  [watch L] hasL: false
+INFO 6/2/2025, 9:38:47 am  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+INFO 6/2/2025, 9:38:47 am  synced recovery
+user-dict.json not found
+INFO 6/2/2025, 9:38:47 am  [focus] 1
+ERROR 6/2/2025, 9:38:48 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 9:38:48 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 6/2/2025, 9:38:48 am  handle document.loadData
+INFO 6/2/2025, 9:38:48 am  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 6/2/2025, 9:38:48 am  [RenderProcess 1][Log] reset NodeMap
+INFO 6/2/2025, 9:38:48 am  synced recovery
+INFO 6/2/2025, 9:38:48 am  [RenderProcess 1][Log] onBecomeActive
+INFO 6/2/2025, 9:38:48 am  [RenderProcess 1][Log] File.activeWindow = true
+INFO 6/2/2025, 9:38:49 am  [blur] 1
+INFO 6/2/2025, 9:38:49 am  [win] blur
+INFO 6/2/2025, 9:38:52 am  [focus] 1
+INFO 6/2/2025, 9:38:53 am  synced recovery
+INFO 6/2/2025, 9:38:53 am  ----------------before-quit-----------------
+INFO 6/2/2025, 9:38:53 am  ------------------will-quit------------------
+INFO 6/2/2025, 9:38:53 am  -----------------quit------------------
+INFO 6/2/2025, 9:38:53 am  closeLogging
+INFO 6/2/2025, 9:47:01 am  launch with argv [/usr/share/typora/Typora]
+INFO 6/2/2025, 9:47:01 am  start LM in devVersion=false
+INFO 6/2/2025, 9:47:01 am  [watch L]
+INFO 6/2/2025, 9:47:01 am  ls put SLicense
+INFO 6/2/2025, 9:47:01 am  [L] installDate is 2/6/2025, trail remains: 15 days
+INFO 6/2/2025, 9:47:01 am  [watch L] hasL: false
+INFO 6/2/2025, 9:47:01 am  ------------------start------------------
+INFO 6/2/2025, 9:47:01 am  typora version: 1.9.3
+INFO 6/2/2025, 9:47:01 am  [Raven] instanceKey = d0933a3c-b328-4664-8e9b-da606a1777b7
+user-dict.json not found
+INFO 6/2/2025, 9:47:01 am  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+INFO 6/2/2025, 9:47:01 am  synced recovery
+INFO 6/2/2025, 9:47:01 am  [focus] 1
+ERROR 6/2/2025, 9:47:02 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 9:47:02 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 6/2/2025, 9:47:02 am  handle document.loadData
+INFO 6/2/2025, 9:47:02 am  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 6/2/2025, 9:47:02 am  [RenderProcess 1][Log] reset NodeMap
+INFO 6/2/2025, 9:47:02 am  synced recovery
+INFO 6/2/2025, 9:47:02 am  [RenderProcess 1][Log] onBecomeActive
+INFO 6/2/2025, 9:47:02 am  [RenderProcess 1][Log] File.activeWindow = true
+ERROR 6/2/2025, 9:47:04 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 9:47:04 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 9:47:04 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 6/2/2025, 9:47:04 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 6/2/2025, 9:47:06 am  synced recovery
+INFO 6/2/2025, 9:47:06 am  ----------------before-quit-----------------
+INFO 6/2/2025, 9:47:06 am  ------------------will-quit------------------
+INFO 6/2/2025, 9:47:06 am  -----------------quit------------------
+INFO 6/2/2025, 9:47:06 am  closeLogging

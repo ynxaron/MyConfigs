@@ -1,0 +1,85 @@
+sudo pacman -S pfetch
+nu config
+config nu
+vim .config/nushell/config.nu
+config nu
+vim .config/nushell/config.nu
+chsh
+zed Codes/leetcode/
+vim .config/nushell/config.nu
+vim .config/hypr/keybindings.conf
+zed Codes/leetcode/
+exit
+python Easy/two_sum.py
+yay -S typora
+vim .config/hypr/keybindings.conf
+cd Downloads/
+ls
+unzip
+unrar
+yay -S unrar
+ls
+unzip blackout_theme.zip
+ls
+mv blackout.css ~/.config/Typora/themes/
+hyprpm
+mkdir .VIp
+rm -r .VIp/
+mkdir .VIP
+cd .VIP
+vim tuta_key.md
+whoami
+bash
+zsh
+clr
+clear
+cd .VIP
+vim tuta_key.md
+cd ../Downloads/
+ls
+chmod +x zen-x86_64.AppImage
+cd .VIP
+vim tuta_key.md
+cd
+git config 
+git config --user.email "ynx.aron@outlook.com"
+pfetch
+fastfetch 
+cd Downloads/
+ls
+unzip CreativeWriting-master-20250206T035502Z-001.zip
+mv CreativeWriting-master CreativeWriting
+mv CreativeWriting ../
+cd ../
+cd CreativeWriting/
+git init
+echo "# Writings" >> README.md
+vim README.md
+git add README.md
+git ls-files
+git commit -m "first commit"
+git config --global user.email "ynx.aron@outlook.com"
+git config --global user.name "ynxaron"
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ynxaron/Writings.git
+git push -u origin main
+cd ~/.VIP
+vim github_token.md
+zed github_token.md
+vim github_token.md
+yay -S codium
+yay -S sublime
+yay -S sublime-text
+vim .VIP/github_token.md
+cd .config/
+git init
+vim README.md
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ynxaron/MyConfigs.git
+git push -u origin main
+ls
+git push -u origin main
+git ls-files
