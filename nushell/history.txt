@@ -433,3 +433,25 @@ clr
 git status
 cd .config
 git status
+git add *
+git commit -m "Some Neglegable Changes"
+git config --global user.name "ynxaron"
+git config --global user.email "ynx.aron@outlook.com"
+git commit -m "Some Neglegable Changes"
+git push -u origin main
+cd ..
+git clone https://github.com/ynxaron/Codes
+rm -rf Codes
+git clone https://github.com/ynxaron/Codes
+cd Codes/
+ls
+git status
+yay -S sublime-text
+cd
+git clone https://github.com/ynxaron/Writings
+cd Writings/
+ls
+cd ..
+cd .config/hypr/
+vim keybindings.conf
+cd ..

@@ -8,7 +8,7 @@
 	"last_version": 4192,
 	"last_window_id": 1,
 	"log_indexing": false,
-	"next_update_check": 1738913943,
+	"next_update_check": 1739000343,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -58,6 +58,7 @@
 			},
 			"file_history":
 			[
+				"/home/ynx/github_token.md"
 			],
 			"find":
 			{
@@ -161,12 +162,13 @@
 			"buffers":
 			[
 				{
-					"contents": "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",
+					"file": "/home/ynx/github_token.md",
 					"settings":
 					{
 						"buffer_size": 40,
+						"encoding": "UTF-8",
 						"line_ending": "Unix",
-						"name": "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"
+						"name": "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"
 					},
 					"undo_stack":
 					[
@@ -176,7 +178,33 @@
 							"",
 							null,
 							"AQAAAAAAAAAAAAAAKAAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAACgAAABnaHBfVXRXbEdVU2tPMDluc1ZITVlGa1NDRXI3UE9rakI2MXFIVEdz",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"",
+							null,
+							"AQAAAAEAAAAAAAAAKQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							3,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				}
@@ -253,6 +281,7 @@
 					[
 						{
 							"buffer": 0,
+							"file": "/home/ynx/github_token.md",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
@@ -265,13 +294,13 @@
 								[
 									[
 										0,
-										40
+										0
 									]
 								],
 								"settings":
 								{
-									"auto_name": "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",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"auto_name": "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",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
