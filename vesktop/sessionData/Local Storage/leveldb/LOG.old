@@ -1,0 +1,36 @@
+2025/02/11-12:58:59.412 2f7fe Reusing MANIFEST /home/ynx/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/02/11-12:58:59.415 2f7fe Recovering log #14
+2025/02/11-12:58:59.421 2f7fe Reusing old log /home/ynx/.config/vesktop/sessionData/Local Storage/leveldb/000014.log 
+2025/02/11-13:00:00.002 2f7ff Level-0 table #18: started
+2025/02/11-13:00:00.005 2f7ff Level-0 table #18: 23769 bytes OK
+2025/02/11-13:00:00.010 2f7ff Delete type=0 #14
+2025/02/11-13:00:00.010 2f7ff Compacting 4@0 + 1@1 files
+2025/02/11-13:00:00.013 2f7ff Generated table #19@0: 38 keys, 9144 bytes
+2025/02/11-13:00:00.013 2f7ff Compacted 4@0 + 1@1 files => 9144 bytes
+2025/02/11-13:00:00.016 2f7ff compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/11-13:00:00.016 2f7ff Delete type=2 #8
+2025/02/11-13:00:00.016 2f7ff Delete type=2 #10
+2025/02/11-13:00:00.016 2f7ff Delete type=2 #12
+2025/02/11-13:00:00.016 2f7ff Delete type=2 #15
+2025/02/11-13:00:00.016 2f7ff Delete type=2 #18
+2025/02/11-13:33:23.543 2f7ff Level-0 table #21: started
+2025/02/11-13:33:23.546 2f7ff Level-0 table #21: 21700 bytes OK
+2025/02/11-13:33:23.549 2f7ff Delete type=0 #17
+2025/02/11-13:46:22.866 2f7ff Level-0 table #23: started
+2025/02/11-13:46:22.868 2f7ff Level-0 table #23: 15938 bytes OK
+2025/02/11-13:46:22.872 2f7ff Delete type=0 #20
+2025/02/11-13:52:26.825 2f7ff Level-0 table #25: started
+2025/02/11-13:52:26.827 2f7ff Level-0 table #25: 18658 bytes OK
+2025/02/11-13:52:26.829 2f7ff Delete type=0 #22
+2025/02/11-13:57:00.001 2f7fe Level-0 table #27: started
+2025/02/11-13:57:00.004 2f7fe Level-0 table #27: 19452 bytes OK
+2025/02/11-13:57:00.007 2f7fe Delete type=0 #24
+2025/02/11-13:57:00.007 2f7fe Compacting 4@0 + 1@1 files
+2025/02/11-13:57:00.010 2f7fe Generated table #28@0: 47 keys, 13437 bytes
+2025/02/11-13:57:00.010 2f7fe Compacted 4@0 + 1@1 files => 13437 bytes
+2025/02/11-13:57:00.014 2f7fe compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/11-13:57:00.014 2f7fe Delete type=2 #19
+2025/02/11-13:57:00.014 2f7fe Delete type=2 #21
+2025/02/11-13:57:00.014 2f7fe Delete type=2 #23
+2025/02/11-13:57:00.014 2f7fe Delete type=2 #25
+2025/02/11-13:57:00.014 2f7fe Delete type=2 #27

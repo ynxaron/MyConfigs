@@ -1,15 +1,15 @@
 #  ##         ##
-#   ##       ##                 ##
-#    ||     ||   ||##      ||    \\
-#     ##   ##    ## #      ##     &&
-#      || ||     ||  #     ||      \\     //
+#   &&       &&                 ##
+#    ##     ##   ||##      ||    \\
+#     &&   &&    ## #      ##     &&       &&
+#      ## ##     ||  #     ||      \\     //
 #       &&&      ##   #    ##       &&   &&
-#       ##       ||    #   ||        \\ //
-#       ||       ##     #  ##         ##
-#       ##       ||      # ||        //\\
-#       ||       ||      ##||       //  \\
+#       ##       ||    #   ||   ..   \\ //
+#       ##       ##     #  ##   ..    ##
+#       &&       ||      # ||   ..   //\\
+#       ##       ||      ##||       //  \\
 #       ##                         &&    &&
-#                                         \\
+#                 @ynx.aron               \\
 #                                          ##
 # Exporting $Variables
 export ZSH="$HOME/.oh-my-zsh"
@@ -21,56 +21,53 @@ export PATH=$PATH:/home/ynx/.cargo/bin
 ###########################[PATHS]##################################
 
 # oh-my-zsh Themes
-plugins=(git copypath zsh-autosuggestions zsh-syntax-highlighting zsh-interactive-cd zsh-navigation-tools web-search)
-
-
-#######################[ALIASES and FUNCTIONS]#######################
-function pkgsearch() {
-	yay -Qq | grep $1
-}
-
-function y() {
-	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
-	yazi "$@" --cwd-file="$tmp"
-	if cwd="$(command cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
-		builtin cd -- "$cwd"
-	fi
-	rm -f -- "$tmp"
-}
-
-function rm() {
-	if [ -d $1 ]; then
-        echo "The Input is a Folder"
-	    if [ -z "$(ls -A $1)" ]; then
-					echo "The Given Folder is Empty. Moving Folder to ~/.trash"
-		else
-	                echo "Moving Folder to ~/.trash"
-		fi
-	else
-        echo "The Input is a File. Moving it to ~/.trash"
-    fi
-    mv $1 ~/.trash/
-}
-
-#
-alias cd=z
-alias cdi=zi
-alias ls='~/.cargo/bin/lsd'
-alias pftch=~/.cargo/bin/pfetch
-alias nch='ping -c 5 8.8.8.8'
-#
-alias kbedit='nvim /home/ynx/.config/hypr/keybindings.conf'
-alias zshedit='nvim /home/ynx/.config/.zshrc'
-alias nuedit='nvim /home/ynx/.config/nushell'
-#
-#######################[ALIASES and FUNCTIONS]#######################
-
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-interactive-cd zsh-navigation-tools)
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 # POWERLEVEL9K
 source $ZSH/oh-my-zsh.sh
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
+#######################[ALIASES and FUNCTIONS]#######################
+function pkgsearch() {
+	yay -Qq | grep $1
+}
+function y() {
+	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
+	yazi "$@" --cwd-file="$tmp"
+	if cwd="$(command cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
+		builtin cd -- "$cwd"
+	fi
+	mv "$tmp" ~/.trash/
+}
+function rm() {
+	if [ -d $1 ]; then
+        echo "The Input is a Folder"
+	    if [ -z "$(ls -A $1)" ]; then
+					echo "The Given Folder is Empty. Moving Folder to Trash"
+		else
+	                echo "Moving Folder to Trash"
+		fi
+	else
+        echo "The Input is a File. Moving it to Trash"
+    fi
+    mv $1 ~/.local/share/Trash/files
+}
+
+#
+alias cd=z
+alias cdi=zi
+alias ls='~/.cargo/bin/lsd'
+alias pftch='~/.cargo/bin/pfetch'
+alias nch='ping -c 5 8.8.8.8'
+#
+alias kbedit='nvim /home/ynx/.config/hypr/keybindings.conf'
+alias zshedit='nvim /home/ynx/.config/zshrc'
+alias nuedit='nvim /home/ynx/.config/nushell'
+alias zcnfedit='zed ~/.config'
+alias ncnfedit='nvim ~/.config'
+#
+#######################[ALIASES and FUNCTIONS]#######################
 # ATUIN
 . "$HOME/.atuin/bin/env"
 eval "$(atuin init zsh)"
@@ -78,4 +75,5 @@ eval "$(atuin init zsh)"
 # ZOXIDE
 eval "$(zoxide init zsh)"
 
+# NEOFETCH
 pftch

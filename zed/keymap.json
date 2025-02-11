@@ -13,20 +13,24 @@
     }
   },
   {
-    "context": "Editor",
-    "bindings": {
-      // "j k": ["workspace::SendKeystrokes", "escape"]
-    }
-  },
-  {
     "context": "Terminal",
     "bindings": {
       "cmd-`": "workspace::ToggleBottomDock"
+    }
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "alt-k": "editor::Hover",
+      "gd": "editor::GoToDefinition",
+      "ctrl-tab": "editor::Tab",
+      "ctrl-left": "pane::ActivatePrevItem",
+      "ctrl-right": "pane::ActivateNextItem",
+      "ctrl-c": "pane::CloseActiveItem"
     }
   }
 ]
 //s, see the Zed
 // documentation: https://zed.dev/docs/key-bindings
 //
-// To see the default key bindings run `zed: open default keymap`
-// from the command palette.
+// To see the default key bindings run `zed: open default keymap` // from the command palette.

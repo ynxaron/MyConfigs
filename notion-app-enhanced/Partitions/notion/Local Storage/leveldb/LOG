@@ -1,0 +1,7 @@
+2025/02/08-15:58:20.703 209e7 Reusing MANIFEST /home/ynx/.config/notion-app-enhanced/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2025/02/08-15:58:20.703 209e7 Recovering log #3
+2025/02/08-15:58:20.707 209e7 Level-0 table #3: started
+2025/02/08-15:58:20.710 209e7 Level-0 table #3: 284794 bytes OK
+2025/02/08-15:58:20.713 209e7 Delete type=0 #3
+2025/02/08-15:58:50.640 20a0d Level-0 table #6: started
+2025/02/08-15:58:50.647 20a0d Level-0 table #6: 284590 bytes OK

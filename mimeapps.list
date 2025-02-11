@@ -1,7 +1,11 @@
 [Default Applications]
 inode/directory=org.kde.dolphin.desktop
+x-scheme-handler/discord=vesktop.desktop
+application/x-partial-download=vlc.desktop
 
 [Added Associations]
 text/markdown=typora.desktop;
 image/png=org.kde.gwenview.desktop;
 application/pdf=okularApplication_pdf.desktop;
+application/x-partial-download=vlc.desktop;
+video/x-matroska=vlc.desktop;

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunknotion_next=globalThis.webpackChunknotion_next||[]).push([[36751],{300729:(n,o,t)=>{t.d(o,{A:()=>a().A});var a=()=>t(788680)}}]);

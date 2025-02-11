@@ -7,6 +7,17 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "features": {
+    "inline_completion_provider": "none"
+  },
+  "assistant": {
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "claude-3-5-sonnet-latest"
+    },
+    "version": "2"
+  },
+  "icon_theme": "Catppuccin Latte",
   "telemetry": {
     "diagnostics": false,
     "metrics": false
@@ -22,10 +33,10 @@
   },
   "restore_on_startup": "last_session",
   "autoscroll_on_clicks": true,
-  "buffer_font_size": 18,
+  "buffer_font_size": 19.0,
   "theme": {
     "mode": "system",
-    "light": "One Dark",
-    "dark": "One Dark"
+    "light": "Catppuccin Mocha (Blur)",
+    "dark": "Catppuccin Mocha (Blur)"
   }
 }

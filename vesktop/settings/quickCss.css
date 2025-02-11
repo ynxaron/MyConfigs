@@ -1,0 +1,73 @@
+
+:root {
+	--accent-color: #402952;
+	--border-color: #674B7D;
+	--background-1: #23162D;
+	--background-2: #563A6B;
+	--background-tertiary: #23162D66;
+	--background-mentioned: #6B4B7D !important;
+	--background-mentioned-hover: #593A6B !important;
+	--background-modifier-hover: #8F5778 !important;
+	--background-modifier-active: #8F575A !important;
+	--text-normal: #FFFFFF !important;
+	--text-positive: #FFCCEA !important;
+	--text-muted: #FFFFFF66 !important;
+	--text-link: #CE3B43 !important;
+  --channel-default: #FFFFFF99 !important;
+	--button-background: #23162D !important;
+	--button-background-hover: #23162D !important;
+	--button-background-active: #23162D !important;
+	--button-accent: #23162D !important;
+	--button-accent-hover: #23162D !important;
+	--button-accent-active: #23162D !important;
+	--button-destructive: #23162D !important;
+	--button-destructive-hover: #23162D !important;
+	--button-destructive-active: #23162D !important;
+	--settings-icon-color: #23162D !important;
+	--tab-selected: #23162D !important;
+	--switch: #23162D !important;
+
+	--background-primary: var(--background-1);
+	--background-primary-alt: var(--background-1);
+	--background-secondary: var(--background-tertiary);
+	--background-secondary-alt: var(--background-tertiary);
+	--background-accent-gradient: var(--background-1);
+	--background-floating: var(--background-2);
+	--background-modifier-selected: var(--accent-color);
+	--background-modifier-accent: var(--border-color);
+	--background-message-hover: transparent;
+	--interactive-selected: var(--background-primary);
+	--interactive-active: var(--text-positive);
+	--interactive-normal: var(--text-normal);
+  --interactive-muted: var(--text-muted);
+	--channels-default: var(--channel-default);
+	--header-primary: var(--text-normal);
+	--header-secondary: var(--text-muted);
+	--control-brand-foreground: var(--accent-color);
+	--info-warning-foreground: var(--accent-color);
+	--activity-card-background: var(--background-1);
+	--brand-experiment: var(--accent-color) !important;
+	--close-button-color: var(--accent-color);
+	--maximize-button-color: var(--accent-color);
+	--minimize-button-color: var(--accent-color);
+	--scrollbar-color-alt: var(--accent-color);
+	--scrollbar-thin-track: transparent;
+	--scrollbar-auto-thumb: transparent;
+	--scrollbar-auto-thumb-hover: var(--accent-color);
+	--scrollbar-auto-track: transparent;
+	--scrollbar-auto-scrollbar-color-thumb: var(--accent-color);
+	--scrollbar-auto-scrollbar-color-track: transparent;
+	--channeltextarea-background: var(--accent-color);
+	--channeltextarea-background-hover: var(--background-tertiary);
+	--avatar-roundess: 5px;
+}
+
+.theme-dark {
+	--background-primary: var(--background-1);
+	--background-primary-alt: var(--background-1);
+	--background-secondary: var(--background-tertiary);
+	--background-secondary-alt: var(--background-tertiary);
+	--background-floating: var(--background-2);
+	--background-mentioned: var(--accent-color);
+	--background-mentioned-hover: var(--scrollbar-auto-thumb);
+}

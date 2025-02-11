@@ -270,3 +270,362 @@ INFO 6/2/2025, 8:11:12 pm  ----------------before-quit-----------------
 INFO 6/2/2025, 8:11:12 pm  ------------------will-quit------------------
 INFO 6/2/2025, 8:11:12 pm  -----------------quit------------------
 INFO 6/2/2025, 8:11:12 pm  closeLogging
+INFO 8/2/2025, 1:27:50 pm  launch with argv [/usr/share/typora/Typora]
+INFO 8/2/2025, 1:27:50 pm  start LM in devVersion=false
+INFO 8/2/2025, 1:27:51 pm  [watch L]
+INFO 8/2/2025, 1:27:51 pm  ls put SLicense
+INFO 8/2/2025, 1:27:51 pm  [L] Read from incorrupted InstallDate
+INFO 8/2/2025, 1:27:51 pm  writeInstallDate fromBTime=true
+INFO 8/2/2025, 1:27:51 pm  ------------------start------------------
+INFO 8/2/2025, 1:27:51 pm  typora version: 1.9.3
+INFO 8/2/2025, 1:27:51 pm  [Raven] instanceKey = 0696911f-67ac-4f3c-b1c5-ec1a2b891e67
+INFO 8/2/2025, 1:27:51 pm  ls put IDate
+INFO 8/2/2025, 1:27:51 pm  [L] installDate is 2/8/2025, trail remains: 15 days
+INFO 8/2/2025, 1:27:51 pm  [watch L] hasL: false
+user-dict.json not found
+INFO 8/2/2025, 1:27:51 pm  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+INFO 8/2/2025, 1:27:51 pm  synced recovery
+INFO 8/2/2025, 1:27:51 pm  [focus] 1
+ERROR 8/2/2025, 1:27:51 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 8/2/2025, 1:27:51 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 8/2/2025, 1:27:51 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 8/2/2025, 1:27:51 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 8/2/2025, 1:27:51 pm  handle document.loadData
+ERROR 8/2/2025, 1:27:51 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 8/2/2025, 1:27:51 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 8/2/2025, 1:27:51 pm  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 8/2/2025, 1:27:51 pm  [RenderProcess 1][Log] reset NodeMap
+INFO 8/2/2025, 1:27:51 pm  synced recovery
+INFO 8/2/2025, 1:27:51 pm  [RenderProcess 1][Log] onBecomeActive
+INFO 8/2/2025, 1:27:51 pm  [RenderProcess 1][Log] File.activeWindow = true
+INFO 8/2/2025, 1:27:52 pm  synced recovery
+INFO 8/2/2025, 1:27:52 pm  ----------------before-quit-----------------
+INFO 8/2/2025, 1:27:52 pm  ------------------will-quit------------------
+INFO 8/2/2025, 1:27:52 pm  -----------------quit------------------
+INFO 8/2/2025, 1:27:52 pm  closeLogging
+INFO 8/2/2025, 4:15:08 pm  launch with argv [/usr/share/typora/Typora]
+INFO 8/2/2025, 4:15:08 pm  start LM in devVersion=false
+INFO 8/2/2025, 4:15:08 pm  [watch L]
+INFO 8/2/2025, 4:15:08 pm  ls put SLicense
+INFO 8/2/2025, 4:15:08 pm  [L] installDate is 2/8/2025, trail remains: 15 days
+INFO 8/2/2025, 4:15:08 pm  [watch L] hasL: false
+INFO 8/2/2025, 4:15:08 pm  ------------------start------------------
+INFO 8/2/2025, 4:15:08 pm  typora version: 1.9.3
+INFO 8/2/2025, 4:15:08 pm  [Raven] instanceKey = 1fd3360d-e350-461c-881d-dce0cf47325c
+user-dict.json not found
+INFO 8/2/2025, 4:15:08 pm  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+INFO 8/2/2025, 4:15:08 pm  synced recovery
+INFO 8/2/2025, 4:15:08 pm  [focus] 1
+ERROR 8/2/2025, 4:15:08 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 8/2/2025, 4:15:08 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 8/2/2025, 4:15:08 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 8/2/2025, 4:15:08 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 8/2/2025, 4:15:08 pm  handle document.loadData
+ERROR 8/2/2025, 4:15:08 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 8/2/2025, 4:15:08 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 8/2/2025, 4:15:08 pm  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 8/2/2025, 4:15:08 pm  [RenderProcess 1][Log] reset NodeMap
+INFO 8/2/2025, 4:15:08 pm  synced recovery
+INFO 8/2/2025, 4:15:09 pm  [RenderProcess 1][Log] onBecomeActive
+INFO 8/2/2025, 4:15:09 pm  [RenderProcess 1][Log] File.activeWindow = true
+INFO 8/2/2025, 4:15:09 pm  [blur] 1
+INFO 8/2/2025, 4:15:09 pm  [win] blur
+INFO 8/2/2025, 4:15:44 pm  [focus] 1
+INFO 8/2/2025, 4:16:29 pm  synced recovery
+INFO 8/2/2025, 4:16:29 pm  ----------------before-quit-----------------
+INFO 8/2/2025, 4:16:29 pm  ------------------will-quit------------------
+INFO 8/2/2025, 4:16:29 pm  -----------------quit------------------
+INFO 8/2/2025, 4:16:29 pm  closeLogging
+INFO 11/2/2025, 11:19:10 am  launch with argv [/usr/share/typora/Typora, /home/ynx/uptime.md]
+INFO 11/2/2025, 11:19:10 am  start LM in devVersion=false
+INFO 11/2/2025, 11:19:11 am  [watch L]
+INFO 11/2/2025, 11:19:11 am  ls put SLicense
+INFO 11/2/2025, 11:19:11 am  [L] installDate is 2/8/2025, trail remains: 12 days
+INFO 11/2/2025, 11:19:11 am  [watch L] hasL: false
+INFO 11/2/2025, 11:19:11 am  ------------------start------------------
+INFO 11/2/2025, 11:19:11 am  typora version: 1.9.3
+INFO 11/2/2025, 11:19:11 am  addRecentDocument
+INFO 11/2/2025, 11:19:11 am  [Raven] instanceKey = 905b4179-7ebf-4c7d-988c-db509a61497f
+INFO 11/2/2025, 11:19:11 am  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+user-dict.json not found
+INFO 11/2/2025, 11:19:11 am  synced recovery
+INFO 11/2/2025, 11:19:11 am  [focus] 1
+ERROR 11/2/2025, 11:19:11 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 11:19:11 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 11:19:11 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 11:19:11 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 11/2/2025, 11:19:11 am  handle document.loadData
+ERROR 11/2/2025, 11:19:11 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 11:19:11 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 11/2/2025, 11:19:11 am  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 11/2/2025, 11:19:11 am  [RenderProcess 1][Log] reset NodeMap
+INFO 11/2/2025, 11:19:11 am  [RenderProcess 1][Log] readContentFrom /home/ynx/uptime.md
+INFO 11/2/2025, 11:19:11 am  synced recovery
+INFO 11/2/2025, 11:19:11 am  [RenderProcess 1][Log] onBecomeActive
+INFO 11/2/2025, 11:19:11 am  [RenderProcess 1][Log] File.activeWindow = true
+INFO 11/2/2025, 11:19:13 am  synced recovery
+INFO 11/2/2025, 11:19:13 am  ----------------before-quit-----------------
+INFO 11/2/2025, 11:19:13 am  ------------------will-quit------------------
+INFO 11/2/2025, 11:19:13 am  -----------------quit------------------
+INFO 11/2/2025, 11:19:13 am  closeLogging
+INFO 11/2/2025, 11:24:01 am  launch with argv [/usr/share/typora/Typora]
+INFO 11/2/2025, 11:24:01 am  start LM in devVersion=false
+INFO 11/2/2025, 11:24:01 am  [watch L]
+INFO 11/2/2025, 11:24:01 am  ls put SLicense
+INFO 11/2/2025, 11:24:01 am  [L] installDate is 2/8/2025, trail remains: 12 days
+INFO 11/2/2025, 11:24:01 am  [watch L] hasL: false
+INFO 11/2/2025, 11:24:01 am  ------------------start------------------
+INFO 11/2/2025, 11:24:01 am  typora version: 1.9.3
+INFO 11/2/2025, 11:24:01 am  [Raven] instanceKey = 556d336b-0331-4d4c-9d2a-cc08a21c1340
+user-dict.json not found
+INFO 11/2/2025, 11:24:01 am  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+INFO 11/2/2025, 11:24:01 am  synced recovery
+INFO 11/2/2025, 11:24:01 am  [focus] 1
+ERROR 11/2/2025, 11:24:01 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 11:24:01 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 11:24:02 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 11:24:02 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 11/2/2025, 11:24:02 am  handle document.loadData
+ERROR 11/2/2025, 11:24:02 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 11:24:02 am  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 11/2/2025, 11:24:02 am  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 11/2/2025, 11:24:02 am  [RenderProcess 1][Log] reset NodeMap
+INFO 11/2/2025, 11:24:02 am  synced recovery
+INFO 11/2/2025, 11:24:02 am  [RenderProcess 1][Log] onBecomeActive
+INFO 11/2/2025, 11:24:02 am  [RenderProcess 1][Log] File.activeWindow = true
+INFO 11/2/2025, 11:24:03 am  [blur] 1
+INFO 11/2/2025, 11:24:03 am  [win] blur
+INFO 11/2/2025, 11:24:05 am  [focus] 1
+INFO 11/2/2025, 11:24:09 am  [blur] 1
+INFO 11/2/2025, 11:24:09 am  [win] blur
+INFO 11/2/2025, 11:24:09 am  [focus] 2
+INFO 11/2/2025, 11:24:09 am  [blur] 2
+INFO 11/2/2025, 11:24:09 am  [focus] 1
+INFO 11/2/2025, 11:24:09 am  [blur] 1
+INFO 11/2/2025, 11:24:09 am  [win] blur
+INFO 11/2/2025, 11:24:09 am  [focus] 2
+INFO 11/2/2025, 11:24:10 am  [focus] 1
+INFO 11/2/2025, 11:24:14 am  [blur] 1
+INFO 11/2/2025, 11:24:14 am  [win] blur
+INFO 11/2/2025, 11:24:14 am  [focus] 1
+INFO 11/2/2025, 11:24:15 am  [blur] 1
+INFO 11/2/2025, 11:24:15 am  [win] blur
+INFO 11/2/2025, 11:24:27 am  [focus] 1
+INFO 11/2/2025, 11:24:28 am  [blur] 1
+INFO 11/2/2025, 11:24:28 am  [win] blur
+INFO 11/2/2025, 11:24:29 am  [focus] 1
+INFO 11/2/2025, 11:24:29 am  [blur] 1
+INFO 11/2/2025, 11:24:29 am  [win] blur
+INFO 11/2/2025, 11:25:03 am  [focus] 1
+INFO 11/2/2025, 11:25:03 am  [blur] 1
+INFO 11/2/2025, 11:25:03 am  [win] blur
+INFO 11/2/2025, 11:25:04 am  [focus] 1
+INFO 11/2/2025, 11:25:07 am  synced recovery
+INFO 11/2/2025, 11:25:11 am  synced recovery
+INFO 11/2/2025, 11:25:14 am  synced recovery
+INFO 11/2/2025, 11:25:18 am  synced recovery
+INFO 11/2/2025, 11:25:20 am  synced recovery
+INFO 11/2/2025, 11:25:22 am  [blur] 1
+INFO 11/2/2025, 11:25:22 am  [win] blur
+INFO 11/2/2025, 11:25:22 am  synced recovery
+INFO 11/2/2025, 11:25:26 am  [focus] 1
+INFO 11/2/2025, 11:25:28 am  synced recovery
+INFO 11/2/2025, 11:25:35 am  synced recovery
+INFO 11/2/2025, 11:25:38 am  synced recovery
+INFO 11/2/2025, 11:25:41 am  synced recovery
+INFO 11/2/2025, 11:25:44 am  synced recovery
+INFO 11/2/2025, 11:25:47 am  synced recovery
+INFO 11/2/2025, 11:25:50 am  synced recovery
+INFO 11/2/2025, 11:25:53 am  synced recovery
+INFO 11/2/2025, 11:26:04 am  synced recovery
+INFO 11/2/2025, 11:26:07 am  synced recovery
+INFO 11/2/2025, 11:26:10 am  synced recovery
+INFO 11/2/2025, 11:26:28 am  synced recovery
+INFO 11/2/2025, 11:26:31 am  synced recovery
+INFO 11/2/2025, 11:26:34 am  synced recovery
+INFO 11/2/2025, 11:26:38 am  synced recovery
+INFO 11/2/2025, 11:26:40 am  [blur] 1
+INFO 11/2/2025, 11:26:40 am  [win] blur
+INFO 11/2/2025, 11:26:42 am  [focus] 1
+INFO 11/2/2025, 11:26:52 am  synced recovery
+INFO 11/2/2025, 11:26:56 am  synced recovery
+INFO 11/2/2025, 11:28:56 am  [blur] 1
+INFO 11/2/2025, 11:28:56 am  [win] blur
+INFO 11/2/2025, 11:30:39 am  [focus] 1
+INFO 11/2/2025, 11:30:45 am  synced recovery
+INFO 11/2/2025, 11:30:48 am  synced recovery
+INFO 11/2/2025, 11:30:51 am  synced recovery
+INFO 11/2/2025, 11:30:54 am  synced recovery
+INFO 11/2/2025, 11:30:57 am  synced recovery
+INFO 11/2/2025, 11:31:00 am  synced recovery
+INFO 11/2/2025, 11:31:04 am  synced recovery
+INFO 11/2/2025, 11:31:05 am  synced recovery
+INFO 11/2/2025, 11:31:08 am  synced recovery
+INFO 11/2/2025, 11:31:15 am  synced recovery
+INFO 11/2/2025, 11:31:18 am  synced recovery
+INFO 11/2/2025, 11:31:22 am  synced recovery
+INFO 11/2/2025, 11:31:23 am  synced recovery
+INFO 11/2/2025, 11:31:26 am  synced recovery
+INFO 11/2/2025, 11:31:29 am  synced recovery
+INFO 11/2/2025, 11:31:31 am  synced recovery
+INFO 11/2/2025, 11:31:35 am  synced recovery
+INFO 11/2/2025, 11:31:37 am  synced recovery
+INFO 11/2/2025, 11:31:42 am  synced recovery
+INFO 11/2/2025, 11:31:45 am  synced recovery
+INFO 11/2/2025, 11:31:49 am  synced recovery
+INFO 11/2/2025, 11:31:52 am  synced recovery
+INFO 11/2/2025, 11:31:55 am  synced recovery
+INFO 11/2/2025, 11:31:56 am  synced recovery
+INFO 11/2/2025, 11:31:59 am  synced recovery
+INFO 11/2/2025, 11:32:02 am  synced recovery
+INFO 11/2/2025, 11:32:03 am  synced recovery
+INFO 11/2/2025, 11:32:07 am  synced recovery
+INFO 11/2/2025, 11:32:10 am  synced recovery
+INFO 11/2/2025, 11:32:13 am  synced recovery
+INFO 11/2/2025, 11:32:16 am  synced recovery
+INFO 11/2/2025, 11:32:20 am  synced recovery
+INFO 11/2/2025, 11:32:21 am  synced recovery
+INFO 11/2/2025, 11:32:24 am  synced recovery
+INFO 11/2/2025, 11:32:27 am  synced recovery
+INFO 11/2/2025, 11:32:32 am  synced recovery
+INFO 11/2/2025, 11:32:35 am  synced recovery
+INFO 11/2/2025, 11:32:38 am  synced recovery
+INFO 11/2/2025, 11:32:41 am  synced recovery
+INFO 11/2/2025, 11:32:51 am  synced recovery
+INFO 11/2/2025, 11:32:52 am  synced recovery
+INFO 11/2/2025, 11:32:53 am  synced recovery
+INFO 11/2/2025, 11:32:57 am  synced recovery
+INFO 11/2/2025, 11:33:01 am  synced recovery
+INFO 11/2/2025, 11:33:05 am  [blur] 1
+INFO 11/2/2025, 11:33:05 am  [win] blur
+INFO 11/2/2025, 11:45:33 am  [focus] 1
+INFO 11/2/2025, 11:45:42 am  synced recovery
+INFO 11/2/2025, 11:45:45 am  synced recovery
+INFO 11/2/2025, 11:45:48 am  synced recovery
+INFO 11/2/2025, 11:45:52 am  synced recovery
+INFO 11/2/2025, 11:45:55 am  synced recovery
+INFO 11/2/2025, 11:45:59 am  synced recovery
+INFO 11/2/2025, 11:46:01 am  synced recovery
+INFO 11/2/2025, 11:46:22 am  synced recovery
+INFO 11/2/2025, 11:46:24 am  synced recovery
+INFO 11/2/2025, 11:46:30 am  synced recovery
+INFO 11/2/2025, 11:46:32 am  synced recovery
+INFO 11/2/2025, 11:46:46 am  synced recovery
+INFO 11/2/2025, 11:46:56 am  synced recovery
+INFO 11/2/2025, 11:47:01 am  synced recovery
+INFO 11/2/2025, 11:47:03 am  synced recovery
+INFO 11/2/2025, 11:47:05 am  synced recovery
+INFO 11/2/2025, 11:47:07 am  synced recovery
+INFO 11/2/2025, 11:47:10 am  synced recovery
+INFO 11/2/2025, 11:47:36 am  synced recovery
+INFO 11/2/2025, 11:47:38 am  synced recovery
+INFO 11/2/2025, 11:47:45 am  synced recovery
+INFO 11/2/2025, 11:47:51 am  synced recovery
+INFO 11/2/2025, 11:47:54 am  synced recovery
+INFO 11/2/2025, 11:47:57 am  synced recovery
+INFO 11/2/2025, 11:48:01 am  synced recovery
+INFO 11/2/2025, 11:48:02 am  synced recovery
+INFO 11/2/2025, 11:48:04 am  synced recovery
+INFO 11/2/2025, 11:48:08 am  synced recovery
+INFO 11/2/2025, 11:48:11 am  synced recovery
+INFO 11/2/2025, 11:48:15 am  synced recovery
+INFO 11/2/2025, 11:48:18 am  synced recovery
+INFO 11/2/2025, 11:48:30 am  synced recovery
+INFO 11/2/2025, 11:48:32 am  synced recovery
+INFO 11/2/2025, 11:48:34 am  synced recovery
+INFO 11/2/2025, 11:48:38 am  synced recovery
+INFO 11/2/2025, 11:48:39 am  synced recovery
+INFO 11/2/2025, 11:48:42 am  synced recovery
+INFO 11/2/2025, 11:48:43 am  synced recovery
+INFO 11/2/2025, 11:48:46 am  synced recovery
+INFO 11/2/2025, 11:49:05 am  synced recovery
+INFO 11/2/2025, 11:49:31 am  synced recovery
+INFO 11/2/2025, 11:49:34 am  synced recovery
+INFO 11/2/2025, 11:49:37 am  synced recovery
+INFO 11/2/2025, 11:49:40 am  synced recovery
+INFO 11/2/2025, 11:49:44 am  synced recovery
+INFO 11/2/2025, 11:49:48 am  synced recovery
+INFO 11/2/2025, 11:50:03 am  [blur] 1
+INFO 11/2/2025, 11:50:03 am  [win] blur
+INFO 11/2/2025, 11:50:12 am  [focus] 1
+INFO 11/2/2025, 11:50:12 am  [blur] 1
+INFO 11/2/2025, 11:50:12 am  [win] blur
+INFO 11/2/2025, 11:50:13 am  addRecentDocument
+INFO 11/2/2025, 11:50:13 am  [focus] 1
+INFO 11/2/2025, 11:50:14 am  synced recovery
+INFO 11/2/2025, 11:50:14 am  ----------------before-quit-----------------
+INFO 11/2/2025, 11:50:14 am  ------------------will-quit------------------
+INFO 11/2/2025, 11:50:14 am  -----------------quit------------------
+INFO 11/2/2025, 11:50:14 am  closeLogging

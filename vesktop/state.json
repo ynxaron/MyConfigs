@@ -3,10 +3,11 @@
     "windowBounds": {
         "x": 0,
         "y": 0,
-        "width": 940,
-        "height": 672
+        "width": 1280,
+        "height": 720
     },
     "displayid": 51,
-    "maximized": true,
-    "minimized": false
+    "maximized": false,
+    "minimized": false,
+    "displayId": 53
 }

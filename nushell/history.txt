@@ -455,3 +455,561 @@ cd ..
 cd .config/hypr/
 vim keybindings.conf
 cd ..
+epiphany 
+yay -Rs epiphany
+yay -Rs firefox
+fastfetch 
+yay -Rs pfetch
+cargo install pfetch
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+cargo
+cargo install pfetch
+pfetch
+.cargo/bin/pfetch
+vim ~/.config/nushell/config.nu
+mkdir repos
+cd repos/
+git clone https://github.com/Gobidev/pfetch-rs/tree/main
+https://github.com/Gobidev/pfetch-rs
+git clone https://github.com/Gobidev/pfetch-rs
+cd pfetch-rs/
+l
+ls
+cd src/
+cargo run
+rustc main.rs
+rustup
+rustc
+cargo install rustc
+yay -S rustup
+rustup
+rustc
+rustc main.rs
+ls
+rustc lib.rs
+cd ..
+cd pfetch-rs/
+cargo run
+neofetch
+fastfetch 
+pfetch
+cd repos/pfetch-rs/
+ls
+cd assets/
+ls
+cd logos/
+ls
+cd repos/pfetch-rs/assets/
+ls
+cd logos/
+ls
+mv cachyos.svg ../
+mv ~/Downloads/
+mv ~/Downloads/CachyOS_Logo.svg ..
+ls
+cd ..
+ls
+mv CachyOS_Logo.svg logos/
+cd
+cd repos/
+git build --release
+cargo build --release
+cd pfetch-rs/
+cargo build --release
+cd target/
+ls
+cd release/
+ls
+./pfetch
+zed .VIP/github_token.md
+git clone https://github.com/ynxaron/Codes
+cd Codes/
+cd .git/
+ls
+cd ..
+ls
+cd
+git clone https://github.com/ynxaron/Writings
+cd .config/Typora/
+cd themes/
+s
+l
+ls
+yay -S typora
+yay -S logseq
+yay -Ss logseq
+yay -S logseq-desktop
+yay -Ss logseq
+yay -Ss logseq-desktop-bin
+yay -S logseq-desktop-bin
+yay -Ss logseq-desktop-bin
+yay -Ss logseq-desktop
+yay -S logseq-desktop
+cd repos
+git clone https://aur.archlinux.org/logseq-desktop.git
+cd logseq-desktop/
+makepkg -si
+yay -Ss capacities
+yay -Ss notion
+mkdir Videos/
+mkdir neetcode
+cd neetcode/
+yt-dlp -o "%(playlist_index)s_%(title)s.%(ext)s" 'https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr'
+yay -S yt-dlp
+yay -Ss rotion-bin
+pfetch
+.cargo/bin/pfetch
+exit
+yt-dlp -o "%(playlist_index)s_%(title)s.%(ext)s" 'https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr'
+yay -S rotion-bin
+yay -Rs electron
+yay -Qq | grep "electron"
+yay -Rs electron32
+yay -Rs electron32 code
+yay -Ss appflowy
+nvim
+yay -S nivm
+yay -S nvim
+yay -S neovim
+nvim
+cd ~/.config/nvim
+ls
+cd ..
+lsd
+yay -S lsd
+yay -S appflowy-git
+cargo install lsd
+lsd
+config nu
+vim
+nvim .config/nushell/config.nu
+yay
+cd
+cd .config/nushell/
+ls
+zed config.nu
+lsd
+echo $env.PATH
+nvim
+vim
+cd
+zed
+nch
+pfetch
+vim
+nch
+~/.cargo/bin/lsd
+cd ~/.cargo/bin/
+ls
+cd
+ls
+cd Downloads/
+ls
+cd
+thunar
+yay -S thunar
+cd .config/
+git status
+git diff
+cd .repos
+ls -l
+ls -a
+cd .repos
+mkdir .repos
+cd .repos
+git clone https://aur.archlinux.org/cohesion-git.git
+cd cohesion-git/
+cd ..
+rm -rf cohesion-git/
+yay -Ss excalidraw
+yay -S revezone
+yay -S anytype
+yay -Ss davinci
+yay -Ss davinci-resolve-studio
+yay -S davinci-resolve-studio
+yay -S spotify
+yay -Qq | grep "electron"
+sudo chmod a+wr /opt/spotify
+sudo chmod a+wr /opt/spotify/Apps -R
+curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+yay -S spicetify-cli
+curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+spicetify backup apply
+curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+yay -Ss marktext
+yay -S marktext-bin
+yay -S marktext
+yay -S vesktop
+cd Downloads/
+ls
+chmod +x Notion-2.0.18-1.AppImage
+./Notion-2.0.18-1.AppImage
+ls
+rm Notion-2.0.18-1.AppImage
+chmod +x Notion-Enhanced-2.0.18-1.AppImage
+./Notion-Enhanced-2.0.18-1.AppImage
+cd ../.repos/
+git clone https://aur.archlinux.org/notion-app-enhanced.git
+cd notion-app-enhanced/
+makepkg -si
+yay -Qq | grep "notion"
+yay -Rs notion-app-enhanced
+cd repos/
+echo "All My repos" >> ~/README.md
+vim README.md
+git init
+git add README.md
+git commit -m "first commit"
+git config --global user.email "ynx.aron@outlook.com"
+git config --global user.name "ynxaron"
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ynxaron/repos.git
+git push -u origin main
+vim .VIP/github_token.md
+zed .VIP/github_token.md
+git add *
+git commit -m "Adding existing repos"
+git push -u origin main
+yay -Ss appflowy
+yay -S appflowy
+yay -Rs appflowy
+yay -Rs appflowy-bin
+yay -Ss obsidian
+yay -S obsidian
+yay -Rs obsidian
+ls
+bat
+bat install.log
+rm install.log
+ls
+cd Writings/
+ls
+sddm
+cd .config/
+dunst
+ls
+zed .config/waybar/
+zed Codes/leetcode/
+python Hard/014_Trapping_Rain_Water.py
+mpv
+yay -S mpv
+vlc
+ani-cli -d
+cd .config/
+rm -r nvim
+git clone --depth 1 https://github.com/AstroNvim/template ~/.config/nvim
+rm -rf nvim/.git
+nvim
+nvim Codes/leetcode/
+yay -S neovide
+nvim ~/.config/nushell/config.nu
+nv Codes/leetcode/
+cd .config/
+rm -rf nvim
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+rm -rf ~/.config/nvim/.git
+nv
+zed Codes/leetcode/
+which $SHElL
+which $env.SHELL
+srchpkg 
+srchpkg yay
+nv ~/.config/nushell/config.nu
+yay -S gparted
+gparted 
+zed .config
+yay -S zoxide
+zoxide 
+zed .config/nushell/
+z
+which cd
+fzf
+yay
+yay -S ytui-bin
+ytui query search "hey jude"
+cat $HOME/.config/ytui/ytui.log
+bat ~/.config/ytui/ytui.log
+zed ~/.config/ytui/ytui.log
+yay -Rs ytui-bin
+yay -S ytui-music
+yay -S yazi
+yazi
+mv HyDE ~/.repos/
+zed .config/nushell/
+y
+z
+cd
+z
+zoxide 
+zoxide init nushell | save -f ~/.zoxide.nu
+cd
+$nu.env-path
+cd .config/nushell/
+zed .config/nushell/
+nv
+z
+cd
+zed .config/nushell/
+zed .config/nushell/
+y
+zed .config/nushell/
+y
+cd .config/
+mkdir yazi
+cd yazi
+touch yazi.toml
+touch keymap.toml
+touch theme.toml
+ls
+zed .
+y
+ya pack -a dangooddd/kanagawa
+cd flavors/
+ls
+y
+z
+curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh
+z
+zed ../nushell/
+z
+y
+z
+cd
+which cd
+cd Downloads/
+cd ../Pictures/
+ls
+cd ../.repos/
+ls
+cd 
+y
+cd 
+cd .config/nushell/
+zed .
+echo $3nv.EDITOR
+echo $env.EDITOR
+8px-CachyOS_Logo.svg.png
+y
+ani-cli
+yay -S ani-cli
+nch
+mkdir Videos/Anime
+ani-cli -d
+rm -r Videos/Anime/
+mkdir -p Videos/Anime/Ranma
+ls
+mpv `Ranma ½ Episode 1.mp4`
+mkdir Videos/Anime
+mkdir Videos/Anime/Ranma_1/2
+mv `Ranma ½ Episode 1.mp4` Videos/Anime/Ranma_1/
+zed Codes/leetcode/
+zed .config/zed/keymap.json
+cd .config/zed
+ls
+zed .config/zed
+yay -S 7zz
+yay -Ss 7zz
+yay -Ss 7z
+yay -S 7z
+yay -S 7zip
+y
+yay -S tldr
+tealdeer
+yay -Rs tealdeer
+fish
+yay -S spotify-tui
+spotify 
+spotify-tui
+spt
+spotify-tui
+spt 
+yay -Rs spt
+which spt
+sudo rm /usr/bin/spt
+yay -S ytui-music
+yay -S ytui-bin
+ytui query search "hey jude"
+yay -Rs ytui-bin
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh
+curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh 
+fish
+nvim homebrew.sh
+chmod +x homebrew.sh
+./homebrew.sh
+ls
+rm homebrew.sh
+yay -Ss atuin
+yay -S atuin
+atuin
+atuin history
+atuin history start
+yay -Rs atuin
+curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh
+atuin register -u ynxaron -e ynx.aron@outlook.com
+atuin
+fish
+zed .config/nushell
+which cd
+z
+atuin register -u ynxaron -e ynx.aron@outlook.com
+atuin key
+vim ~/.VIP/atuin_key.md
+cd ..
+atuin import auto
+atuin sync
+atuin
+atuin -h
+tldr atuin
+tldr --update
+tldr atuin
+mkdir ~/.local/share/atuin/
+atuin init nu | save ~/.local/share/atuin/init.nu
+zed .config/nushell
+atuin sync
+zed .config/nushell
+srchpkg atuin
+which srchpkg
+curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh
+atuin login
+atuin import auto
+atuin sync
+mkdir ~/.local/share/atuin/
+atuin init nu | save ~/.local/share/atuin/init.nu
+zed .config/nushell
+atuin 
+.local/bin/
+cd ..
+z
+y
+z
+cd
+z
+cd
+y
+y --clear-cache
+y
+z
+cd
+which cd
+dust
+yay -S dust
+dust
+dust --print-error
+dust --print-errors
+btop
+btop --utf-force
+btop
+btop --utf-force
+ls
+cd Downloads/
+ls
+cd Downloads/
+z
+zed .config/nushell
+cd
+z
+clr
+cd
+zoxide init nushell | save -f ~/.zoxide.nu
+cd
+source ~/.zoxide.nu
+cd
+srchpkg zox
+yay -Rs zoxide
+curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh
+zed .config/nushell
+cd
+which zoxide
+cd
+curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh
+which cd
+z
+cd
+pfetch
+which pfetch
+cd 
+source ~/.zoxide.nu
+z
+yay -S zoxide
+zoxide
+z
+cd
+z
+zi
+z
+zed .config/nushell
+cd
+which cd
+z
+cd
+z
+zed .config/nushell
+zoxide init nushell
+zoxide init nushell | save -f ~/.zoxide.nu
+__zoxide_z 
+cd
+which nu
+z
+cd
+pfetch
+cd
+zed .config/nushell
+srchpkg z
+srchpkg yay
+y
+z
+vim .zoxide.nu
+zed .zoxide.nu
+cd
+zed .zoxide.nu
+zed .config/nushell
+y
+cd
+which cd
+z
+which z
+cd
+z
+which z
+z down
+cd
+d Videos/
+z down
+y
+cd 
+cd
+z
+y
+cd
+z
+cd
+z
+y
+cd
+z
+cd
+z
+d Downloads/
+vim ~/.config/nushell/config.nu
+file ~/.cargo/bin/nu
+cd
+z
+which cd
+zed .config/nushell
+which z
+which __z
+__zoxide_z 
+which __zoxide_z
+z
+which __zoxide_z
+which z
+cd
+__zoxide_z 
+cd
+z
+z vip
+y
+cd ~/Codes/
+history | zed

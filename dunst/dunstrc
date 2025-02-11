@@ -9,7 +9,7 @@
 corner_radius = 10
 icon_corner_radius = 10
 dmenu = /usr/bin/rofi -config notification -dmenu -p dunst:
-icon_theme = "Tela-circle-dracula,Tela-circle-blue,Gruvbox-Plus-Dark,Tela-circle-purple,Tela-circle-yellow,Tela-circle-dracula,Wallbash-Icon,Tela-circle-pink,Tela-circle-black,Nordzy,Tela-circle-grey"
+icon_theme = "Tela-circle-dracula,Wallbash-Icon,Tela-circle-dracula,Tela-circle-grey,Tela-circle-pink,Tela-circle-purple,Tela-circle-black,Tela-circle-green,Tela-circle-yellow,Tela-circle-blue,Gruvbox-Plus-Dark,Nordzy"
 
 
 # [Type-1]
@@ -120,15 +120,15 @@ dmenu = /usr/bin/rofi -config notification -dmenu -p dunst:
 
 
 [urgency_low]
-    background = "#6565A380"
-    foreground = "#CCCCFFE6"
-    frame_color = "#6565A303"
+    background = "#A3658A80"
+    foreground = "#FFCCEAE6"
+    frame_color = "#A3658A03"
     icon = "/home/ynx/.local/share/icons/Wallbash-Icon/hyprdots.svg"
     timeout = 5
 
 [urgency_normal]
-    background = "#3A3C6B80"
-    foreground = "#CCCEFFE6"
-    frame_color = "#3A3C6B03"
+    background = "#593A6B80"
+    foreground = "#EDCCFFE6"
+    frame_color = "#593A6B03"
     icon = "/home/ynx/.local/share/icons/Wallbash-Icon/hyprdots.svg"
     timeout = 5
