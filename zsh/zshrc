@@ -21,8 +21,9 @@ export PATH=$PATH:/home/ynx/.cargo/bin
 ###########################[PATHS]##################################
 
 # oh-my-zsh Themes
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-interactive-cd zsh-navigation-tools)
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-interactive-cd zsh-navigation-tools aliases fzf)
+
+#[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 # POWERLEVEL9K
 source $ZSH/oh-my-zsh.sh
@@ -57,9 +58,12 @@ function rm() {
 #
 alias cd=z
 alias cdi=zi
-alias ls='~/.cargo/bin/lsd'
+alias ls='lsd'
+alias lsa='lsd -a'
 alias pftch='~/.cargo/bin/pfetch'
 alias nch='ping -c 5 8.8.8.8'
+alias ds=dust
+alias clr=clear
 #
 alias kbedit='nvim /home/ynx/.config/hypr/keybindings.conf'
 alias zshedit='nvim /home/ynx/.config/zshrc'
@@ -75,5 +79,8 @@ eval "$(atuin init zsh)"
 # ZOXIDE
 eval "$(zoxide init zsh)"
 
+# Oh-My-Posh Initializing
+#eval "$(oh-my-posh init zsh --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/amro.omp.json)"
+
 # NEOFETCH
-pftch
+~/repos/shell-color-scripts/colorscript.sh -r

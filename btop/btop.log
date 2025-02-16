@@ -67,3 +67,26 @@ Use --utf-force argument to force start if you're sure your terminal can handle 
 2025/02/09 (21:56:26) | ===> btop++ v.1.4.0
 2025/02/09 (21:56:26) | WARNING: Intel GPU: Failed to initialize PMU
 2025/02/09 (23:13:47) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/12 (16:04:08) | ===> btop++ v.1.4.0
+2025/02/12 (16:04:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/12 (16:09:06) | ===> btop++ v.1.4.0
+2025/02/12 (16:09:06) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/12 (16:09:09) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/12 (16:26:35) | ===> btop++ v.1.4.0
+2025/02/12 (16:26:35) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/12 (16:29:56) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/13 (19:31:45) | ===> btop++ v.1.4.0
+2025/02/13 (19:31:45) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/13 (21:33:20) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/14 (17:25:00) | ===> btop++ v.1.4.0
+2025/02/14 (17:25:00) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/14 (17:46:25) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/16 (16:15:38) | ===> btop++ v.1.4.0
+2025/02/16 (16:15:38) | WARNING: Intel GPU: Failed to initialize PMU
+2025/02/16 (16:21:40) | WARNING: Failed to join _runner thread on exit!

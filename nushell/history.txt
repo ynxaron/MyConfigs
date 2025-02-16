@@ -1013,3 +1013,56 @@ z vip
 y
 cd ~/Codes/
 history | zed
+cd
+z
+z Videos/
+cd
+zed .config 
+cd
+cd Downloads/
+z Downloads/
+zed .config 
+pwd
+ls
+oh-my-posh nu zsh
+oh-my-posh init zsh
+oh-my-posh init zsh --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/amro.omp.json
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/amro.omp.json
+vim ~/.config/nushell/config.nu
+vim ~/.config/nushell
+cl Downloads/
+vim ~/.config/nushell
+z
+cl
+cd
+z
+vim ~/.config/nushell
+clr
+cd Downloads/
+ls
+lsd
+cd
+z
+cz 
+zed .config 
+cl Downloads/
+http get https://google.com
+http get localhost
+http get https://localhost
+https
+http
+http get localhost:1000
+http get https://127.0.0.1:300
+cd repos
+cargo new connections
+cd connections/
+cargo add axum
+cargo add tokio
+zed .
+zed ~/.config/zed
+zed .
+zed ~/.config/zed
+zed .
+http get https://127.0.0.1:8080
+http get http://127.0.0.1:8080
+http get https://127.0.0.1:8080

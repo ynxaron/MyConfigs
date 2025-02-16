@@ -629,3 +629,1107 @@ INFO 11/2/2025, 11:50:14 am  ----------------before-quit-----------------
 INFO 11/2/2025, 11:50:14 am  ------------------will-quit------------------
 INFO 11/2/2025, 11:50:14 am  -----------------quit------------------
 INFO 11/2/2025, 11:50:14 am  closeLogging
+INFO 11/2/2025, 4:02:08 pm  launch with argv [/usr/share/typora/Typora]
+INFO 11/2/2025, 4:02:08 pm  start LM in devVersion=false
+INFO 11/2/2025, 4:02:08 pm  [watch L]
+INFO 11/2/2025, 4:02:08 pm  ls put SLicense
+INFO 11/2/2025, 4:02:08 pm  [L] installDate is 2/8/2025, trail remains: 12 days
+INFO 11/2/2025, 4:02:08 pm  [watch L] hasL: false
+INFO 11/2/2025, 4:02:08 pm  ------------------start------------------
+INFO 11/2/2025, 4:02:08 pm  typora version: 1.9.3
+INFO 11/2/2025, 4:02:08 pm  [Raven] instanceKey = aa231e4c-7f20-419e-b3c1-539f02ca347f
+INFO 11/2/2025, 4:02:08 pm  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+user-dict.json not found
+INFO 11/2/2025, 4:02:08 pm  synced recovery
+INFO 11/2/2025, 4:02:08 pm  [focus] 2
+INFO 11/2/2025, 4:02:08 pm  [blur] 2
+INFO 11/2/2025, 4:02:08 pm  [win] blur
+INFO 11/2/2025, 4:02:08 pm  [focus] 1
+ERROR 11/2/2025, 4:02:08 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 4:02:08 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 4:02:09 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 4:02:09 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 11/2/2025, 4:02:09 pm  handle document.loadData
+ERROR 11/2/2025, 4:02:09 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 4:02:09 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 11/2/2025, 4:02:09 pm  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 11/2/2025, 4:02:09 pm  [RenderProcess 2][Log] reset NodeMap
+INFO 11/2/2025, 4:02:09 pm  synced recovery
+INFO 11/2/2025, 4:02:09 pm  [RenderProcess 2][Log] onBecomeActive
+INFO 11/2/2025, 4:02:09 pm  [RenderProcess 2][Log] File.activeWindow = true
+INFO 11/2/2025, 4:02:09 pm  [blur] 1
+INFO 11/2/2025, 4:02:09 pm  [focus] 2
+INFO 11/2/2025, 4:02:09 pm  [blur] 2
+INFO 11/2/2025, 4:02:09 pm  [win] blur
+INFO 11/2/2025, 4:02:09 pm  [focus] 1
+INFO 11/2/2025, 4:02:10 pm  [blur] 1
+INFO 11/2/2025, 4:02:10 pm  [focus] 2
+INFO 11/2/2025, 4:02:12 pm  [blur] 2
+INFO 11/2/2025, 4:02:12 pm  [win] blur
+INFO 11/2/2025, 4:02:12 pm  [focus] 1
+INFO 11/2/2025, 4:02:14 pm  [focus] 2
+INFO 11/2/2025, 4:02:19 pm  synced recovery
+INFO 11/2/2025, 4:02:19 pm  [blur] 2
+INFO 11/2/2025, 4:02:19 pm  [win] blur
+INFO 11/2/2025, 4:02:21 pm  [focus] 2
+INFO 11/2/2025, 4:02:21 pm  [blur] 2
+INFO 11/2/2025, 4:02:21 pm  [win] blur
+INFO 11/2/2025, 4:02:22 pm  [focus] 2
+INFO 11/2/2025, 4:02:26 pm  synced recovery
+INFO 11/2/2025, 4:02:29 pm  synced recovery
+INFO 11/2/2025, 4:02:32 pm  synced recovery
+INFO 11/2/2025, 4:02:34 pm  synced recovery
+INFO 11/2/2025, 4:02:38 pm  synced recovery
+INFO 11/2/2025, 4:02:38 pm  [blur] 2
+INFO 11/2/2025, 4:02:38 pm  [win] blur
+INFO 11/2/2025, 4:02:45 pm  [focus] 2
+INFO 11/2/2025, 4:02:47 pm  synced recovery
+INFO 11/2/2025, 4:02:48 pm  [blur] 2
+INFO 11/2/2025, 4:02:48 pm  [win] blur
+INFO 11/2/2025, 4:02:49 pm  [focus] 2
+INFO 11/2/2025, 4:02:49 pm  [blur] 2
+INFO 11/2/2025, 4:02:49 pm  [win] blur
+INFO 11/2/2025, 4:02:53 pm  [focus] 2
+INFO 11/2/2025, 4:02:55 pm  synced recovery
+INFO 11/2/2025, 4:02:57 pm  synced recovery
+INFO 11/2/2025, 4:02:57 pm  [blur] 2
+INFO 11/2/2025, 4:02:57 pm  [win] blur
+INFO 11/2/2025, 4:02:58 pm  [focus] 2
+INFO 11/2/2025, 4:03:01 pm  synced recovery
+INFO 11/2/2025, 4:03:04 pm  synced recovery
+INFO 11/2/2025, 4:03:07 pm  synced recovery
+INFO 11/2/2025, 4:03:10 pm  synced recovery
+INFO 11/2/2025, 4:03:12 pm  synced recovery
+INFO 11/2/2025, 4:03:19 pm  [blur] 2
+INFO 11/2/2025, 4:03:19 pm  [win] blur
+INFO 11/2/2025, 4:03:20 pm  [focus] 2
+INFO 11/2/2025, 4:03:20 pm  [blur] 2
+INFO 11/2/2025, 4:03:20 pm  [win] blur
+INFO 11/2/2025, 4:04:53 pm  [focus] 2
+INFO 11/2/2025, 4:04:53 pm  [blur] 2
+INFO 11/2/2025, 4:04:53 pm  [win] blur
+INFO 11/2/2025, 4:04:58 pm  [focus] 2
+INFO 11/2/2025, 4:04:58 pm  [blur] 2
+INFO 11/2/2025, 4:04:58 pm  [win] blur
+INFO 11/2/2025, 4:05:00 pm  [focus] 2
+INFO 11/2/2025, 4:05:01 pm  [blur] 2
+INFO 11/2/2025, 4:05:01 pm  [win] blur
+INFO 11/2/2025, 4:05:02 pm  [focus] 2
+INFO 11/2/2025, 4:05:03 pm  [blur] 2
+INFO 11/2/2025, 4:05:03 pm  [win] blur
+INFO 11/2/2025, 4:05:06 pm  [focus] 2
+INFO 11/2/2025, 4:05:06 pm  [blur] 2
+INFO 11/2/2025, 4:05:06 pm  [win] blur
+INFO 11/2/2025, 4:06:17 pm  [focus] 2
+INFO 11/2/2025, 4:06:20 pm  synced recovery
+INFO 11/2/2025, 4:06:23 pm  synced recovery
+INFO 11/2/2025, 4:06:26 pm  synced recovery
+INFO 11/2/2025, 4:06:31 pm  synced recovery
+INFO 11/2/2025, 4:06:32 pm  synced recovery
+INFO 11/2/2025, 4:06:34 pm  synced recovery
+INFO 11/2/2025, 4:06:37 pm  [blur] 2
+INFO 11/2/2025, 4:06:37 pm  [win] blur
+INFO 11/2/2025, 4:06:37 pm  synced recovery
+INFO 11/2/2025, 4:08:11 pm  [focus] 2
+INFO 11/2/2025, 4:08:12 pm  [blur] 2
+INFO 11/2/2025, 4:08:12 pm  [win] blur
+INFO 11/2/2025, 4:09:27 pm  [focus] 2
+INFO 11/2/2025, 4:09:28 pm  [blur] 2
+INFO 11/2/2025, 4:09:28 pm  [win] blur
+INFO 11/2/2025, 4:09:29 pm  [focus] 2
+INFO 11/2/2025, 4:09:29 pm  [blur] 2
+INFO 11/2/2025, 4:09:29 pm  [win] blur
+INFO 11/2/2025, 4:10:34 pm  [focus] 2
+INFO 11/2/2025, 4:10:39 pm  synced recovery
+INFO 11/2/2025, 4:10:42 pm  synced recovery
+INFO 11/2/2025, 4:10:44 pm  synced recovery
+INFO 11/2/2025, 4:10:46 pm  synced recovery
+INFO 11/2/2025, 4:10:48 pm  synced recovery
+INFO 11/2/2025, 4:10:53 pm  synced recovery
+INFO 11/2/2025, 4:10:54 pm  [blur] 2
+INFO 11/2/2025, 4:10:54 pm  [win] blur
+INFO 11/2/2025, 4:13:00 pm  [focus] 2
+INFO 11/2/2025, 4:13:01 pm  [blur] 2
+INFO 11/2/2025, 4:13:01 pm  [win] blur
+INFO 11/2/2025, 4:13:02 pm  [focus] 2
+INFO 11/2/2025, 4:13:07 pm  synced recovery
+INFO 11/2/2025, 4:13:08 pm  [blur] 2
+INFO 11/2/2025, 4:13:08 pm  [win] blur
+INFO 11/2/2025, 4:13:10 pm  [focus] 2
+INFO 11/2/2025, 4:13:14 pm  synced recovery
+INFO 11/2/2025, 4:13:18 pm  synced recovery
+INFO 11/2/2025, 4:13:20 pm  synced recovery
+INFO 11/2/2025, 4:13:23 pm  synced recovery
+INFO 11/2/2025, 4:13:25 pm  [blur] 2
+INFO 11/2/2025, 4:13:25 pm  [win] blur
+INFO 11/2/2025, 4:13:26 pm  [focus] 2
+INFO 11/2/2025, 4:13:27 pm  [blur] 2
+INFO 11/2/2025, 4:13:27 pm  [win] blur
+INFO 11/2/2025, 4:13:28 pm  [focus] 2
+INFO 11/2/2025, 4:13:30 pm  synced recovery
+INFO 11/2/2025, 4:13:33 pm  synced recovery
+INFO 11/2/2025, 4:13:34 pm  [blur] 2
+INFO 11/2/2025, 4:13:34 pm  [win] blur
+INFO 11/2/2025, 4:13:35 pm  [focus] 2
+INFO 11/2/2025, 4:13:36 pm  synced recovery
+INFO 11/2/2025, 4:13:39 pm  synced recovery
+INFO 11/2/2025, 4:13:43 pm  synced recovery
+INFO 11/2/2025, 4:13:46 pm  synced recovery
+INFO 11/2/2025, 4:13:49 pm  [blur] 2
+INFO 11/2/2025, 4:13:49 pm  [win] blur
+INFO 11/2/2025, 4:13:49 pm  synced recovery
+INFO 11/2/2025, 4:13:53 pm  [focus] 2
+INFO 11/2/2025, 4:13:55 pm  synced recovery
+INFO 11/2/2025, 4:13:58 pm  synced recovery
+INFO 11/2/2025, 4:13:59 pm  [blur] 2
+INFO 11/2/2025, 4:13:59 pm  [win] blur
+INFO 11/2/2025, 4:14:03 pm  [focus] 2
+INFO 11/2/2025, 4:14:05 pm  synced recovery
+INFO 11/2/2025, 4:14:08 pm  synced recovery
+INFO 11/2/2025, 4:14:09 pm  synced recovery
+INFO 11/2/2025, 4:14:11 pm  [blur] 2
+INFO 11/2/2025, 4:14:11 pm  [win] blur
+INFO 11/2/2025, 4:14:14 pm  [focus] 2
+INFO 11/2/2025, 4:14:15 pm  synced recovery
+INFO 11/2/2025, 4:14:17 pm  [blur] 2
+INFO 11/2/2025, 4:14:17 pm  [win] blur
+INFO 11/2/2025, 4:14:19 pm  [focus] 2
+INFO 11/2/2025, 4:14:22 pm  synced recovery
+INFO 11/2/2025, 4:14:23 pm  [blur] 2
+INFO 11/2/2025, 4:14:23 pm  [win] blur
+INFO 11/2/2025, 4:14:29 pm  [focus] 2
+INFO 11/2/2025, 4:14:30 pm  [blur] 2
+INFO 11/2/2025, 4:14:30 pm  [win] blur
+INFO 11/2/2025, 4:14:30 pm  synced recovery
+INFO 11/2/2025, 4:14:31 pm  [focus] 2
+INFO 11/2/2025, 4:14:33 pm  synced recovery
+INFO 11/2/2025, 4:14:35 pm  [blur] 2
+INFO 11/2/2025, 4:14:35 pm  [win] blur
+INFO 11/2/2025, 4:14:37 pm  [focus] 2
+INFO 11/2/2025, 4:14:39 pm  synced recovery
+INFO 11/2/2025, 4:14:41 pm  [blur] 2
+INFO 11/2/2025, 4:14:41 pm  [win] blur
+INFO 11/2/2025, 4:14:41 pm  synced recovery
+INFO 11/2/2025, 4:14:43 pm  [focus] 2
+INFO 11/2/2025, 4:14:45 pm  synced recovery
+INFO 11/2/2025, 4:14:46 pm  [blur] 2
+INFO 11/2/2025, 4:14:46 pm  [win] blur
+INFO 11/2/2025, 4:14:47 pm  [focus] 2
+INFO 11/2/2025, 4:14:49 pm  synced recovery
+INFO 11/2/2025, 4:14:50 pm  [blur] 2
+INFO 11/2/2025, 4:14:50 pm  [win] blur
+INFO 11/2/2025, 4:14:51 pm  [focus] 2
+INFO 11/2/2025, 4:14:53 pm  synced recovery
+INFO 11/2/2025, 4:14:54 pm  [blur] 2
+INFO 11/2/2025, 4:14:54 pm  [win] blur
+INFO 11/2/2025, 4:14:55 pm  [focus] 2
+INFO 11/2/2025, 4:14:57 pm  synced recovery
+INFO 11/2/2025, 4:15:00 pm  [blur] 2
+INFO 11/2/2025, 4:15:00 pm  [win] blur
+INFO 11/2/2025, 4:15:00 pm  synced recovery
+INFO 11/2/2025, 4:16:03 pm  [focus] 2
+INFO 11/2/2025, 4:16:03 pm  [blur] 2
+INFO 11/2/2025, 4:16:03 pm  [win] blur
+INFO 11/2/2025, 4:16:42 pm  [focus] 2
+INFO 11/2/2025, 4:16:42 pm  [blur] 2
+INFO 11/2/2025, 4:16:42 pm  [win] blur
+INFO 11/2/2025, 4:17:51 pm  [focus] 2
+INFO 11/2/2025, 4:17:53 pm  synced recovery
+INFO 11/2/2025, 4:18:01 pm  synced recovery
+INFO 11/2/2025, 4:18:03 pm  synced recovery
+INFO 11/2/2025, 4:18:07 pm  synced recovery
+INFO 11/2/2025, 4:18:10 pm  synced recovery
+INFO 11/2/2025, 4:18:16 pm  synced recovery
+INFO 11/2/2025, 4:18:21 pm  synced recovery
+INFO 11/2/2025, 4:18:24 pm  synced recovery
+INFO 11/2/2025, 4:18:26 pm  synced recovery
+INFO 11/2/2025, 4:18:28 pm  [blur] 2
+INFO 11/2/2025, 4:18:28 pm  [win] blur
+INFO 11/2/2025, 4:18:29 pm  [focus] 2
+INFO 11/2/2025, 4:18:33 pm  synced recovery
+INFO 11/2/2025, 4:18:35 pm  synced recovery
+INFO 11/2/2025, 4:18:38 pm  synced recovery
+INFO 11/2/2025, 4:18:42 pm  synced recovery
+INFO 11/2/2025, 4:18:45 pm  synced recovery
+INFO 11/2/2025, 4:18:48 pm  synced recovery
+INFO 11/2/2025, 4:18:51 pm  synced recovery
+INFO 11/2/2025, 4:18:54 pm  synced recovery
+INFO 11/2/2025, 4:18:57 pm  synced recovery
+INFO 11/2/2025, 4:18:59 pm  synced recovery
+INFO 11/2/2025, 4:19:02 pm  synced recovery
+INFO 11/2/2025, 4:19:04 pm  synced recovery
+INFO 11/2/2025, 4:19:06 pm  [blur] 2
+INFO 11/2/2025, 4:19:06 pm  [win] blur
+INFO 11/2/2025, 4:19:07 pm  [focus] 2
+INFO 11/2/2025, 4:19:07 pm  [blur] 2
+INFO 11/2/2025, 4:19:07 pm  [win] blur
+INFO 11/2/2025, 4:19:37 pm  [focus] 2
+INFO 11/2/2025, 4:19:37 pm  [blur] 2
+INFO 11/2/2025, 4:19:37 pm  [win] blur
+INFO 11/2/2025, 4:19:39 pm  [focus] 2
+INFO 11/2/2025, 4:19:41 pm  [blur] 2
+INFO 11/2/2025, 4:19:41 pm  [win] blur
+INFO 11/2/2025, 4:20:57 pm  [focus] 2
+INFO 11/2/2025, 4:20:58 pm  [blur] 2
+INFO 11/2/2025, 4:20:58 pm  [win] blur
+INFO 11/2/2025, 4:21:07 pm  [focus] 2
+INFO 11/2/2025, 4:21:07 pm  [blur] 2
+INFO 11/2/2025, 4:21:07 pm  [win] blur
+INFO 11/2/2025, 4:23:10 pm  [focus] 2
+INFO 11/2/2025, 4:23:11 pm  [blur] 2
+INFO 11/2/2025, 4:23:11 pm  [win] blur
+INFO 11/2/2025, 4:24:49 pm  [focus] 2
+INFO 11/2/2025, 4:24:51 pm  [blur] 2
+INFO 11/2/2025, 4:24:51 pm  [win] blur
+INFO 11/2/2025, 4:24:54 pm  [focus] 2
+INFO 11/2/2025, 4:24:55 pm  [blur] 2
+INFO 11/2/2025, 4:24:55 pm  [win] blur
+INFO 11/2/2025, 4:24:57 pm  [focus] 2
+INFO 11/2/2025, 4:24:58 pm  [blur] 2
+INFO 11/2/2025, 4:24:58 pm  [win] blur
+INFO 11/2/2025, 4:24:59 pm  [focus] 2
+INFO 11/2/2025, 4:24:59 pm  [blur] 2
+INFO 11/2/2025, 4:24:59 pm  [win] blur
+INFO 11/2/2025, 4:25:46 pm  [focus] 2
+INFO 11/2/2025, 4:25:47 pm  [blur] 2
+INFO 11/2/2025, 4:25:47 pm  [win] blur
+INFO 11/2/2025, 4:27:06 pm  [focus] 2
+INFO 11/2/2025, 4:27:06 pm  [blur] 2
+INFO 11/2/2025, 4:27:06 pm  [win] blur
+INFO 11/2/2025, 4:27:39 pm  [focus] 2
+INFO 11/2/2025, 4:27:40 pm  [blur] 2
+INFO 11/2/2025, 4:27:40 pm  [win] blur
+INFO 11/2/2025, 4:32:33 pm  [focus] 2
+INFO 11/2/2025, 4:32:33 pm  [blur] 2
+INFO 11/2/2025, 4:32:33 pm  [win] blur
+INFO 11/2/2025, 4:32:35 pm  [focus] 2
+INFO 11/2/2025, 4:32:35 pm  [blur] 2
+INFO 11/2/2025, 4:32:35 pm  [win] blur
+INFO 11/2/2025, 4:33:58 pm  [focus] 2
+INFO 11/2/2025, 4:33:59 pm  [blur] 2
+INFO 11/2/2025, 4:33:59 pm  [win] blur
+INFO 11/2/2025, 4:35:25 pm  [focus] 2
+INFO 11/2/2025, 4:35:26 pm  [blur] 2
+INFO 11/2/2025, 4:35:26 pm  [win] blur
+INFO 11/2/2025, 4:39:41 pm  [focus] 2
+INFO 11/2/2025, 4:39:44 pm  synced recovery
+INFO 11/2/2025, 4:39:44 pm  ----------------before-quit-----------------
+INFO 11/2/2025, 4:39:44 pm  ------------------will-quit------------------
+INFO 11/2/2025, 4:39:44 pm  -----------------quit------------------
+INFO 11/2/2025, 4:39:44 pm  closeLogging
+INFO 11/2/2025, 10:05:40 pm  launch with argv [/usr/share/typora/Typora]
+INFO 11/2/2025, 10:05:40 pm  start LM in devVersion=false
+INFO 11/2/2025, 10:05:40 pm  [watch L]
+INFO 11/2/2025, 10:05:40 pm  ls put SLicense
+INFO 11/2/2025, 10:05:40 pm  [L] installDate is 2/8/2025, trail remains: 12 days
+INFO 11/2/2025, 10:05:40 pm  [watch L] hasL: false
+INFO 11/2/2025, 10:05:40 pm  ------------------start------------------
+INFO 11/2/2025, 10:05:40 pm  typora version: 1.9.3
+INFO 11/2/2025, 10:05:40 pm  [Raven] instanceKey = 3a12ebdb-5fb2-4f85-a7f4-a0dd54ab5b1a
+INFO 11/2/2025, 10:05:40 pm  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+user-dict.json not found
+INFO 11/2/2025, 10:05:40 pm  synced recovery
+INFO 11/2/2025, 10:05:40 pm  [focus] 2
+ERROR 11/2/2025, 10:05:40 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 10:05:40 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 11/2/2025, 10:05:40 pm  [blur] 2
+INFO 11/2/2025, 10:05:40 pm  [win] blur
+INFO 11/2/2025, 10:05:40 pm  [focus] 1
+INFO 11/2/2025, 10:05:40 pm  [blur] 1
+INFO 11/2/2025, 10:05:40 pm  [focus] 2
+INFO 11/2/2025, 10:05:40 pm  [blur] 2
+INFO 11/2/2025, 10:05:40 pm  [win] blur
+INFO 11/2/2025, 10:05:40 pm  [focus] 1
+ERROR 11/2/2025, 10:05:41 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 10:05:41 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 11/2/2025, 10:05:41 pm  handle document.loadData
+ERROR 11/2/2025, 10:05:41 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 11/2/2025, 10:05:41 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 11/2/2025, 10:05:41 pm  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 11/2/2025, 10:05:41 pm  [RenderProcess 2][Log] reset NodeMap
+INFO 11/2/2025, 10:05:41 pm  synced recovery
+INFO 11/2/2025, 10:05:41 pm  [RenderProcess 2][Log] onBecomeActive
+INFO 11/2/2025, 10:05:41 pm  [RenderProcess 2][Log] File.activeWindow = true
+INFO 11/2/2025, 10:05:42 pm  [focus] 2
+INFO 11/2/2025, 10:05:44 pm  switchDocument 2 [/home/ynx/Writings/Another Entrance To Our World.md]
+INFO 11/2/2025, 10:05:44 pm  addRecentDocument
+INFO 11/2/2025, 10:05:44 pm  synced recovery
+INFO 11/2/2025, 10:05:44 pm  [RenderProcess 2][Log] File.activeWindow = true
+INFO 11/2/2025, 10:05:44 pm  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 11/2/2025, 10:05:44 pm  [RenderProcess 2][Log] reset NodeMap
+INFO 11/2/2025, 10:05:44 pm  [RenderProcess 2][Log] readContentFrom /home/ynx/Writings/Another Entrance To Our World.md
+INFO 11/2/2025, 10:05:44 pm  synced recovery
+INFO 11/2/2025, 10:05:46 pm  [blur] 2
+INFO 11/2/2025, 10:05:46 pm  [win] blur
+INFO 11/2/2025, 10:05:46 pm  [focus] 3
+INFO 11/2/2025, 10:05:46 pm  [blur] 3
+INFO 11/2/2025, 10:05:46 pm  [focus] 2
+INFO 11/2/2025, 10:05:46 pm  [blur] 2
+INFO 11/2/2025, 10:05:46 pm  [win] blur
+INFO 11/2/2025, 10:05:46 pm  [focus] 3
+INFO 11/2/2025, 10:05:47 pm  [focus] 2
+INFO 11/2/2025, 10:06:03 pm  synced recovery
+INFO 11/2/2025, 10:06:05 pm  synced recovery
+INFO 11/2/2025, 10:06:08 pm  synced recovery
+INFO 11/2/2025, 10:06:11 pm  synced recovery
+INFO 11/2/2025, 10:06:30 pm  synced recovery
+INFO 11/2/2025, 10:06:47 pm  synced recovery
+INFO 11/2/2025, 10:06:48 pm  synced recovery
+INFO 11/2/2025, 10:06:50 pm  synced recovery
+INFO 11/2/2025, 10:06:53 pm  synced recovery
+INFO 11/2/2025, 10:06:56 pm  synced recovery
+INFO 11/2/2025, 10:06:59 pm  synced recovery
+INFO 11/2/2025, 10:07:02 pm  synced recovery
+INFO 11/2/2025, 10:07:04 pm  synced recovery
+INFO 11/2/2025, 10:07:08 pm  synced recovery
+INFO 11/2/2025, 10:07:11 pm  synced recovery
+INFO 11/2/2025, 10:07:14 pm  synced recovery
+INFO 11/2/2025, 10:07:17 pm  synced recovery
+INFO 11/2/2025, 10:07:33 pm  synced recovery
+INFO 11/2/2025, 10:07:34 pm  synced recovery
+INFO 11/2/2025, 10:07:36 pm  synced recovery
+INFO 11/2/2025, 10:07:42 pm  synced recovery
+INFO 11/2/2025, 10:07:45 pm  synced recovery
+INFO 11/2/2025, 10:07:48 pm  synced recovery
+INFO 11/2/2025, 10:07:52 pm  synced recovery
+INFO 11/2/2025, 10:07:54 pm  synced recovery
+INFO 11/2/2025, 10:07:57 pm  synced recovery
+INFO 11/2/2025, 10:08:00 pm  synced recovery
+INFO 11/2/2025, 10:08:01 pm  synced recovery
+INFO 11/2/2025, 10:08:04 pm  synced recovery
+INFO 11/2/2025, 10:08:07 pm  synced recovery
+INFO 11/2/2025, 10:08:11 pm  synced recovery
+INFO 11/2/2025, 10:08:14 pm  synced recovery
+INFO 11/2/2025, 10:08:17 pm  synced recovery
+INFO 11/2/2025, 10:08:20 pm  synced recovery
+INFO 11/2/2025, 10:08:22 pm  synced recovery
+INFO 11/2/2025, 10:08:24 pm  synced recovery
+INFO 11/2/2025, 10:08:27 pm  synced recovery
+INFO 11/2/2025, 10:08:30 pm  synced recovery
+INFO 11/2/2025, 10:08:33 pm  synced recovery
+INFO 11/2/2025, 10:08:36 pm  synced recovery
+INFO 11/2/2025, 10:08:39 pm  synced recovery
+INFO 11/2/2025, 10:08:43 pm  synced recovery
+INFO 11/2/2025, 10:08:50 pm  synced recovery
+INFO 11/2/2025, 10:08:53 pm  synced recovery
+INFO 11/2/2025, 10:09:14 pm  synced recovery
+INFO 11/2/2025, 10:09:15 pm  synced recovery
+INFO 11/2/2025, 10:09:19 pm  synced recovery
+INFO 11/2/2025, 10:09:22 pm  synced recovery
+INFO 11/2/2025, 10:09:26 pm  synced recovery
+INFO 11/2/2025, 10:09:43 pm  synced recovery
+INFO 11/2/2025, 10:09:47 pm  synced recovery
+INFO 11/2/2025, 10:09:51 pm  synced recovery
+INFO 11/2/2025, 10:09:53 pm  synced recovery
+INFO 11/2/2025, 10:09:56 pm  synced recovery
+INFO 11/2/2025, 10:09:59 pm  synced recovery
+INFO 11/2/2025, 10:10:03 pm  synced recovery
+INFO 11/2/2025, 10:10:07 pm  synced recovery
+INFO 11/2/2025, 10:10:09 pm  synced recovery
+INFO 11/2/2025, 10:10:12 pm  synced recovery
+INFO 11/2/2025, 10:10:15 pm  synced recovery
+INFO 11/2/2025, 10:10:18 pm  synced recovery
+INFO 11/2/2025, 10:10:21 pm  synced recovery
+INFO 11/2/2025, 10:10:25 pm  synced recovery
+INFO 11/2/2025, 10:10:27 pm  synced recovery
+INFO 11/2/2025, 10:10:30 pm  synced recovery
+INFO 11/2/2025, 10:10:34 pm  synced recovery
+INFO 11/2/2025, 10:10:37 pm  synced recovery
+INFO 11/2/2025, 10:10:39 pm  synced recovery
+INFO 11/2/2025, 10:10:43 pm  synced recovery
+INFO 11/2/2025, 10:10:46 pm  synced recovery
+INFO 11/2/2025, 10:10:50 pm  synced recovery
+INFO 11/2/2025, 10:10:53 pm  synced recovery
+INFO 11/2/2025, 10:10:55 pm  synced recovery
+INFO 11/2/2025, 10:10:58 pm  synced recovery
+INFO 11/2/2025, 10:11:01 pm  synced recovery
+INFO 11/2/2025, 10:11:06 pm  synced recovery
+INFO 11/2/2025, 10:11:42 pm  synced recovery
+INFO 11/2/2025, 10:11:45 pm  synced recovery
+INFO 11/2/2025, 10:12:19 pm  synced recovery
+INFO 11/2/2025, 10:12:21 pm  synced recovery
+INFO 11/2/2025, 10:12:34 pm  synced recovery
+INFO 11/2/2025, 10:12:35 pm  synced recovery
+INFO 11/2/2025, 10:12:37 pm  synced recovery
+INFO 11/2/2025, 10:12:48 pm  synced recovery
+INFO 11/2/2025, 10:12:49 pm  synced recovery
+INFO 11/2/2025, 10:12:51 pm  synced recovery
+INFO 11/2/2025, 10:12:54 pm  synced recovery
+INFO 11/2/2025, 10:12:57 pm  synced recovery
+INFO 11/2/2025, 10:13:00 pm  synced recovery
+INFO 11/2/2025, 10:13:03 pm  synced recovery
+INFO 11/2/2025, 10:13:07 pm  synced recovery
+INFO 11/2/2025, 10:13:10 pm  synced recovery
+INFO 11/2/2025, 10:13:13 pm  synced recovery
+INFO 11/2/2025, 10:13:17 pm  synced recovery
+INFO 11/2/2025, 10:13:37 pm  synced recovery
+INFO 11/2/2025, 10:13:40 pm  synced recovery
+INFO 11/2/2025, 10:13:43 pm  synced recovery
+INFO 11/2/2025, 10:13:49 pm  synced recovery
+INFO 11/2/2025, 10:13:53 pm  synced recovery
+INFO 11/2/2025, 10:13:55 pm  synced recovery
+INFO 11/2/2025, 10:13:58 pm  synced recovery
+INFO 11/2/2025, 10:14:01 pm  synced recovery
+INFO 11/2/2025, 10:14:03 pm  synced recovery
+INFO 11/2/2025, 10:14:05 pm  synced recovery
+INFO 11/2/2025, 10:14:08 pm  synced recovery
+INFO 11/2/2025, 10:14:55 pm  synced recovery
+INFO 11/2/2025, 10:15:02 pm  synced recovery
+INFO 11/2/2025, 10:15:04 pm  synced recovery
+INFO 11/2/2025, 10:15:06 pm  synced recovery
+INFO 11/2/2025, 10:15:09 pm  synced recovery
+INFO 11/2/2025, 10:15:12 pm  synced recovery
+INFO 11/2/2025, 10:15:14 pm  synced recovery
+INFO 11/2/2025, 10:15:18 pm  synced recovery
+INFO 11/2/2025, 10:15:21 pm  synced recovery
+INFO 11/2/2025, 10:15:24 pm  synced recovery
+INFO 11/2/2025, 10:15:26 pm  synced recovery
+INFO 11/2/2025, 10:17:14 pm  synced recovery
+INFO 11/2/2025, 10:17:17 pm  synced recovery
+INFO 11/2/2025, 10:17:22 pm  synced recovery
+INFO 11/2/2025, 10:17:25 pm  synced recovery
+INFO 11/2/2025, 10:17:28 pm  synced recovery
+INFO 11/2/2025, 10:17:31 pm  synced recovery
+INFO 11/2/2025, 10:17:32 pm  synced recovery
+INFO 11/2/2025, 10:17:34 pm  synced recovery
+INFO 11/2/2025, 10:17:38 pm  synced recovery
+INFO 11/2/2025, 10:17:41 pm  synced recovery
+INFO 11/2/2025, 10:17:44 pm  synced recovery
+INFO 11/2/2025, 10:18:11 pm  synced recovery
+INFO 11/2/2025, 10:18:14 pm  synced recovery
+INFO 11/2/2025, 10:18:17 pm  synced recovery
+INFO 11/2/2025, 10:18:26 pm  synced recovery
+INFO 11/2/2025, 10:18:28 pm  synced recovery
+INFO 11/2/2025, 10:18:32 pm  synced recovery
+INFO 11/2/2025, 10:18:35 pm  synced recovery
+INFO 11/2/2025, 10:18:38 pm  synced recovery
+INFO 11/2/2025, 10:18:42 pm  synced recovery
+INFO 11/2/2025, 10:18:45 pm  synced recovery
+INFO 11/2/2025, 10:18:48 pm  synced recovery
+INFO 11/2/2025, 10:18:58 pm  synced recovery
+INFO 11/2/2025, 10:19:01 pm  synced recovery
+INFO 11/2/2025, 10:19:11 pm  synced recovery
+INFO 11/2/2025, 10:19:14 pm  synced recovery
+INFO 11/2/2025, 10:19:18 pm  synced recovery
+INFO 11/2/2025, 10:19:20 pm  synced recovery
+INFO 11/2/2025, 10:19:21 pm  synced recovery
+INFO 11/2/2025, 10:19:23 pm  synced recovery
+INFO 11/2/2025, 10:19:26 pm  synced recovery
+INFO 11/2/2025, 10:19:29 pm  synced recovery
+INFO 11/2/2025, 10:19:31 pm  synced recovery
+INFO 11/2/2025, 10:19:34 pm  synced recovery
+INFO 11/2/2025, 10:19:38 pm  synced recovery
+INFO 11/2/2025, 10:19:41 pm  synced recovery
+INFO 11/2/2025, 10:19:44 pm  synced recovery
+INFO 11/2/2025, 10:21:42 pm  synced recovery
+INFO 11/2/2025, 10:21:44 pm  synced recovery
+INFO 11/2/2025, 10:21:48 pm  synced recovery
+INFO 11/2/2025, 10:21:51 pm  synced recovery
+INFO 11/2/2025, 10:21:53 pm  synced recovery
+INFO 11/2/2025, 10:21:56 pm  synced recovery
+INFO 11/2/2025, 10:21:59 pm  synced recovery
+INFO 11/2/2025, 10:22:01 pm  synced recovery
+INFO 11/2/2025, 10:22:04 pm  synced recovery
+INFO 11/2/2025, 10:22:08 pm  synced recovery
+INFO 11/2/2025, 10:22:11 pm  synced recovery
+INFO 11/2/2025, 10:22:13 pm  synced recovery
+INFO 11/2/2025, 10:22:15 pm  synced recovery
+INFO 11/2/2025, 10:22:19 pm  synced recovery
+INFO 11/2/2025, 10:22:22 pm  synced recovery
+INFO 11/2/2025, 10:22:25 pm  synced recovery
+INFO 11/2/2025, 10:22:28 pm  synced recovery
+INFO 11/2/2025, 10:22:31 pm  synced recovery
+INFO 11/2/2025, 10:22:32 pm  synced recovery
+INFO 11/2/2025, 10:22:34 pm  synced recovery
+INFO 11/2/2025, 10:22:35 pm  synced recovery
+INFO 11/2/2025, 10:23:00 pm  synced recovery
+INFO 11/2/2025, 10:23:03 pm  synced recovery
+INFO 11/2/2025, 10:23:06 pm  synced recovery
+INFO 11/2/2025, 10:23:09 pm  synced recovery
+INFO 11/2/2025, 10:23:12 pm  synced recovery
+INFO 11/2/2025, 10:23:14 pm  synced recovery
+INFO 11/2/2025, 10:23:18 pm  synced recovery
+INFO 11/2/2025, 10:23:21 pm  synced recovery
+INFO 11/2/2025, 10:23:22 pm  synced recovery
+INFO 11/2/2025, 10:23:24 pm  synced recovery
+INFO 11/2/2025, 10:23:28 pm  synced recovery
+INFO 11/2/2025, 10:23:31 pm  synced recovery
+INFO 11/2/2025, 10:23:32 pm  [blur] 2
+INFO 11/2/2025, 10:23:32 pm  [win] blur
+INFO 11/2/2025, 10:25:49 pm  [focus] 2
+INFO 11/2/2025, 10:25:56 pm  synced recovery
+INFO 11/2/2025, 10:25:59 pm  synced recovery
+INFO 11/2/2025, 10:26:01 pm  synced recovery
+INFO 11/2/2025, 10:26:04 pm  synced recovery
+INFO 11/2/2025, 10:26:07 pm  synced recovery
+INFO 11/2/2025, 10:26:10 pm  synced recovery
+INFO 11/2/2025, 10:26:12 pm  synced recovery
+INFO 11/2/2025, 10:26:15 pm  synced recovery
+INFO 11/2/2025, 10:26:17 pm  synced recovery
+INFO 11/2/2025, 10:26:19 pm  synced recovery
+INFO 11/2/2025, 10:26:22 pm  synced recovery
+INFO 11/2/2025, 10:26:25 pm  synced recovery
+INFO 11/2/2025, 10:26:28 pm  synced recovery
+INFO 11/2/2025, 10:26:35 pm  synced recovery
+INFO 11/2/2025, 10:26:58 pm  synced recovery
+INFO 11/2/2025, 10:27:04 pm  synced recovery
+INFO 11/2/2025, 10:27:13 pm  synced recovery
+INFO 11/2/2025, 10:27:23 pm  synced recovery
+INFO 11/2/2025, 10:27:56 pm  synced recovery
+INFO 11/2/2025, 10:27:59 pm  synced recovery
+INFO 11/2/2025, 10:28:02 pm  synced recovery
+INFO 11/2/2025, 10:28:05 pm  synced recovery
+INFO 11/2/2025, 10:28:09 pm  synced recovery
+INFO 11/2/2025, 10:28:12 pm  synced recovery
+INFO 11/2/2025, 10:28:14 pm  synced recovery
+INFO 11/2/2025, 10:28:16 pm  synced recovery
+INFO 11/2/2025, 10:28:20 pm  synced recovery
+INFO 11/2/2025, 10:28:23 pm  synced recovery
+INFO 11/2/2025, 10:28:26 pm  synced recovery
+INFO 11/2/2025, 10:28:29 pm  synced recovery
+INFO 11/2/2025, 10:28:31 pm  synced recovery
+INFO 11/2/2025, 10:28:32 pm  synced recovery
+INFO 11/2/2025, 10:28:34 pm  synced recovery
+INFO 11/2/2025, 10:28:37 pm  synced recovery
+INFO 11/2/2025, 10:28:41 pm  synced recovery
+INFO 11/2/2025, 10:28:42 pm  synced recovery
+INFO 11/2/2025, 10:28:44 pm  synced recovery
+INFO 11/2/2025, 10:28:47 pm  synced recovery
+INFO 11/2/2025, 10:28:50 pm  synced recovery
+INFO 11/2/2025, 10:28:53 pm  synced recovery
+INFO 11/2/2025, 10:28:56 pm  synced recovery
+INFO 11/2/2025, 10:28:58 pm  synced recovery
+INFO 11/2/2025, 10:29:00 pm  synced recovery
+INFO 11/2/2025, 10:29:03 pm  synced recovery
+INFO 11/2/2025, 10:29:09 pm  synced recovery
+INFO 11/2/2025, 10:29:11 pm  synced recovery
+INFO 11/2/2025, 10:29:12 pm  synced recovery
+INFO 11/2/2025, 10:29:15 pm  synced recovery
+INFO 11/2/2025, 10:29:18 pm  synced recovery
+INFO 11/2/2025, 10:29:19 pm  synced recovery
+INFO 11/2/2025, 10:29:22 pm  synced recovery
+INFO 11/2/2025, 10:29:25 pm  synced recovery
+INFO 11/2/2025, 10:29:28 pm  synced recovery
+INFO 11/2/2025, 10:29:53 pm  synced recovery
+INFO 11/2/2025, 10:29:58 pm  synced recovery
+INFO 11/2/2025, 10:30:01 pm  synced recovery
+INFO 11/2/2025, 10:30:04 pm  synced recovery
+INFO 11/2/2025, 10:30:06 pm  synced recovery
+INFO 11/2/2025, 10:30:09 pm  synced recovery
+INFO 11/2/2025, 10:30:11 pm  synced recovery
+INFO 11/2/2025, 10:30:14 pm  synced recovery
+INFO 11/2/2025, 10:30:17 pm  synced recovery
+INFO 11/2/2025, 10:30:20 pm  synced recovery
+INFO 11/2/2025, 10:30:23 pm  synced recovery
+INFO 11/2/2025, 10:30:25 pm  synced recovery
+INFO 11/2/2025, 10:30:26 pm  synced recovery
+INFO 11/2/2025, 10:30:29 pm  synced recovery
+INFO 11/2/2025, 10:30:33 pm  synced recovery
+INFO 11/2/2025, 10:30:35 pm  synced recovery
+INFO 11/2/2025, 10:30:38 pm  synced recovery
+INFO 11/2/2025, 10:30:40 pm  synced recovery
+INFO 11/2/2025, 10:30:43 pm  synced recovery
+INFO 11/2/2025, 10:30:45 pm  synced recovery
+INFO 11/2/2025, 10:30:51 pm  synced recovery
+INFO 11/2/2025, 10:31:04 pm  [blur] 2
+INFO 11/2/2025, 10:31:04 pm  [win] blur
+INFO 11/2/2025, 10:38:36 pm  [focus] 2
+INFO 11/2/2025, 10:38:37 pm  [blur] 2
+INFO 11/2/2025, 10:38:37 pm  [win] blur
+INFO 11/2/2025, 10:38:38 pm  [focus] 2
+INFO 11/2/2025, 10:38:38 pm  [blur] 2
+INFO 11/2/2025, 10:38:38 pm  [win] blur
+INFO 11/2/2025, 10:38:40 pm  [focus] 2
+INFO 11/2/2025, 10:38:40 pm  [blur] 2
+INFO 11/2/2025, 10:38:40 pm  [win] blur
+INFO 11/2/2025, 10:38:41 pm  [focus] 2
+INFO 11/2/2025, 10:38:46 pm  synced recovery
+INFO 11/2/2025, 10:38:47 pm  synced recovery
+INFO 11/2/2025, 10:38:50 pm  synced recovery
+INFO 11/2/2025, 10:38:53 pm  synced recovery
+INFO 11/2/2025, 10:38:56 pm  synced recovery
+INFO 11/2/2025, 10:38:58 pm  synced recovery
+INFO 11/2/2025, 10:39:04 pm  synced recovery
+INFO 11/2/2025, 10:39:08 pm  synced recovery
+INFO 11/2/2025, 10:39:12 pm  synced recovery
+INFO 11/2/2025, 10:39:14 pm  synced recovery
+INFO 11/2/2025, 10:39:30 pm  [blur] 2
+INFO 11/2/2025, 10:39:30 pm  [win] blur
+INFO 11/2/2025, 10:40:02 pm  [focus] 2
+INFO 11/2/2025, 10:40:03 pm  [blur] 2
+INFO 11/2/2025, 10:40:03 pm  [win] blur
+INFO 11/2/2025, 10:40:07 pm  [focus] 2
+INFO 11/2/2025, 10:40:15 pm  synced recovery
+INFO 11/2/2025, 10:40:20 pm  synced recovery
+INFO 11/2/2025, 10:40:22 pm  synced recovery
+INFO 11/2/2025, 10:40:24 pm  synced recovery
+INFO 11/2/2025, 10:40:28 pm  synced recovery
+INFO 11/2/2025, 10:40:30 pm  [blur] 2
+INFO 11/2/2025, 10:40:30 pm  [win] blur
+INFO 11/2/2025, 10:41:11 pm  [focus] 2
+INFO 11/2/2025, 10:41:19 pm  synced recovery
+INFO 11/2/2025, 10:41:22 pm  synced recovery
+INFO 11/2/2025, 10:41:23 pm  synced recovery
+INFO 11/2/2025, 10:41:28 pm  synced recovery
+INFO 11/2/2025, 10:41:34 pm  synced recovery
+INFO 11/2/2025, 10:41:35 pm  synced recovery
+INFO 11/2/2025, 10:41:37 pm  synced recovery
+INFO 11/2/2025, 10:41:42 pm  synced recovery
+INFO 11/2/2025, 10:41:42 pm  synced recovery
+INFO 11/2/2025, 10:41:42 pm  ----------------before-quit-----------------
+INFO 11/2/2025, 10:41:42 pm  ------------------will-quit------------------
+INFO 11/2/2025, 10:41:42 pm  -----------------quit------------------
+INFO 11/2/2025, 10:41:42 pm  closeLogging
+INFO 12/2/2025, 6:06:28 pm  launch with argv [/usr/share/typora/Typora, /home/ynx/powerlevel10k/font.md]
+INFO 12/2/2025, 6:06:28 pm  start LM in devVersion=false
+INFO 12/2/2025, 6:06:28 pm  [watch L]
+INFO 12/2/2025, 6:06:28 pm  ls put SLicense
+INFO 12/2/2025, 6:06:28 pm  [L] installDate is 2/8/2025, trail remains: 11 days
+INFO 12/2/2025, 6:06:28 pm  [watch L] hasL: false
+INFO 12/2/2025, 6:06:28 pm  ------------------start------------------
+INFO 12/2/2025, 6:06:28 pm  typora version: 1.9.3
+INFO 12/2/2025, 6:06:28 pm  addRecentDocument
+INFO 12/2/2025, 6:06:28 pm  [Raven] instanceKey = 8d76e9e3-c565-43f2-b1ee-698df53dd0ca
+INFO 12/2/2025, 6:06:28 pm  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+user-dict.json not found
+INFO 12/2/2025, 6:06:28 pm  synced recovery
+INFO 12/2/2025, 6:06:28 pm  [focus] 1
+ERROR 12/2/2025, 6:06:28 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 12/2/2025, 6:06:28 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 12/2/2025, 6:06:28 pm  [blur] 1
+INFO 12/2/2025, 6:06:28 pm  [win] blur
+INFO 12/2/2025, 6:06:28 pm  [focus] 2
+ERROR 12/2/2025, 6:06:28 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 12/2/2025, 6:06:28 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 12/2/2025, 6:06:28 pm  handle document.loadData
+ERROR 12/2/2025, 6:06:28 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 12/2/2025, 6:06:28 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 12/2/2025, 6:06:28 pm  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 12/2/2025, 6:06:28 pm  [RenderProcess 1][Log] reset NodeMap
+INFO 12/2/2025, 6:06:28 pm  [RenderProcess 1][Log] readContentFrom /home/ynx/powerlevel10k/font.md
+INFO 12/2/2025, 6:06:29 pm  synced recovery
+INFO 12/2/2025, 6:06:29 pm  [RenderProcess 1][Log] onBecomeActive
+INFO 12/2/2025, 6:06:29 pm  [RenderProcess 1][Log] File.activeWindow = true
+INFO 12/2/2025, 6:06:29 pm  [blur] 2
+INFO 12/2/2025, 6:06:29 pm  [focus] 2
+INFO 12/2/2025, 6:06:30 pm  [focus] 1
+INFO 12/2/2025, 6:07:40 pm  [blur] 1
+INFO 12/2/2025, 6:07:40 pm  [win] blur
+INFO 12/2/2025, 6:07:45 pm  [focus] 1
+INFO 12/2/2025, 6:07:46 pm  [blur] 1
+INFO 12/2/2025, 6:07:46 pm  [win] blur
+INFO 12/2/2025, 6:07:49 pm  [focus] 1
+INFO 12/2/2025, 6:07:50 pm  [blur] 1
+INFO 12/2/2025, 6:07:50 pm  [win] blur
+INFO 12/2/2025, 6:07:55 pm  [focus] 1
+INFO 12/2/2025, 6:07:56 pm  [blur] 1
+INFO 12/2/2025, 6:07:56 pm  [win] blur
+INFO 12/2/2025, 6:07:58 pm  [focus] 1
+INFO 12/2/2025, 6:07:59 pm  [blur] 1
+INFO 12/2/2025, 6:07:59 pm  [win] blur
+INFO 12/2/2025, 6:08:11 pm  [focus] 1
+INFO 12/2/2025, 6:08:12 pm  [blur] 1
+INFO 12/2/2025, 6:08:12 pm  [win] blur
+INFO 12/2/2025, 6:08:43 pm  [focus] 1
+INFO 12/2/2025, 6:08:45 pm  synced recovery
+INFO 12/2/2025, 6:08:45 pm  ----------------before-quit-----------------
+INFO 12/2/2025, 6:08:45 pm  ------------------will-quit------------------
+INFO 12/2/2025, 6:08:45 pm  -----------------quit------------------
+INFO 12/2/2025, 6:08:45 pm  closeLogging
+INFO 12/2/2025, 10:19:46 pm  launch with argv [/usr/share/typora/Typora]
+INFO 12/2/2025, 10:19:46 pm  start LM in devVersion=false
+INFO 12/2/2025, 10:19:46 pm  [watch L]
+INFO 12/2/2025, 10:19:46 pm  ls put SLicense
+INFO 12/2/2025, 10:19:46 pm  [L] installDate is 2/8/2025, trail remains: 11 days
+INFO 12/2/2025, 10:19:46 pm  [watch L] hasL: false
+INFO 12/2/2025, 10:19:46 pm  ------------------start------------------
+INFO 12/2/2025, 10:19:46 pm  typora version: 1.9.3
+INFO 12/2/2025, 10:19:46 pm  [Raven] instanceKey = fbe03d8c-ffd9-4595-aa2f-67fbd1beb7a7
+user-dict.json not found
+INFO 12/2/2025, 10:19:46 pm  [Raven] userId = dc191e9a-82e0-41ad-bc53-58d725ed050e
+INFO 12/2/2025, 10:19:46 pm  synced recovery
+INFO 12/2/2025, 10:19:46 pm  [focus] 1
+ERROR 12/2/2025, 10:19:46 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 12/2/2025, 10:19:46 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 12/2/2025, 10:19:47 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 12/2/2025, 10:19:47 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 12/2/2025, 10:19:47 pm  handle document.loadData
+ERROR 12/2/2025, 10:19:47 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+ERROR 12/2/2025, 10:19:47 pm  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+INFO 12/2/2025, 10:19:47 pm  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 12/2/2025, 10:19:47 pm  [RenderProcess 1][Log] reset NodeMap
+INFO 12/2/2025, 10:19:47 pm  synced recovery
+INFO 12/2/2025, 10:19:47 pm  [RenderProcess 1][Log] onBecomeActive
+INFO 12/2/2025, 10:19:47 pm  [RenderProcess 1][Log] File.activeWindow = true
+INFO 12/2/2025, 10:19:51 pm  switchDocument 1 [/home/ynx/Writings/Another Entrance To Our World.md]
+INFO 12/2/2025, 10:19:51 pm  addRecentDocument
+INFO 12/2/2025, 10:19:51 pm  [RenderProcess 1][Log] File.activeWindow = true
+INFO 12/2/2025, 10:19:51 pm  synced recovery
+INFO 12/2/2025, 10:19:51 pm  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 12/2/2025, 10:19:51 pm  [RenderProcess 1][Log] reset NodeMap
+INFO 12/2/2025, 10:19:51 pm  [RenderProcess 1][Log] readContentFrom /home/ynx/Writings/Another Entrance To Our World.md
+INFO 12/2/2025, 10:19:51 pm  synced recovery
+INFO 12/2/2025, 10:19:58 pm  [blur] 1
+INFO 12/2/2025, 10:19:58 pm  [win] blur
+INFO 12/2/2025, 10:19:58 pm  [focus] 2
+INFO 12/2/2025, 10:19:58 pm  [blur] 2
+INFO 12/2/2025, 10:19:58 pm  [focus] 1
+INFO 12/2/2025, 10:19:58 pm  [blur] 1
+INFO 12/2/2025, 10:19:58 pm  [win] blur
+INFO 12/2/2025, 10:19:58 pm  [focus] 2
+INFO 12/2/2025, 10:19:59 pm  [focus] 1
+INFO 12/2/2025, 10:20:15 pm  [blur] 1
+INFO 12/2/2025, 10:20:15 pm  [win] blur
+INFO 12/2/2025, 10:25:42 pm  [focus] 1
+INFO 12/2/2025, 10:25:43 pm  [blur] 1
+INFO 12/2/2025, 10:25:43 pm  [win] blur
+INFO 12/2/2025, 10:28:38 pm  [focus] 1
+INFO 12/2/2025, 10:28:44 pm  [blur] 1
+INFO 12/2/2025, 10:28:44 pm  [win] blur
+INFO 12/2/2025, 10:29:43 pm  [focus] 1
+INFO 12/2/2025, 10:29:43 pm  [blur] 1
+INFO 12/2/2025, 10:29:43 pm  [win] blur
+INFO 12/2/2025, 10:29:55 pm  [focus] 1
+INFO 12/2/2025, 10:29:56 pm  [blur] 1
+INFO 12/2/2025, 10:29:56 pm  [win] blur
+INFO 12/2/2025, 10:30:23 pm  [focus] 1
+INFO 12/2/2025, 10:30:28 pm  synced recovery
+INFO 12/2/2025, 10:30:30 pm  synced recovery
+INFO 12/2/2025, 10:30:31 pm  synced recovery
+INFO 12/2/2025, 10:30:35 pm  synced recovery
+INFO 12/2/2025, 10:30:36 pm  synced recovery
+INFO 12/2/2025, 10:30:46 pm  synced recovery
+INFO 12/2/2025, 10:30:48 pm  synced recovery
+INFO 12/2/2025, 10:30:52 pm  synced recovery
+INFO 12/2/2025, 10:30:55 pm  synced recovery
+INFO 12/2/2025, 10:30:58 pm  synced recovery
+INFO 12/2/2025, 10:31:00 pm  synced recovery
+INFO 12/2/2025, 10:31:01 pm  synced recovery
+INFO 12/2/2025, 10:31:04 pm  synced recovery
+INFO 12/2/2025, 10:31:07 pm  synced recovery
+INFO 12/2/2025, 10:31:10 pm  synced recovery
+INFO 12/2/2025, 10:31:12 pm  synced recovery
+INFO 12/2/2025, 10:31:15 pm  synced recovery
+INFO 12/2/2025, 10:31:18 pm  synced recovery
+INFO 12/2/2025, 10:31:20 pm  synced recovery
+INFO 12/2/2025, 10:31:24 pm  synced recovery
+INFO 12/2/2025, 10:31:26 pm  synced recovery
+INFO 12/2/2025, 10:31:28 pm  synced recovery
+INFO 12/2/2025, 10:31:31 pm  synced recovery
+INFO 12/2/2025, 10:31:43 pm  synced recovery
+INFO 12/2/2025, 10:31:48 pm  [blur] 1
+INFO 12/2/2025, 10:31:48 pm  [win] blur
+INFO 12/2/2025, 10:31:48 pm  [focus] 1
+INFO 12/2/2025, 10:31:48 pm  [blur] 1
+INFO 12/2/2025, 10:31:48 pm  [win] blur
+INFO 12/2/2025, 10:31:48 pm  [focus] 1
+INFO 12/2/2025, 10:31:48 pm  [blur] 1
+INFO 12/2/2025, 10:31:48 pm  [win] blur
+INFO 12/2/2025, 10:32:50 pm  [focus] 1
+INFO 12/2/2025, 10:32:50 pm  [blur] 1
+INFO 12/2/2025, 10:32:50 pm  [win] blur
+INFO 12/2/2025, 10:33:10 pm  [focus] 1
+INFO 12/2/2025, 10:33:11 pm  [blur] 1
+INFO 12/2/2025, 10:33:11 pm  [win] blur
+INFO 12/2/2025, 10:33:15 pm  [focus] 1
+INFO 12/2/2025, 10:33:21 pm  [blur] 1
+INFO 12/2/2025, 10:33:21 pm  [win] blur
+INFO 12/2/2025, 10:33:23 pm  [focus] 1
+INFO 12/2/2025, 10:33:24 pm  [blur] 1
+INFO 12/2/2025, 10:33:24 pm  [win] blur
+INFO 12/2/2025, 11:15:14 pm  [focus] 1
+INFO 12/2/2025, 11:15:15 pm  [blur] 1
+INFO 12/2/2025, 11:15:15 pm  [win] blur
+INFO 12/2/2025, 11:15:15 pm  [focus] 1
+INFO 12/2/2025, 11:15:37 pm  synced recovery
+INFO 12/2/2025, 11:15:38 pm  synced recovery
+INFO 12/2/2025, 11:15:39 pm  synced recovery
+INFO 12/2/2025, 11:16:05 pm  synced recovery
+INFO 12/2/2025, 11:16:09 pm  synced recovery
+INFO 12/2/2025, 11:16:12 pm  synced recovery
+INFO 12/2/2025, 11:16:14 pm  synced recovery
+INFO 12/2/2025, 11:16:19 pm  synced recovery
+INFO 12/2/2025, 11:16:21 pm  synced recovery
+INFO 12/2/2025, 11:16:24 pm  synced recovery
+INFO 12/2/2025, 11:16:26 pm  synced recovery
+INFO 12/2/2025, 11:16:29 pm  synced recovery
+INFO 12/2/2025, 11:16:34 pm  synced recovery
+INFO 12/2/2025, 11:16:37 pm  synced recovery
+INFO 12/2/2025, 11:16:40 pm  synced recovery
+INFO 12/2/2025, 11:16:41 pm  synced recovery
+INFO 12/2/2025, 11:16:44 pm  synced recovery
+INFO 12/2/2025, 11:16:47 pm  synced recovery
+INFO 12/2/2025, 11:16:49 pm  synced recovery
+INFO 12/2/2025, 11:16:50 pm  synced recovery
+INFO 12/2/2025, 11:16:51 pm  synced recovery
+INFO 12/2/2025, 11:16:57 pm  synced recovery
+INFO 12/2/2025, 11:16:59 pm  synced recovery
+INFO 12/2/2025, 11:17:02 pm  synced recovery
+INFO 12/2/2025, 11:17:05 pm  synced recovery
+INFO 12/2/2025, 11:17:06 pm  synced recovery
+INFO 12/2/2025, 11:17:09 pm  synced recovery
+INFO 12/2/2025, 11:17:13 pm  synced recovery
+INFO 12/2/2025, 11:17:13 pm  [blur] 1
+INFO 12/2/2025, 11:17:13 pm  [win] blur
+INFO 12/2/2025, 11:17:14 pm  [focus] 1
+INFO 12/2/2025, 11:18:32 pm  synced recovery
+INFO 12/2/2025, 11:18:37 pm  synced recovery
+INFO 12/2/2025, 11:18:40 pm  synced recovery
+INFO 12/2/2025, 11:18:43 pm  synced recovery
+INFO 12/2/2025, 11:18:48 pm  synced recovery
+INFO 12/2/2025, 11:18:51 pm  synced recovery
+INFO 12/2/2025, 11:18:54 pm  synced recovery
+INFO 12/2/2025, 11:18:57 pm  synced recovery
+INFO 12/2/2025, 11:19:00 pm  synced recovery
+INFO 12/2/2025, 11:19:02 pm  synced recovery
+INFO 12/2/2025, 11:19:05 pm  synced recovery
+INFO 12/2/2025, 11:19:08 pm  synced recovery
+INFO 12/2/2025, 11:20:35 pm  synced recovery
+INFO 12/2/2025, 11:20:39 pm  synced recovery
+INFO 12/2/2025, 11:20:44 pm  synced recovery
+INFO 12/2/2025, 11:20:46 pm  synced recovery
+INFO 12/2/2025, 11:20:49 pm  synced recovery
+INFO 12/2/2025, 11:20:52 pm  synced recovery
+INFO 12/2/2025, 11:20:53 pm  synced recovery
+INFO 12/2/2025, 11:20:59 pm  [blur] 1
+INFO 12/2/2025, 11:20:59 pm  [win] blur
+INFO 12/2/2025, 11:20:59 pm  synced recovery
+INFO 12/2/2025, 11:21:00 pm  [focus] 1
+INFO 12/2/2025, 11:21:00 pm  [blur] 1
+INFO 12/2/2025, 11:21:00 pm  [win] blur
+INFO 12/2/2025, 11:21:02 pm  [focus] 1
+INFO 12/2/2025, 11:21:02 pm  [blur] 1
+INFO 12/2/2025, 11:21:02 pm  [win] blur
+INFO 12/2/2025, 11:22:55 pm  [focus] 1
+INFO 12/2/2025, 11:22:55 pm  [blur] 1
+INFO 12/2/2025, 11:22:55 pm  [win] blur
+INFO 12/2/2025, 11:22:57 pm  [focus] 1
+INFO 12/2/2025, 11:23:18 pm  synced recovery
+INFO 12/2/2025, 11:23:21 pm  synced recovery
+INFO 12/2/2025, 11:23:25 pm  synced recovery
+INFO 12/2/2025, 11:23:29 pm  synced recovery
+INFO 12/2/2025, 11:23:31 pm  synced recovery
+INFO 12/2/2025, 11:23:34 pm  synced recovery
+INFO 12/2/2025, 11:23:38 pm  synced recovery
+INFO 12/2/2025, 11:23:43 pm  synced recovery
+INFO 12/2/2025, 11:25:43 pm  synced recovery
+INFO 12/2/2025, 11:25:52 pm  [blur] 1
+INFO 12/2/2025, 11:25:52 pm  [win] blur
+INFO 12/2/2025, 11:25:58 pm  [focus] 1
+INFO 12/2/2025, 11:26:08 pm  [blur] 1
+INFO 12/2/2025, 11:26:08 pm  [win] blur
+INFO 12/2/2025, 11:26:12 pm  [focus] 1
+INFO 12/2/2025, 11:26:12 pm  [blur] 1
+INFO 12/2/2025, 11:26:12 pm  [win] blur
+INFO 12/2/2025, 11:26:14 pm  [focus] 1
+INFO 12/2/2025, 11:26:14 pm  [blur] 1
+INFO 12/2/2025, 11:26:14 pm  [win] blur
+INFO 12/2/2025, 11:26:28 pm  [focus] 1
+INFO 12/2/2025, 11:26:38 pm  synced recovery
+INFO 12/2/2025, 11:27:00 pm  synced recovery
+INFO 12/2/2025, 11:27:00 pm  [blur] 1
+INFO 12/2/2025, 11:27:00 pm  [win] blur
+INFO 12/2/2025, 11:27:13 pm  [focus] 1
+INFO 12/2/2025, 11:27:14 pm  [blur] 1
+INFO 12/2/2025, 11:27:14 pm  [win] blur
+INFO 12/2/2025, 11:27:23 pm  [focus] 1
+INFO 12/2/2025, 11:27:24 pm  [blur] 1
+INFO 12/2/2025, 11:27:24 pm  [win] blur
+INFO 12/2/2025, 11:29:08 pm  [focus] 1
+INFO 12/2/2025, 11:29:09 pm  [blur] 1
+INFO 12/2/2025, 11:29:09 pm  [win] blur
+INFO 12/2/2025, 11:38:11 pm  [focus] 1
+INFO 12/2/2025, 11:38:12 pm  [blur] 1
+INFO 12/2/2025, 11:38:12 pm  [win] blur
+INFO 12/2/2025, 11:38:13 pm  [focus] 1
+INFO 12/2/2025, 11:38:14 pm  [blur] 1
+INFO 12/2/2025, 11:38:14 pm  [win] blur
+INFO 12/2/2025, 11:38:52 pm  [focus] 1
+INFO 12/2/2025, 11:38:55 pm  synced recovery
+INFO 12/2/2025, 11:38:55 pm  synced recovery
+INFO 12/2/2025, 11:38:56 pm  synced recovery
+INFO 12/2/2025, 11:39:03 pm  synced recovery
+INFO 12/2/2025, 11:39:07 pm  [blur] 1
+INFO 12/2/2025, 11:39:07 pm  [win] blur
+INFO 12/2/2025, 11:41:14 pm  [focus] 1
+INFO 12/2/2025, 11:41:27 pm  [blur] 1
+INFO 12/2/2025, 11:41:27 pm  [win] blur
+INFO 12/2/2025, 11:41:37 pm  [focus] 1
+INFO 12/2/2025, 11:41:39 pm  synced recovery
+INFO 12/2/2025, 11:41:42 pm  synced recovery
+INFO 12/2/2025, 11:41:46 pm  synced recovery
+INFO 12/2/2025, 11:41:51 pm  synced recovery
+INFO 12/2/2025, 11:41:54 pm  synced recovery
+INFO 12/2/2025, 11:41:57 pm  synced recovery
+INFO 12/2/2025, 11:42:00 pm  synced recovery
+INFO 12/2/2025, 11:42:01 pm  synced recovery
+INFO 12/2/2025, 11:42:04 pm  synced recovery
+INFO 12/2/2025, 11:42:07 pm  synced recovery
+INFO 12/2/2025, 11:42:10 pm  synced recovery
+INFO 12/2/2025, 11:42:11 pm  synced recovery
+INFO 12/2/2025, 11:42:15 pm  synced recovery
+INFO 12/2/2025, 11:42:17 pm  synced recovery
+INFO 12/2/2025, 11:42:18 pm  synced recovery
+INFO 12/2/2025, 11:42:21 pm  synced recovery
+INFO 12/2/2025, 11:42:24 pm  synced recovery
+INFO 12/2/2025, 11:42:28 pm  synced recovery
+INFO 12/2/2025, 11:42:30 pm  synced recovery
+INFO 12/2/2025, 11:42:33 pm  synced recovery
+INFO 12/2/2025, 11:42:37 pm  synced recovery
+INFO 12/2/2025, 11:42:39 pm  synced recovery
+INFO 12/2/2025, 11:42:41 pm  synced recovery
+INFO 12/2/2025, 11:42:42 pm  synced recovery
+INFO 12/2/2025, 11:42:47 pm  synced recovery
+INFO 12/2/2025, 11:42:52 pm  synced recovery
+INFO 12/2/2025, 11:42:56 pm  synced recovery
+INFO 12/2/2025, 11:42:57 pm  synced recovery
+INFO 12/2/2025, 11:42:58 pm  synced recovery
+INFO 12/2/2025, 11:43:01 pm  synced recovery
+INFO 12/2/2025, 11:43:03 pm  synced recovery
+INFO 12/2/2025, 11:43:06 pm  synced recovery
+INFO 12/2/2025, 11:43:27 pm  synced recovery
+INFO 12/2/2025, 11:43:31 pm  synced recovery
+INFO 12/2/2025, 11:43:32 pm  synced recovery
+INFO 12/2/2025, 11:43:35 pm  synced recovery
+INFO 12/2/2025, 11:43:39 pm  synced recovery
+INFO 12/2/2025, 11:43:41 pm  synced recovery
+INFO 12/2/2025, 11:43:44 pm  synced recovery
+INFO 12/2/2025, 11:43:48 pm  synced recovery
+INFO 12/2/2025, 11:43:51 pm  synced recovery
+INFO 12/2/2025, 11:43:54 pm  synced recovery
+INFO 12/2/2025, 11:43:56 pm  synced recovery
+INFO 12/2/2025, 11:44:01 pm  synced recovery
+INFO 12/2/2025, 11:44:04 pm  synced recovery
+INFO 12/2/2025, 11:44:06 pm  synced recovery
+INFO 12/2/2025, 11:44:09 pm  synced recovery
+INFO 12/2/2025, 11:44:18 pm  synced recovery
+INFO 12/2/2025, 11:44:21 pm  synced recovery
+INFO 12/2/2025, 11:44:27 pm  synced recovery
+INFO 12/2/2025, 11:44:30 pm  synced recovery
+INFO 12/2/2025, 11:44:35 pm  synced recovery
+INFO 12/2/2025, 11:44:37 pm  synced recovery
+INFO 12/2/2025, 11:44:40 pm  synced recovery
+INFO 12/2/2025, 11:44:42 pm  synced recovery
+INFO 12/2/2025, 11:44:44 pm  synced recovery
+INFO 12/2/2025, 11:44:47 pm  synced recovery
+INFO 12/2/2025, 11:44:50 pm  synced recovery
+INFO 12/2/2025, 11:44:51 pm  synced recovery
+INFO 12/2/2025, 11:44:54 pm  synced recovery
+INFO 12/2/2025, 11:44:57 pm  synced recovery
+INFO 12/2/2025, 11:44:58 pm  synced recovery
+INFO 12/2/2025, 11:45:02 pm  synced recovery
+INFO 12/2/2025, 11:45:05 pm  synced recovery
+INFO 12/2/2025, 11:45:10 pm  synced recovery
+INFO 12/2/2025, 11:45:11 pm  synced recovery
+INFO 12/2/2025, 11:45:17 pm  synced recovery
+INFO 12/2/2025, 11:45:19 pm  synced recovery
+INFO 12/2/2025, 11:45:22 pm  synced recovery
+INFO 12/2/2025, 11:46:14 pm  synced recovery
+INFO 12/2/2025, 11:46:18 pm  synced recovery
+INFO 12/2/2025, 11:46:20 pm  synced recovery
+INFO 12/2/2025, 11:46:23 pm  synced recovery
+INFO 12/2/2025, 11:46:27 pm  synced recovery
+INFO 12/2/2025, 11:46:29 pm  synced recovery
+INFO 12/2/2025, 11:46:33 pm  synced recovery
+INFO 12/2/2025, 11:46:35 pm  synced recovery
+INFO 12/2/2025, 11:46:41 pm  synced recovery
+INFO 12/2/2025, 11:46:45 pm  synced recovery
+INFO 12/2/2025, 11:46:46 pm  synced recovery
+INFO 12/2/2025, 11:47:33 pm  synced recovery
+INFO 12/2/2025, 11:47:35 pm  synced recovery
+INFO 12/2/2025, 11:47:38 pm  synced recovery
+INFO 12/2/2025, 11:47:41 pm  synced recovery
+INFO 12/2/2025, 11:48:26 pm  synced recovery
+INFO 12/2/2025, 11:48:30 pm  synced recovery
+INFO 12/2/2025, 11:48:43 pm  synced recovery
+INFO 12/2/2025, 11:48:46 pm  synced recovery
+INFO 12/2/2025, 11:48:50 pm  synced recovery
+INFO 12/2/2025, 11:48:52 pm  synced recovery
+INFO 12/2/2025, 11:49:03 pm  synced recovery
+INFO 12/2/2025, 11:49:06 pm  synced recovery
+INFO 12/2/2025, 11:49:09 pm  synced recovery
+INFO 12/2/2025, 11:49:13 pm  synced recovery
+INFO 12/2/2025, 11:49:16 pm  synced recovery
+INFO 12/2/2025, 11:49:18 pm  synced recovery
+INFO 12/2/2025, 11:49:22 pm  synced recovery
+INFO 12/2/2025, 11:49:23 pm  synced recovery
+INFO 12/2/2025, 11:49:24 pm  synced recovery
+INFO 12/2/2025, 11:49:27 pm  synced recovery
+INFO 12/2/2025, 11:49:31 pm  synced recovery
+INFO 12/2/2025, 11:49:32 pm  synced recovery
+INFO 12/2/2025, 11:49:32 pm  ----------------before-quit-----------------
+INFO 12/2/2025, 11:49:32 pm  ------------------will-quit------------------
+INFO 12/2/2025, 11:49:32 pm  -----------------quit------------------
+INFO 12/2/2025, 11:49:32 pm  closeLogging

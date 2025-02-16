@@ -6,6 +6,7 @@ alias nch = ping -c 5 8.8.8.8
 alias clr = clear
 alias cargo = ~/.cargo/bin/cargo
 alias nv = neovide
+alias cl = z
 
 def srchpkg [pkg] {
     pacman -Qq | grep $pkg

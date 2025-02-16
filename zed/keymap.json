@@ -9,28 +9,33 @@
   {
     "context": "Workspace",
     "bindings": {
-      "ctrl-`": "workspace::ToggleBottomDock"
+      "alt-`": "workspace::ToggleBottomDock",
+      "alt-l": "workspace::ToggleRightDock",
+      "alt-s": "workspace::ToggleLeftDock"
     }
   },
   {
-    "context": "Terminal",
+    "context": "ProjectPanel",
     "bindings": {
-      "cmd-`": "workspace::ToggleBottomDock"
+      "alt-a": "project_panel::NewFile",
+      "alt-x": "project_panel::Cut",
+      "alt-p": "project_panel::Paste",
+      "alt-c": "project_panel::Copy",
+      "alt-d": "project_panel::Delete"
     }
   },
+
   {
     "context": "Editor",
     "bindings": {
       "alt-k": "editor::Hover",
       "gd": "editor::GoToDefinition",
-      "ctrl-tab": "editor::Tab",
-      "ctrl-left": "pane::ActivatePrevItem",
-      "ctrl-right": "pane::ActivateNextItem",
-      "ctrl-c": "pane::CloseActiveItem"
+      "alt-tab": "editor::Tab",
+      "alt-left": "pane::ActivatePrevItem",
+      "alt-right": "pane::ActivateNextItem",
+      "alt-c": "pane::CloseActiveItem",
+      "alt-alt": "file_finder::Toggle",
+      "alt-space": "command_palette::Toggle"
     }
   }
 ]
-//s, see the Zed
-// documentation: https://zed.dev/docs/key-bindings
-//
-// To see the default key bindings run `zed: open default keymap` // from the command palette.

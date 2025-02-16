@@ -1,15 +1,26 @@
-// Zed settings
-//
-// For information on how to configure Zed, see the Zed
-// documentation: https://zed.dev/docs/configuring-zed
-//
-// To see all of Zed's default settings without changing your
-// custom settings, run `zed: open default settings` from the
-// command palette (cmd-shift-p / ctrl-shift-p)
 {
   "features": {
-    "inline_completion_provider": "none"
+    "edit_prediction_provider": "none"
   },
+  "project_panel": {
+    "button": true,
+    "default_width": 240,
+    "dock": "right",
+    "entry_spacing": "comfortable",
+    "file_icons": true,
+    "folder_icons": true,
+    "git_status": true,
+    "indent_size": 20,
+    "auto_reveal_entries": true,
+    "auto_fold_dirs": true,
+    "scrollbar": {
+      "show": null
+    },
+    "indent_guides": {
+      "show": "always"
+    }
+  },
+  "current_line_highlight": "none",
   "assistant": {
     "default_model": {
       "provider": "zed.dev",
@@ -17,15 +28,25 @@
     },
     "version": "2"
   },
-  "icon_theme": "Catppuccin Latte",
+  "icon_theme": "Material Icon Theme",
   "telemetry": {
     "diagnostics": false,
     "metrics": false
   },
+  "format_on_save": "on",
   "vim_mode": true,
   "base_keymap": "VSCode",
   "ui_font_size": 16,
-  "inactive_opacity": 0.76,
+  "inactive_opacity": 0.5,
+  "inlay_hints": {
+    "enabled": true,
+    "show_type_hints": true,
+    "show_parameter_hints": true,
+    "show_other_hints": true,
+    "show_background": false,
+    "edit_debounce_ms": 700,
+    "scroll_debounce_ms": 50
+  },
   "autosave": {
     "after_delay": {
       "milliseconds": 3000
