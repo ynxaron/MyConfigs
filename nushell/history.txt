@@ -1066,3 +1066,4 @@ zed .
 http get https://127.0.0.1:8080
 http get http://127.0.0.1:8080
 http get https://127.0.0.1:8080
+mail
