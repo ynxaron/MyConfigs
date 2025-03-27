@@ -1,0 +1,7 @@
+2025-02-23 18:21:35.152 [info] Started local extension host with pid 5724.
+2025-02-23 18:21:35.193 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ynx/.vscode-oss/extensions
+2025-02-23 18:21:35.376 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ynx/.vscode-oss/extensions
+2025-02-23 18:21:38.297 [info] [perf] Render performance baseline is 56ms
+2025-02-23 18:22:06.524 [info] Started local extension host with pid 5871.
+2025-02-23 18:22:09.226 [info] [perf] Render performance baseline is 54ms
+2025-02-23 18:22:16.530 [error] lock() request could not be registered.: Error: lock() request could not be registered.

@@ -1,0 +1,21 @@
+2025/03/20-15:04:16.896 4387 Creating DB /home/ynx/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb since it was missing.
+2025/03/20-15:04:16.901 4387 Reusing MANIFEST /home/ynx/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/03/20-15:04:20.086 4389 Level-0 table #5: started
+2025/03/20-15:04:20.097 4389 Level-0 table #5: 2179579 bytes OK
+2025/03/20-15:04:20.101 4389 Delete type=0 #3
+2025/03/20-15:04:29.627 4389 Level-0 table #7: started
+2025/03/20-15:04:29.643 4389 Level-0 table #7: 1913081 bytes OK
+2025/03/20-15:04:29.646 4389 Delete type=0 #4
+2025/03/20-15:04:29.664 4388 Compacting 1@1 + 1@2 files
+2025/03/20-15:04:29.684 4388 Generated table #8@1: 2931 keys, 1663273 bytes
+2025/03/20-15:04:29.684 4388 Compacted 1@1 + 1@2 files => 1663273 bytes
+2025/03/20-15:04:29.687 4388 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/20-15:07:06.297 4388 Level-0 table #10: started
+2025/03/20-15:07:06.309 4388 Level-0 table #10: 2029496 bytes OK
+2025/03/20-15:07:06.312 4388 Delete type=2 #5
+2025/03/20-15:07:06.313 4388 Delete type=0 #6
+2025/03/20-15:07:06.313 4388 Delete type=2 #7
+2025/03/20-15:07:06.534 4387 Compacting 1@1 + 1@2 files
+2025/03/20-15:07:06.553 4387 Generated table #11@1: 3212 keys, 1507835 bytes
+2025/03/20-15:07:06.553 4387 Compacted 1@1 + 1@2 files => 1507835 bytes
+2025/03/20-15:07:06.556 4387 compacted to: files[ 0 0 1 0 0 0 0 ]

@@ -1,0 +1,14 @@
+2025-03-01 11:20:31.716 [info] Getting Manifest... vscodevim.vim
+2025-03-01 11:20:34.150 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ynx/.vscode-oss/extensions/extensions.json","path":"/home/ynx/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-13T22:43:37.147Z"}}
+2025-03-01 11:20:36.019 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-01 11:20:36.019 [info] Extension signature verification is not done: vscodevim.vim
+2025-03-01 11:20:36.056 [info] Extracted extension to file:///home/ynx/.vscode-oss/extensions/vscodevim.vim-1.29.0-universal: vscodevim.vim
+2025-03-01 11:20:36.060 [info] Renamed to /home/ynx/.vscode-oss/extensions/vscodevim.vim-1.29.0-universal
+2025-03-01 11:20:36.070 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/ynx/.vscode-oss/extensions/extensions.json
+2025-03-01 12:57:49.397 [info] Getting Manifest... llam4u.nerdtree
+2025-03-01 12:57:51.174 [info] Installing extension: llam4u.nerdtree {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ynx/.vscode-oss/extensions/extensions.json","path":"/home/ynx/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-13T22:43:37.147Z"}}
+2025-03-01 12:58:00.477 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-03-01 12:58:00.478 [info] Extension signature verification is not done: llam4u.nerdtree
+2025-03-01 12:58:00.630 [info] Extracted extension to file:///home/ynx/.vscode-oss/extensions/llam4u.nerdtree-1.2.1-universal: llam4u.nerdtree
+2025-03-01 12:58:00.633 [info] Renamed to /home/ynx/.vscode-oss/extensions/llam4u.nerdtree-1.2.1-universal
+2025-03-01 12:58:00.642 [info] Extension installed successfully: llam4u.nerdtree vscode-userdata:/home/ynx/.vscode-oss/extensions/extensions.json

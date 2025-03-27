@@ -1,0 +1,282 @@
+wget https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-nightly/firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+chmod +x firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+atuin search --delete
+atuin search --delete-it-all
+rm firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+git push
+git push -o origin main
+vim ~/.junk/zsh_history
+cd ~/Writings
+git push -u origin main
+gnome-nettool
+
+mv ~/.junk/zsh_history ./
+mpv HasanAbi/ABSOLUTELY\ WILD\ ZELENSKY\ TRUMP\ MEETING.webm
+ls OSXDaily
+rm OSXDaily
+rm Samir\'s\ Tech\ Tips
+ls HasanAbi
+zed ~/.junk
+mkdir leetcode
+zed leetcode
+touch median_of_two_sorted_arr.py
+mpv Dr.K.\ Sutha/Connect\ Two\ Different\ Networks\ using\ Router\ in\ Cisco\ Packet\ Tracer\ -\ Step\ by\ Step\ Instructions.webm
+mpv Learn\ With\ Mukul/Star\ Topology\ in\ Cisco\ Packet\ Tracer\ ï½ƒ¼\ How\ to\ Make\ it\ ï½ƒ¼\ Computer\ Networks\ ï½ƒ¼\ Cisco_Networking_Academy.webm
+mpv TECH\ MAHASAY/Bus\ Topology\ in\ Cisco\ Packet\ Tracer\ ï½ƒ¼\ Network\ Topology\ ï½ƒ¼\ \#bustopology\ \#CiscoPacketTracer.webm
+mpv 837448000.mp4
+cd .config
+cd hypr
+vim hyprlock
+cd ../.local/share
+cd hyde
+vim hyprlock.conf
+mpv V v
+cd v v
+cd Videos/VidEssays
+mv another-test .junk
+rm Dr.K.\ Sutha
+rm Learn\ With\ Mukul
+rm TECH\ MAHASAY
+mpv Ellen\ Brock/5\ Ways\ to\ Write\ Better\ Descriptions\ for\ Creative\ Writers.webm
+cd Videos/yt-x/videos'
+cd Ellen\ Brock
+mpv 5\ MORE\ Ways\ to\ Write\ Better\ Descriptions\ in\ Your\ Novel.mkv
+mpv 12\ Ways\ to\ Write\ Better\ Sentences\ for\ Creative\ Writers.webm
+cd Videos
+echo 'Have a good day $USERNAME'
+vim "$(where ytx)"
+source .zshrc
+$USERNAM
+$USERNAME
+echo $USERNAME
+vim .config/zsh/zshrc
+ani-cli "prison school"
+chmod +x zen-x86_64\ \(2\).AppImage
+mkdir NovelResearchPictures
+l
+git clone https://github.com/loefey/thundery/
+cd thundery
+cargo build --release
+./target/release/thundery
+cd ~/.config/thundery
+vim thundery.toml
+cd NovelResearchPictures
+cargo install gitui
+cd ~/.repos
+cd Aurras
+python -m venv aurras
+chmod +x aurras/bin/activate
+./aurras/bin/activate
+vim ./dev_install.sh
+./dev_install.sh
+yt-dlp 'https://www.youtube.com/watch?v=9MCwb7ojaPw'
+rm zen-x86_64\ \(2\).AppImage
+ruff
+ruff -h
+mpv BadEmpanada\ Explains\ How\ Zionists\ Weaponize\ Stupidity\ ï½ƒ¼\ Hasanabi\ Reacts\ \[9MCwb7ojaPw\].webm
+vim .config/hypr/keybindings.conf
+mpv Hasan\ Reactions/Why\ China\ Will\ Never\ Surrender\ the\ South\ China\ Sea\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Johnny\ Harris\ \&\ Search\ Party.webm
+mpv BadEmpanada\ Live/Thank\ You\ to\ My\ Best\ Friend,\ Hasan\ Piker.webm
+mpv Mike\ From\ PA\ Industries\ \(Central_Committee\)/USAID\ is\ a\ Terrorist\ Organization\ ï½ƒ¼\ MikeFromPA\ reacts\ to\ Hakim.mkv
+mpv Hasan\ Reactions/Genocide\ Defenders\ Get\ Even\ Worse\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ BadEmpanada.webm
+mpv Hasanabi\ Productions/How\ to\ Defend\ Genocide\ ï½ƒ¼\ Hasanabi\ reacts\ to\ BadEmpanada.webm
+cd Codes
+cd .junk
+cd leetcode
+mpv median_of_two_sorted_arr.py
+vim median_of_two_sorted_arr.py
+clera
+clear
+python median_of_two_sorted_arr.py
+mpv Ellen\ Brock/The\ Character\ Arc\ meets\ Story\ Structure.webm
+rm BadEmpanada\ Live
+rm Mike\ From\ PA\ Industries\ \(Central_Committee\)
+cd HasanAbi
+rm HasanAbi
+rm Hasanabi\ Productions
+cd Hasan\ Reactions
+mpv Is\ The\ US\ Headed\ Towards\ Fascismï¼ƒ¿\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Second\ Thought.webm
+ls Hasan\ Reactions
+rm Hasan\ Reactions
+cd HasanAbi\ Archive
+mpv Why\ The\ Military\ Plays\ Games\ To\ Prepare\ For\ War\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Johnny\ Harris.webm
+cd Videos/yt-x/videos/HasanAbi\ Archive
+cd ../Hasan\ Reactions
+mpv A\ Story\ of\ YouTube\ Propagandaï¼ƒº\ Johnny\ Harris\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Tom\ Nicholas.webm
+pkgsearch xway
+pkgsearch wayland
+bemenu
+bemenu -h
+mpv HasanAbi\ Archive/How\ â€ƒ¼Go\ To\ Gazaâ€ƒ½\ Became\ A\ Threat\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ BadEmpanada.mp4
+mpv Hasan\ Reactions/Trump\ is\ JEALOUS\ in\ Dual\ Interview\ with\ Elon\ ï½ƒ¼\ Hasanabi\ Reacts.mp4
+touch Medium/068_Task_Scheduler.py
+cd ~/Codes/leetcode
+rm maximum_substring_without_repeating.py
+ls Easy
+ls Medium
+ls Hard
+zed .
+cd V
+mpv The\ AudioBook/Anne\ Frank\ The\ Diary\ of\ a\ Young\ Girl\ \~The\ AudioBook\~.f
+ani-cli "kiss x sis"
+mpv The\ Kato\ Frank\ Podcast/Winona\ Ryder\ -\ The\ Diary\ of\ a\ Young\ Girl\ by\ Anne\ Frank\ \(Full\ Abridged\ Audiobook\).mp4
+mpv Fear\&/We\ Broke\ Our\ One\ Rule\ For\ Finneas\ ï½ƒ¼\ Fear\&.mp4
+cd C v
+cd Codes/n
+cd Videos/neetcode
+mpv 068_Task\ Scheduler\ -\ Leetcode\ 621\ -\ Python.webm
+lw
+rm Fear\&
+mpv Fireship/Deno\ 2\ is\ hereâ€¦\ will\ it\ actually\ kill\ Node.js\ this\ timeï¼ƒ¿.f401.mp4.part
+mpv Hasan\ Reactions/How\ the\ Hell\ Did\ Trump\ Actually\ Winï¼ƒ¿\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ F.D\ Signifier.mp4
+cd ~/Videos
+cd VidEssays
+mpv Who\'s\ Lilaï¼ƒ¿\ -\ Story\ Explained\ \[TiH2SjjowKw\].webm
+cd j
+mpv Exploring\ the\ Horrors\ of\ SOMA\ \[o_FCDAAvfy4\].mp4
+mpv Creepy\ Nuts/Creepy\ Nuts\ -\ ã‚ªãƒ£ƒ¨ãƒ£ƒ®ã‚±\(Otonoke\)\ ã€ƒ°Official\ MVã€ƒ±\ \[Dandadan\ OP\].mp4
+mpv Crunchyroll
+cd ~/Videos/yt-x/videos
+cd WASTE\ Mailing\ List
+mpv Solenoid\ by\ Mircea\ CaÌƒ¦rtaÌƒ¦rescu\ ï½ƒ¼\ BOOK\ REVIEW.mp4
+cd ../ytx
+cd yt-x
+cd videos
+cd How\ to\ DAD
+mpv HOW\ TO\ PLAY\ WITH\ A\ STICK.mp4
+cd Music
+ytx 
+mv ~/Videos/yt-x/videos/Coke\ Studio\ Pakistan/Coke\ Studio\ Season\ 8ï½ƒ¼\ Tajdar-e-Haramï½ƒ¼\ Atif\ Aslam.mp4 ./
+cd -
+cd c
+mpv Hasan\ Reactions/Is\ This\ Power\ Abuse\ Or\ Still\ Comedyï¼ƒ¿\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ The\ Soft\ Take.mp4
+nu
+hyprland
+echo "${USERNAME}"
+mpv Hasanabi\ Productions/Ethan\ Klein\ Goes\ MASK\ OFF\ On\ Hasan\ ï½ƒ¼\ Hasanabi\ reacts\ to\ BadEmpanada.mp4
+mpv Cricket\ Sambavangal/DC\ vs\ LSG\ Highlightsðƒ¿ƒ´¥\ Ashutosh\ Sharma\ Finishâƒ¼ƒ¥\ DC\ Won\ ï½ƒ¼\ R\ Pant\ Angry\ in\ IPL\ \ ï½ƒ¼\ IPL\ Highlights.mp4
+mpv NewsBook/DC\ vs\ LSG\ ï¼ƒº\ Ashutosh\ Sharma\ shines\ as\ Delhi\ Capitals\ beat\ Lucknow\ Super\ Giants\ by\ 1\ wicket.mp4
+cd Downloads
+mpv Tip\ Gets\ Pegged\ for\ the\ First\ Time_\ Gentle\ and\ Loving\ Femdom\ Encouragement\ to\ Take\ It\ and\ Enjoy\ It.mp4
+ipl
+vim "$(pwd)"
+mpv Hasanabi\ Productions/Hasan\ Interviews\ Anthony\ Fantano\ \&\ FD\ Signifier\ On\ Drake\ \&\ Kendrick\ Lamar\ Beef.mp4
+mpv UH\ Sports/Punjab\ vs\ Gujrat\ Live\ Match\ Score\ \&\ Commentary\ ï½ƒ¼\ PBKS\ Vs\ GT\ ï½ƒ¼\ IPL\ 2025\ Live\ Match\ Today,\ 1st\ In\ 10Ov\ 2025-03-25\ 21_46.mp4.part
+btop
+ip
+ip address
+ip fou
+iwctl
+mpv Evan\ Zhou/this\ code\ runs\ in\ both\ JS\ and\ Python..mp4
+cd .repos
+git clone github.com/evanzhoudev/polycompiler
+git clone https://www.github.com/evanzhoudev/polycompiler
+vim bin/merge.js
+ls bin
+node bin/merge.js
+cat README.md
+cd .repos/polycompiler
+polycompiler
+cat package.json
+npm i polycompiler
+npm list
+npm -h
+tldr npm
+ani-cli -h
+ani-cli --dub 
+zed Codes/leetcode
+zed Codes/leetcode/Medium/068_Task_Scheduler.py
+cd Codes/leetcode
+python Medium/068_Task_Scheduler.py
+python
+ani-cli --dub
+ani-cli
+ani-cli 
+mpv BrokenDaydream94/Prison\ schoolï¼ƒº\ What\ Happened\ After\ The\ Anime.mp4
+cd ReturningSun
+mpv Why\ Sonny\ Boy\ is\ So\ Beautiful.\ \(Video\ Essay\).f614.mp4.
+mpv Why\ Sonny\ Boy\ is\ So\ Beautiful.\ \(Video\ Essay\).f614.mp4.part
+mpv Why\ Sonny\ Boy\ is\ So\ Beautiful.\ \(Video\ Essay\).f614.mp4.ytdl
+echo "${pwd}"
+ls "${pwd}"
+ls /home/ynx
+rm \$MYVIMDIR
+ls node_modules
+rm package-lock.json
+rm package.json
+cd node_modules
+cd polycompiler
+cd bin
+rm node_modules
+vim python_javascript_polyglot
+python python_javascript_polyglot
+node python_javascript_polyglot
+mpv Why\ Sonny\ Boy\ is\ So\ Beautiful.\ \(Video\ Essay\).mp4
+cd ..
+mpv Akezura/How\ to\ Understand\ Sonny\ Boy.mp4
+cd olafsomething
+mpv A\ Video\ Essay\ About\ The\ Best\ Show\ Ever\ Made.mp4
+mv python_javascript_polyglot .junk
+mpv Lazy\ cosyPanda/Top\ 20\ shoujo\ anime\ you\ must\ watch\!\!.mp4
+ani-cli "nozaki:
+cd v
+cd y
+mpv Hasanabi\ Productions/The\ Genocide\ Supporting\ YouTubers\ Responded\ ï½ƒ¼\ Hasanabi\ reacts\ to\ Noah\ Samsen.mp4
+mpv HasanAbi\ Archive/The\ Worst\ YouTubers\ Are\ FURIOUS\ ï½ƒ¼\ HasanAbi\ Reacts\ to\ Noah\ Samsen.mp4
+python 
+download_path=/home/ynx/Downloads
+ls $download_path 
+ls $download_path
+cd Videos/yt-x/videos
+cd ytp
+cd $ytp
+vim 
+vim ~/.zshrc
+mpv Anim3Recon/Top\ 10\ Anime\ With\ INSANE\ Fanservice.mp4
+ani-cli "immoral guild"
+ani-cli "testament"
+cd Pictures
+cd Camera
+cd ../Screenshots
+vim .zshrc
+ls .cargo/bin
+cd .cargo/bin
+mpv Better\ Stack/The\ BEST\ Shell\ Youâ€ƒ¹re\ Not\ Using\ -\ Fish.mp4
+cd
+zed .config/fish
+oh-my-posh init fish | zed
+oh-my-posh init fish >> fish_shell.fish
+vim fish_shell.fish
+fisher
+mpv HasanAbi/INTERVIEWING\ YEMENI\ TIMOTHEE\ CHALAMET.mp4
+cd ContraPoints
+rm CONSPIRACY\ ï½ƒ¼\ contrapoints.f625.mp4.
+rm CONSPIRACY\ ï½ƒ¼\ contrapoints.f625.mp4.part
+rm CONSPIRACY\ ï½ƒ¼\ contrapoints.f625.mp4.ytdl
+yt-dlp -F 'https://www.youtube.com/watch?v=teqkK0RLNkI'
+yt-dlp 'https://www.youtube.com/watch?v=teqkK0RLNkI'
+mpv CONSPIRACY\ ï½ƒ¼\ contrapoints\ \[teqkK0RLNkI\].mp4
+pwd
+ls "$(pwd)"
+ls Music
+cat fish_shell.fish
+ncg
+ani-cli -U
+ani-cli "nozaki"
+ani-cli "daily lives"
+mpv communiTV/Top\ 10\ Shoujo\ Anime\ Series.mp4
+ani-cli "yona of the dawn"
+ytp
+yt-dlp https://www.youtube.com/watch?v=OYlMU1gv6PE
+which pfetch
+fish
+~/.repos/bin/ytx
+fzf
+mpv Coach\ Hesson
+cd Coach\ Hesson
+mpv Mike\ Hesson\ Previews\ IPL\ Match\ 6\ -\ Rajasthan\ Royals\ vs\ Kolkata\ Knight\ Riders\ \#RRvKKR.mp4
+mpv MIKE\ HESSON\ Previews\ \#IPL2025\ \#RCB\ vs\ \#KKR\ ï½ƒ¼\ the\ in-depth\ preview\!.mp4
+ls
+rm Mike\ Hesson\ Previews\ IPL\ Match\ 6\ -\ Rajasthan\ Royals\ vs\ Kolkata\ Knight\ Riders\ \#RRvKKR.mp4
+ytx
+nch

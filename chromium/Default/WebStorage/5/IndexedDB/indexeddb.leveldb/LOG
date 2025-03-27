@@ -1,0 +1,23 @@
+2025/03/20-15:02:30.042 4387 Reusing MANIFEST /home/ynx/.config/chromium/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/03/20-15:02:30.042 4387 Recovering log #4
+2025/03/20-15:02:30.047 4387 Reusing old log /home/ynx/.config/chromium/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/000004.log 
+2025/03/20-15:02:32.793 4389 Level-0 table #8: started
+2025/03/20-15:02:32.808 4389 Level-0 table #8: 2903858 bytes OK
+2025/03/20-15:02:32.813 4389 Delete type=0 #4
+2025/03/20-15:02:44.622 4388 Compacting 1@1 + 1@2 files
+2025/03/20-15:02:44.641 4388 Generated table #9@1: 1730 keys, 2119168 bytes
+2025/03/20-15:02:44.645 4388 Generated table #10@1: 1466 keys, 338655 bytes
+2025/03/20-15:02:44.645 4388 Compacted 1@1 + 1@2 files => 2457823 bytes
+2025/03/20-15:02:44.647 4388 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/03/20-15:02:44.648 4388 Delete type=2 #5
+2025/03/20-15:02:44.648 4388 Delete type=2 #8
+2025/03/20-15:02:47.242 4388 Level-0 table #12: started
+2025/03/20-15:02:47.256 4388 Level-0 table #12: 2098599 bytes OK
+2025/03/20-15:02:47.260 4388 Delete type=0 #7
+2025/03/20-15:02:47.282 4388 Compacting 1@1 + 2@2 files
+2025/03/20-15:02:47.299 4388 Generated table #13@1: 3101 keys, 2117544 bytes
+2025/03/20-15:02:47.299 4388 Compacted 1@1 + 2@2 files => 2117544 bytes
+2025/03/20-15:02:47.302 4388 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/20-15:02:47.302 4388 Delete type=2 #9
+2025/03/20-15:02:47.302 4388 Delete type=2 #10
+2025/03/20-15:02:47.302 4388 Delete type=2 #12

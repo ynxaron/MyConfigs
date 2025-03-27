@@ -1,0 +1,6 @@
+2025/03/16-18:25:47.280 1178e Reusing MANIFEST /home/ynx/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/16-18:25:47.281 1178e Recovering log #61
+2025/03/16-18:25:47.294 1178e Reusing old log /home/ynx/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000061.log 
+2025/03/16-18:42:38.252 1178e Level-0 table #67: started
+2025/03/16-18:42:38.264 1178e Level-0 table #67: 2385516 bytes OK
+2025/03/16-18:42:38.267 1178e Delete type=0 #61

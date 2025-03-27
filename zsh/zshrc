@@ -11,25 +11,23 @@
 #       ##                         &&    &&
 #                 @ynx.aron               \\
 #                                          ##
-# Exporting $Variables
-export ZSH="$HOME/.oh-my-zsh"
-export LANG=en_IN.UTF-8
 
-###########################[PATHS]##################################
+###########################[PATHS and VARIABLES]##############################
+# VARIABLES
+export LANG=en_IN.UTF-8
+export GOPATH=/home/ynx/.repos/go
+export USERNAME="aron"
+# PATHS
 export PATH=$PATH:/home/ynx/.local/bin
 export PATH=$PATH:/home/ynx/.cargo/bin
-###########################[PATHS]##################################
-
-# oh-my-zsh Themes
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-interactive-cd zsh-navigation-tools aliases fzf)
-
-#[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-
-# POWERLEVEL9K
-source $ZSH/oh-my-zsh.sh
-source ~/powerlevel10k/powerlevel10k.zsh-theme
+export PATH=$PATH:/home/ynx/.repos/bin
+export PATH=$PATH:/home/ynx/.atuin/bin
+export PATH=$PATH:/home/ynx/.spicetify
+export PATH=$PATH:/GOPATH
+#######################[//PATHS and VARIABLES//]###############################
 
 #######################[ALIASES and FUNCTIONS]#######################
+#FUNCTIONS
 function pkgsearch() {
 	yay -Qq | grep $1
 }
@@ -39,7 +37,7 @@ function y() {
 	if cwd="$(command cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
 		builtin cd -- "$cwd"
 	fi
-	mv "$tmp" ~/.trash/
+	mv "$tmp" /home/ynx/.local/share/Trash/files
 }
 function rm() {
 	if [ -d $1 ]; then
@@ -52,18 +50,41 @@ function rm() {
 	else
         echo "The Input is a File. Moving it to Trash"
     fi
-    mv $1 ~/.local/share/Trash/files
+    mv $1 ~/.local/share/Trash/files/
 }
 
+function rm_test() {
+    NAME=$1
+    if [ -e ~/.local/share/Trash/files/ $NAME ]; then
+        echo $NAME
+        NAME=${NAME}_copy
+    fi
+}
+
+function gcmt() {
+	git commit -m $1
+}
+
+function ytp() {
+	cd /home/ynx/Videos/yt-x/videos
+}
+
+function progkill() {
+	kill "$(pidof $1)"
+}
+#ALIASES
 #
-alias cd=z
-alias cdi=zi
 alias ls='lsd'
 alias lsa='lsd -a'
 alias pftch='~/.cargo/bin/pfetch'
-alias nch='ping -c 5 8.8.8.8'
-alias ds=dust
-alias clr=clear
+alias nch='ping -c 5 8.8.8.8' alias ds=dust alias clr=clear
+alias cat=bat
+alias hx=helix
+alias cdi='__zoxide_zi'
+alias gst='git status'
+alias gls='git ls-files'
+alias du=/home/ynx/.cargo/bin/dust
+alias yt-dlp='/home/ynx/.repos/yt-dlp/yt-dlp'
 #
 alias kbedit='nvim /home/ynx/.config/hypr/keybindings.conf'
 alias zshedit='nvim /home/ynx/.config/zshrc'
@@ -71,16 +92,74 @@ alias nuedit='nvim /home/ynx/.config/nushell'
 alias zcnfedit='zed ~/.config'
 alias ncnfedit='nvim ~/.config'
 #
-#######################[ALIASES and FUNCTIONS]#######################
-# ATUIN
-. "$HOME/.atuin/bin/env"
-eval "$(atuin init zsh)"
 
-# ZOXIDE
-eval "$(zoxide init zsh)"
+# Initiating fetch here because loading times gets too much
+pfetch
+######################[//ALIASES and FUNCTIONS//]######################
+eval "$(fzf --zsh)"
+eval "$(zoxide init --cmd cd zsh)"
+eval "$(oh-my-posh init zsh --config $HOME/.config/oh-my-posh/zen.json)"
 
-# Oh-My-Posh Initializing
-#eval "$(oh-my-posh init zsh --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/amro.omp.json)"
+### Added by Zinit's installer
+if [[ ! -f $HOME/.local/share/zinit/zinit.git/zinit.zsh ]]; then
+    print -P "%F{33} %F{220}Installing %F{33}ZDHARMA-CONTINUUM%F{220} Initiative Plugin Manager (%F{33}zdharma-continuum/zinit%F{220})…%f"
+    command mkdir -p "$HOME/.local/share/zinit" && command chmod g-rwX "$HOME/.local/share/zinit"
+    command git clone https://github.com/zdharma-continuum/zinit "$HOME/.local/share/zinit/zinit.git" && \
+        print -P "%F{33} %F{34}Installation successful.%f%b" || \
+        print -P "%F{160} The clone has failed.%f%b"
+fi
 
-# NEOFETCH
-~/repos/shell-color-scripts/colorscript.sh -r
+source "$HOME/.local/share/zinit/zinit.git/zinit.zsh"
+autoload -Uz _zinit
+(( ${+_comps} )) && _comps[zinit]=_zinit
+
+# Load a few important annexes, without Turbo
+# (this is currently required for annexes)
+zinit light-mode for \
+    zdharma-continuum/zinit-annex-as-monitor \
+    zdharma-continuum/zinit-annex-bin-gem-node \
+    zdharma-continuum/zinit-annex-patch-dl \
+    zdharma-continuum/zinit-annex-rust
+
+### End of Zinit's installer chunk
+
+# Installing zinit plugins
+zinit light zsh-users/zsh-syntax-highlighting
+zinit light zsh-users/zsh-completions
+zinit light Aloxaf/fzf-tab
+
+zinit ice as"command" from"gh-r" bpick"atuin-*.tar.gz" mv"atuin*/atuin -> atuin" \
+    atclone"./atuin init zsh > init.zsh; ./atuin gen-completions --shell zsh > _atuin" \
+    atpull"%atclone" src"init.zsh"
+zinit light atuinsh/atuin
+
+# Setting up History Size
+HISTSIZE=5000
+HISTFILE=~/.config/zsh/zsh_history
+SAVEHIST=$HISTSIZE
+HISTDUP=erase
+
+setopt appendhistory
+setopt sharehistory
+setopt hist_ignore_space
+setopt hist_ignore_all_dups
+setopt hist_save_no_dups
+setopt hist_ignore_dups
+setopt hist_find_no_dups
+
+bindkey '^p' history-search-backward
+bindkey '^n' history-search-forward
+
+zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
+zstyle ':completion:*' menu no
+zstyle ':completion:*' list-colors '${(s.:.)LS_COLORS}'
+zstyle ':fzf-tab:completion:cd:*' fzf-preview 'ls --color $realpath'
+
+autoload -U compinit && compinit
+. "/home/ynx/.deno/env"
+
+. "$HOME/.local/share/../bin/env"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

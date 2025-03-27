@@ -1,0 +1,14 @@
+{
+	"imageFolderPath": "/home/ynx/.config/marktext/images",
+	"screenshotFolderPath": "/home/ynx/.config/marktext/screenshot",
+	"webImages": [],
+	"cloudImages": [],
+	"currentUploader": "none",
+	"imageBed": {
+		"github": {
+			"owner": "",
+			"repo": "",
+			"branch": ""
+		}
+	}
+}

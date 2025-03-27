@@ -1,0 +1,6 @@
+2025/03/05-05:59:59.838 6247 Reusing MANIFEST /home/ynx/.config/anytype/Local Storage/leveldb/MANIFEST-000001
+2025/03/05-05:59:59.842 6247 Recovering log #4
+2025/03/05-05:59:59.843 6247 Reusing old log /home/ynx/.config/anytype/Local Storage/leveldb/000004.log 
+2025/03/05-06:01:00.974 6249 Level-0 table #8: started
+2025/03/05-06:01:00.977 6249 Level-0 table #8: 14925 bytes OK
+2025/03/05-06:01:00.981 6249 Delete type=0 #4

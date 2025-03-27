@@ -1,0 +1,133 @@
+{
+	"sidebar": {
+		"width": 262,
+		"isClosed": false
+	},
+	"accountId": "ABJt6TGjZuA4MZcr1jwC8L5yiZywQyN1se4BqpiBejtKSLHn",
+	"account": {
+		"ABJt6TGjZuA4MZcr1jwC8L5yiZywQyN1se4BqpiBejtKSLHn": {
+			"spaceId": "bafyreifklu72laqxgoatl3s44rimfgs2x6ph6fsc2i6uwwxlmfiw4myyra.2ybnm9lb9oeov",
+			"spaceOrder": [
+				"bafyreifklu72laqxgoatl3s44rimfgs2x6ph6fsc2i6uwwxlmfiw4myyra.2ybnm9lb9oeov",
+				"bafyreif6rhrvlhrwafufvvcwotl7dyltcka4p2bpfsrmwxu3t7xhourhdm",
+				"gallery",
+				"add"
+			]
+		}
+	},
+	"fullscreenObject": true,
+	"showRelativeDates": true,
+	"space": {
+		"bafyreicyyo2ruxbnw3s336e4l6lwzs5ki3mfpvx2wzt4jnxnu27dc4epjm.2ybnm9lb9oeov": {
+			"pinnedTypes": [
+				"bafyreidrkoldzzfgif4xewtx5qzfcxlosqzncd3s35xowl2qsnzth3qvdm",
+				"bafyreialnj6y5gqdwx3fqnc6q4k4jc2ovw4qxnhnqh4zeggipv4cymwtau",
+				"bafyreibdi5xoy6bvueqiwwlcxugjwd457s6wqu7w5bilq54g5kwgijbh2q",
+				"bafyreihgzli3j2nqpemdqy7ogtkvaf55xmmdtemjhf2eouaxgde5ce6ptq",
+				"bafyreigdkocg5ywp7zwzeuo7luwq6ftwe6mj5ild2twlstimrjztlqpmbq",
+				"bafyreig6ttlfmgmkwp74elrjy6rcegs7tu47qjh2yb4zrjhcocwzzotvfm",
+				"bafyreig2s6vrnnfva7yim6usvmdqerp5l27yqwhlty4amhq6tsoemclc3e"
+			],
+			"toggle": {
+				"widget": []
+			},
+			"lastOpenedObject": {
+				"1": {
+					"id": "bafyreibiqcouo6fvptibb5tudrhr62cawxm6mkvbd3pv36yflipgubvnye",
+					"layout": 0
+				}
+			},
+			"focus": {
+				"bafyreibiqcouo6fvptibb5tudrhr62cawxm6mkvbd3pv36yflipgubvnye": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				}
+			}
+		},
+		"bafyreifklu72laqxgoatl3s44rimfgs2x6ph6fsc2i6uwwxlmfiw4myyra.2ybnm9lb9oeov": {
+			"pinnedTypes": [
+				"bafyreicnwl6n45l4z6esmravoka6cwrlnrojmn3mdotiavdhqdjrfuqsny",
+				"bafyreieu6qpt3tndl6igfswwybm2aln4usoh4hcoenxx5jvntypsenqf2e",
+				"bafyreige5utycdrwvoah4rkz2e4zmpa3exhh6xw6cf23o5scwgfvf5yfym",
+				"bafyreidsero7obg6dnyw6o7hdemarygrb4utoalmvhlyc2umdrq2elqgfu",
+				"bafyreigghffnupkwrkkfljy7nxhqe2gtq6lxoiurqtuhmjwes7dcoszzcm",
+				"bafyreiauin242lo5yppts3h5gutdgp2mawrk755h47fblyeu5b2womdwne",
+				"bafyreic7arckypoahwe6n7fdrkhpvk2qk62po6udmfoyiylzcgsghmga4i"
+			],
+			"toggle": {
+				"widget": []
+			},
+			"lastOpenedObject": {
+				"1": {
+					"id": "bafyreidxp3vrvuq56si3scovihwgv66hlqhcn7cujh7m3sj3shz4ydv44i",
+					"layout": 0
+				}
+			},
+			"scroll": {
+				"editor": {
+					"bafyreiczcbdv6ipj6hnz6owosvjdn7r36g2kvjgtamp5xs2rowwbjavbca": 161.3333282470703,
+					"bafyreic563vz3f4ei7rl4g3t2yq6cq6mairvasnegfx4bf3c56htvki6h4": 328,
+					"bafyreibewceem6cglolxpvwiklz5umgkeq22hyllkekqyzezp5trefnne4": 0,
+					"bafyreidxp3vrvuq56si3scovihwgv66hlqhcn7cujh7m3sj3shz4ydv44i": 0
+				}
+			},
+			"focus": {
+				"bafyreiczcbdv6ipj6hnz6owosvjdn7r36g2kvjgtamp5xs2rowwbjavbca": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreic563vz3f4ei7rl4g3t2yq6cq6mairvasnegfx4bf3c56htvki6h4": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreibewceem6cglolxpvwiklz5umgkeq22hyllkekqyzezp5trefnne4": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				},
+				"bafyreidxp3vrvuq56si3scovihwgv66hlqhcn7cujh7m3sj3shz4ydv44i": {
+					"focused": "",
+					"range": {
+						"from": 0,
+						"to": 0
+					}
+				}
+			},
+			"popupSearch": {
+				"filter": ""
+			}
+		}
+	},
+	"color": "orange",
+	"bgColor": "orange",
+	"onboarding": [
+		"basics",
+		"collaboration",
+		"membership",
+		"mainGraph"
+	],
+	"menuSmile": {
+		"tab": 3
+	},
+	"pin": "06dcdd22e492f428ad8db2f62af7df700f48443a",
+	"pinTime": 600,
+	"survey": {
+		"0": {
+			"complete": true
+		},
+		"2": {
+			"time": 1742305362
+		}
+	}
+}

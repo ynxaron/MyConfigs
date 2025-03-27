@@ -1,0 +1,156 @@
+[
+  {
+    "source": "server",
+    "type": "error",
+    "log": "MAPHANDLER: Mappings file is corrupt or does not exist, using default",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at loadMappings (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:2576:26)\n    at get mappings [as mappings] (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:2694:7)\n    at new MappingState (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:2681:27)\n    at MappingState.getInstance (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:2685:23)\n    at Object.<anonymous> (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:3166:34)\n    at Module._compile (node:internal/modules/cjs/loader:1271:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1326:10)\n    at Module.load (node:internal/modules/cjs/loader:1126:32)\n    at Module._load (node:internal/modules/cjs/loader:967:12)",
+    "date": "2025-03-09T13:29:47.217Z"
+  },
+  {
+    "source": "server",
+    "type": "log",
+    "log": "[appState] [loadApps]: Loading apps...",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at AppHandler.loadApps (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:3646:26)\n    at new AppHandler (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:3633:10)\n    at AppHandler.getInstance (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:3628:29)\n    at Object.<anonymous> (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:3873:29)\n    at Module._compile (node:internal/modules/cjs/loader:1271:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1326:10)\n    at Module.load (node:internal/modules/cjs/loader:1126:32)\n    at Module._load (node:internal/modules/cjs/loader:967:12)\n    at c._load (node:electron/js2c/node_init:2:13672)",
+    "date": "2025-03-09T13:29:47.226Z"
+  },
+  {
+    "source": "server",
+    "type": "log",
+    "log": "SETTINGS: Loaded settings!",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at SettingsStore.loadSettings (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:140:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "date": "2025-03-09T13:29:47.227Z"
+  },
+  {
+    "source": "server",
+    "type": "log",
+    "log": "[MusicHandler]: Cancelling Refresh Interval!",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at MusicHandler.updateRefreshInterval (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:74:28)\n    at MusicHandler.initializeRefreshInterval (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:47:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "date": "2025-03-09T13:29:47.229Z"
+  },
+  {
+    "source": "server",
+    "type": "log",
+    "log": "WSOCKET: No WebSocket server running - setting one up",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at restartServer (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:3222:28)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/index.js:354:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "date": "2025-03-09T13:29:47.229Z"
+  },
+  {
+    "source": "server",
+    "type": "message",
+    "log": "WSOCKET: Attempting to setup the server",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at setupServer (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:3245:24)\n    at restartServer (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:3237:9)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/index.js:354:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "date": "2025-03-09T13:29:47.230Z"
+  },
+  {
+    "source": "server",
+    "type": "log",
+    "log": "[ADB]: Auto-Detect is Disabled",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/connectionsStore-DWlPagTU.js:33:34\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:114:7\n    at Array.forEach (<anonymous>)\n    at SettingsStore.notifyListeners (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:113:20)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:97:14\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "date": "2025-03-09T13:29:47.230Z"
+  },
+  {
+    "source": "server",
+    "type": "log",
+    "log": "CALLBACK: Not starting - port is not changed",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/authHandler-C05d6Dgn.js:75:28\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:114:7\n    at Array.forEach (<anonymous>)\n    at SettingsStore.notifyListeners (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:113:20)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:97:14\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "date": "2025-03-09T13:29:47.230Z"
+  },
+  {
+    "source": "server",
+    "type": "log",
+    "log": "[MusicHandler]: Cancelling Refresh Interval!",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at MusicHandler.updateRefreshInterval (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:74:28)\n    at MusicHandler.handleSettingsUpdate (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:55:10)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:114:7\n    at Array.forEach (<anonymous>)\n    at SettingsStore.notifyListeners (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:113:20)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:97:14\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "date": "2025-03-09T13:29:47.230Z"
+  },
+  {
+    "source": "server",
+    "type": "log",
+    "log": "[MusicHandler]: Received settings update - checking for changes | Playback location: none -> none",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at MusicHandler.handleSettingsUpdate (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:56:26)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:114:7\n    at Array.forEach (<anonymous>)\n    at SettingsStore.notifyListeners (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:113:20)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:97:14\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "date": "2025-03-09T13:29:47.230Z"
+  },
+  {
+    "source": "server",
+    "type": "log",
+    "log": "[MusicHandler]: Setting restarting to use none",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at MusicHandler.handleSettingsUpdate (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:61:28)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:114:7\n    at Array.forEach (<anonymous>)\n    at SettingsStore.notifyListeners (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:113:20)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:97:14\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "date": "2025-03-09T13:29:47.230Z"
+  },
+  {
+    "source": "server",
+    "type": "log",
+    "log": "[MusicHandler]: Current app is not set! Attempting to find one...",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at MusicHandler.findCurrentPlaybackSource (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:91:28)\n    at MusicHandler.getPlaybackSource (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:138:31)\n    at MusicHandler.refreshMusicData (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:178:35)\n    at MusicHandler.handleSettingsUpdate (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:66:12)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:114:7\n    at Array.forEach (<anonymous>)\n    at SettingsStore.notifyListeners (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:113:20)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/settingsStore-f25Y0QWb.js:97:14\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)",
+    "date": "2025-03-09T13:29:47.231Z"
+  },
+  {
+    "source": "server",
+    "type": "error",
+    "log": "[MusicHandler]: No Audiosource Found! Go to Downloads -> Apps and download an audio source! (Spotify, MediaWin, GMP, etc)",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at MusicHandler.getPlaybackSource (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:144:30)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async MusicHandler.refreshMusicData (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:178:24)",
+    "date": "2025-03-09T13:29:47.234Z"
+  },
+  {
+    "source": "server",
+    "type": "message",
+    "log": "CALLBACK: running at http://localhost:8888/",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at Server.<anonymous> (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/authHandler-C05d6Dgn.js:54:26)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:517:28)\n    at emitListeningNT (node:net:1851:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)",
+    "date": "2025-03-09T13:29:47.234Z"
+  },
+  {
+    "source": "server",
+    "type": "error",
+    "log": "DEVICE HANDLER: Client is not detected or downloaded! Please download the client! (downloads -> client)",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at Object.getClientManifest (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:1228:26)\n    at client-manifest (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/clientHandler-NmZtDk3h.js:54:43)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/index.js:235:22\n    at async WebContents.<anonymous> (node:electron/js2c/browser_init:2:77963)",
+    "date": "2025-03-09T13:29:47.252Z"
+  },
+  {
+    "source": "server",
+    "type": "error",
+    "log": "ADB Error: * daemon not running; starting now at tcp:5037\nADB server didn't ACK\nFull server startup log: /tmp/adb.1001.log\nServer had pid: 66987\n--- adb starting (pid 66987) ---\n03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Android Debug Bridge version 1.0.41\n03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Version 35.0.1-11580240\n03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Installed as /tmp/.mount_deskthto42KH/resources/linux/adb\n03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Running on Linux 6.13.5-2-cachyos (x86_64)\n03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 \n03-09 18:59:47.392 66986 66986 I adb     : auth.cpp:152 loaded new key from '/home/ynx/.android/adbkey' with fingerprint E1F7A2016B7B12D1CE50BAF4C960543E4B63E361AA24AB6F928E571374F5DDA7\n03-09 18:59:47.392 66986 66986 I adb     : auth.cpp:391 adb_auth_inotify_init...\n03-09 18:59:47.768 66987 66987 F adb     : main.cpp:163 could not install *smartsocket* listener: Address already in use\n\n* failed to start daemon\nadb: failed to check server version: cannot connect to daemon\n, devices, /tmp/.mount_deskthto42KH/resources/linux/adb",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/adbHandler-BUUvLphl.js:57:32\n    at ChildProcess.exithandler (node:child_process:430:5)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)",
+    "date": "2025-03-09T13:29:47.875Z"
+  },
+  {
+    "source": "server",
+    "type": "error",
+    "log": "Error in IPC handler: ADB Error: * daemon not running; starting now at tcp:5037\nADB server didn't ACK\nFull server startup log: /tmp/adb.1001.log\nServer had pid: 66987\n--- adb starting (pid 66987) ---\n03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Android Debug Bridge version 1.0.41\n03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Version 35.0.1-11580240\n03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Installed as /tmp/.mount_deskthto42KH/resources/linux/adb\n03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Running on Linux 6.13.5-2-cachyos (x86_64)\n03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 \n03-09 18:59:47.392 66986 66986 I adb     : auth.cpp:152 loaded new key from '/home/ynx/.android/adbkey' with fingerprint E1F7A2016B7B12D1CE50BAF4C960543E4B63E361AA24AB6F928E571374F5DDA7\n03-09 18:59:47.392 66986 66986 I adb     : auth.cpp:391 adb_auth_inotify_init...\n03-09 18:59:47.768 66987 66987 F adb     : main.cpp:163 could not install *smartsocket* listener: Address already in use\n\n* failed to start daemon\nadb: failed to check server version: cannot connect to daemon\n, devices, /tmp/.mount_deskthto42KH/resources/linux/adb",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/index.js:242:20\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async WebContents.<anonymous> (node:electron/js2c/browser_init:2:77963)",
+    "date": "2025-03-09T13:29:47.875Z"
+  },
+  {
+    "source": "server",
+    "type": "debugging",
+    "log": "[MusicHandler]: Initialized",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at Timeout._onTimeout (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:50:28)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)",
+    "date": "2025-03-09T13:29:52.231Z"
+  },
+  {
+    "source": "server",
+    "type": "error",
+    "log": "[MusicHandler]: No Audiosource Found! Go to Downloads -> Apps and download an audio source! (Spotify, MediaWin, GMP, etc)",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at MusicHandler.getPlaybackSource (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:144:30)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async MusicHandler.refreshMusicData (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/musicHandler-XbYxLCYw.js:178:24)",
+    "date": "2025-03-09T13:29:52.232Z"
+  },
+  {
+    "source": "server",
+    "type": "debugging",
+    "log": "Sending time:{\"utcTime\":1741527000017,\"timezoneOffset\":330}",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at sendTime (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:1461:24)\n    at Timeout._onTimeout (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:1467:7)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)",
+    "date": "2025-03-09T13:30:00.017Z"
+  },
+  {
+    "source": "server",
+    "type": "error",
+    "log": "DEVICE HANDLER: Client is not detected or downloaded! Please download the client! (downloads -> client)",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at Object.getClientManifest (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:1228:26)\n    at client-manifest (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/clientHandler-NmZtDk3h.js:54:43)\n    at /tmp/.mount_deskthto42KH/resources/app.asar/out/main/index.js:235:22\n    at async WebContents.<anonymous> (node:electron/js2c/browser_init:2:77963)",
+    "date": "2025-03-09T13:30:23.413Z"
+  },
+  {
+    "source": "server",
+    "type": "message",
+    "log": "WSOCKET: Attempting to setup the server",
+    "trace": "Error\n    at LoggingStore.log (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/loggingStore-G2Z9aR_L.js:46:21)\n    at setupServer (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:3245:24)\n    at Server.<anonymous> (/tmp/.mount_deskthto42KH/resources/app.asar/out/main/dataHandler-B0Egq0fn.js:3214:15)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:517:28)\n    at emitCloseNT (node:net:2221:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)",
+    "date": "2025-03-09T13:30:40.076Z"
+  }
+]

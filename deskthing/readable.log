@@ -1,0 +1,54 @@
+[9/3/2025, 6:59:47 pm] [server] ERROR: MAPHANDLER: Mappings file is corrupt or does not exist, using default
+[9/3/2025, 6:59:47 pm] [server] LOG: [appState] [loadApps]: Loading apps...
+[9/3/2025, 6:59:47 pm] [server] LOG: SETTINGS: Loaded settings!
+[9/3/2025, 6:59:47 pm] [server] LOG: [MusicHandler]: Cancelling Refresh Interval!
+[9/3/2025, 6:59:47 pm] [server] LOG: WSOCKET: No WebSocket server running - setting one up
+[9/3/2025, 6:59:47 pm] [server] MESSAGE: WSOCKET: Attempting to setup the server
+[9/3/2025, 6:59:47 pm] [server] LOG: [ADB]: Auto-Detect is Disabled
+[9/3/2025, 6:59:47 pm] [server] LOG: CALLBACK: Not starting - port is not changed
+[9/3/2025, 6:59:47 pm] [server] LOG: [MusicHandler]: Cancelling Refresh Interval!
+[9/3/2025, 6:59:47 pm] [server] LOG: [MusicHandler]: Received settings update - checking for changes | Playback location: none -> none
+[9/3/2025, 6:59:47 pm] [server] LOG: [MusicHandler]: Setting restarting to use none
+[9/3/2025, 6:59:47 pm] [server] LOG: [MusicHandler]: Current app is not set! Attempting to find one...
+[9/3/2025, 6:59:47 pm] [server] ERROR: [MusicHandler]: No Audiosource Found! Go to Downloads -> Apps and download an audio source! (Spotify, MediaWin, GMP, etc)
+[9/3/2025, 6:59:47 pm] [server] MESSAGE: CALLBACK: running at http://localhost:8888/
+[9/3/2025, 6:59:47 pm] [server] ERROR: DEVICE HANDLER: Client is not detected or downloaded! Please download the client! (downloads -> client)
+[9/3/2025, 6:59:47 pm] [server] ERROR: ADB Error: * daemon not running; starting now at tcp:5037
+ADB server didn't ACK
+Full server startup log: /tmp/adb.1001.log
+Server had pid: 66987
+--- adb starting (pid 66987) ---
+03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Android Debug Bridge version 1.0.41
+03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Version 35.0.1-11580240
+03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Installed as /tmp/.mount_deskthto42KH/resources/linux/adb
+03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Running on Linux 6.13.5-2-cachyos (x86_64)
+03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 
+03-09 18:59:47.392 66986 66986 I adb     : auth.cpp:152 loaded new key from '/home/ynx/.android/adbkey' with fingerprint E1F7A2016B7B12D1CE50BAF4C960543E4B63E361AA24AB6F928E571374F5DDA7
+03-09 18:59:47.392 66986 66986 I adb     : auth.cpp:391 adb_auth_inotify_init...
+03-09 18:59:47.768 66987 66987 F adb     : main.cpp:163 could not install *smartsocket* listener: Address already in use
+
+* failed to start daemon
+adb: failed to check server version: cannot connect to daemon
+, devices, /tmp/.mount_deskthto42KH/resources/linux/adb
+[9/3/2025, 6:59:47 pm] [server] ERROR: Error in IPC handler: ADB Error: * daemon not running; starting now at tcp:5037
+ADB server didn't ACK
+Full server startup log: /tmp/adb.1001.log
+Server had pid: 66987
+--- adb starting (pid 66987) ---
+03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Android Debug Bridge version 1.0.41
+03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Version 35.0.1-11580240
+03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Installed as /tmp/.mount_deskthto42KH/resources/linux/adb
+03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 Running on Linux 6.13.5-2-cachyos (x86_64)
+03-09 18:59:47.267 66987 66987 I adb     : main.cpp:63 
+03-09 18:59:47.392 66986 66986 I adb     : auth.cpp:152 loaded new key from '/home/ynx/.android/adbkey' with fingerprint E1F7A2016B7B12D1CE50BAF4C960543E4B63E361AA24AB6F928E571374F5DDA7
+03-09 18:59:47.392 66986 66986 I adb     : auth.cpp:391 adb_auth_inotify_init...
+03-09 18:59:47.768 66987 66987 F adb     : main.cpp:163 could not install *smartsocket* listener: Address already in use
+
+* failed to start daemon
+adb: failed to check server version: cannot connect to daemon
+, devices, /tmp/.mount_deskthto42KH/resources/linux/adb
+[9/3/2025, 6:59:52 pm] [server] DEBUGGING: [MusicHandler]: Initialized
+[9/3/2025, 6:59:52 pm] [server] ERROR: [MusicHandler]: No Audiosource Found! Go to Downloads -> Apps and download an audio source! (Spotify, MediaWin, GMP, etc)
+[9/3/2025, 7:00:00 pm] [server] DEBUGGING: Sending time:{"utcTime":1741527000017,"timezoneOffset":330}
+[9/3/2025, 7:00:23 pm] [server] ERROR: DEVICE HANDLER: Client is not detected or downloaded! Please download the client! (downloads -> client)
+[9/3/2025, 7:00:40 pm] [server] MESSAGE: WSOCKET: Attempting to setup the server

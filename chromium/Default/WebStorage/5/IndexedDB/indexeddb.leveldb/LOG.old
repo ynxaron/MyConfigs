@@ -1,0 +1,5 @@
+2025/03/12-17:05:15.808 134f Creating DB /home/ynx/.config/chromium/Default/WebStorage/5/IndexedDB/indexeddb.leveldb since it was missing.
+2025/03/12-17:05:15.818 134f Reusing MANIFEST /home/ynx/.config/chromium/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/03/12-17:05:31.048 1342 Level-0 table #5: started
+2025/03/12-17:05:31.062 1342 Level-0 table #5: 2510160 bytes OK
+2025/03/12-17:05:31.065 1342 Delete type=0 #3

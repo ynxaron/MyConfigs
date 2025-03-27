@@ -1,0 +1,106 @@
+{
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "A_MjCqQoLLA",
+      "url": "https://www.youtube.com/watch?v=A_MjCqQoLLA",
+      "title": "The Beatles - Hey Jude",
+      "description": null,
+      "duration": 490.0,
+      "channel_id": "UCc4K7bAqpdBP8jh1j9XZAww",
+      "channel": "The Beatles",
+      "channel_url": "https://www.youtube.com/channel/UCc4K7bAqpdBP8jh1j9XZAww",
+      "uploader": "The Beatles",
+      "uploader_id": null,
+      "uploader_url": null,
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/A_MjCqQoLLA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAD90JTH9_gXhfURIrmleulQirfCw",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/A_MjCqQoLLA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAM0KewVKI_C0qMfBsIg6IaSajTA",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "timestamp": 1458259200,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 415402821,
+      "live_status": null,
+      "channel_is_verified": true,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "bPy0giz8RaI",
+      "url": "https://www.youtube.com/watch?v=bPy0giz8RaI",
+      "title": "Saya no Uta: Grotesquery, Beauty, and Love of The Other",
+      "description": null,
+      "duration": 5781.0,
+      "channel_id": "UCShccf0NLU7E3USx82Vu2jQ",
+      "channel": "Amelie Doree",
+      "channel_url": "https://www.youtube.com/channel/UCShccf0NLU7E3USx82Vu2jQ",
+      "uploader": "Amelie Doree",
+      "uploader_id": "@AmelieDoree",
+      "uploader_url": "https://www.youtube.com/@AmelieDoree",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/bPy0giz8RaI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAfjMEDmt6_ZQ23miIAt4EzaJsEg",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/bPy0giz8RaI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY_0OMKNO-eoOPbJ5-OlRLaqsn3g",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "timestamp": 1737158400,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 34488,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "f1tYe3TkhTc",
+      "url": "https://www.youtube.com/watch?v=f1tYe3TkhTc",
+      "title": "Songs for an empty world",
+      "description": null,
+      "duration": 3507.0,
+      "channel_id": "UCVHOgH4XEyYx-ZEaya1XqCQ",
+      "channel": "Cryo Chamber",
+      "channel_url": "https://www.youtube.com/channel/UCVHOgH4XEyYx-ZEaya1XqCQ",
+      "uploader": "Cryo Chamber",
+      "uploader_id": "@cryochamberlabel",
+      "uploader_url": "https://www.youtube.com/@cryochamberlabel",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/f1tYe3TkhTc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIGUoPTAP&rs=AOn4CLAyLjVkp25Gkpyt4PdrZpYQ_wj0XQ",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/f1tYe3TkhTc/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIGUoPTAP&rs=AOn4CLCT2zp4UVcjiAVFfTCYVV00xNFaMQ",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "timestamp": 1616112000,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 4986078,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    }
+  ]
+}

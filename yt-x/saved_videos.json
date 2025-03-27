@@ -1,0 +1,38 @@
+{
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "QvPjYdZzZtY",
+      "url": "https://www.youtube.com/watch?v=QvPjYdZzZtY",
+      "title": "The Genocide Supporting YouTubers Responded | Hasanabi reacts to Noah Samsen",
+      "description": null,
+      "duration": 12379.0,
+      "channel_id": "UCVbwlOZ7yaL7OXhAjUi1n5A",
+      "channel": "Hasanabi Studios",
+      "channel_url": "https://www.youtube.com/channel/UCVbwlOZ7yaL7OXhAjUi1n5A",
+      "uploader": "Hasanabi Studios",
+      "uploader_id": "@hasanabistudios127",
+      "uploader_url": "https://www.youtube.com/@hasanabistudios127",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/QvPjYdZzZtY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm26NuZmIvwBU_q1oH4oEKGw0p2Q",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/QvPjYdZzZtY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3i-a0TBq_v9QqnLDp7U0YHC913g",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "timestamp": 1742977260,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 14,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    }
+  ]
+}

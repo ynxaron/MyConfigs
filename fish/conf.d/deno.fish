@@ -1,0 +1,1 @@
+source "/home/ynx/.deno/env.fish"

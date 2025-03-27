@@ -31,10 +31,11 @@
       "alt-k": "editor::Hover",
       "gd": "editor::GoToDefinition",
       "alt-tab": "editor::Tab",
-      "alt-left": "pane::ActivatePrevItem",
+      "alt-left": "pane::ActivatePreviousItem",
       "alt-right": "pane::ActivateNextItem",
       "alt-c": "pane::CloseActiveItem",
       "alt-alt": "file_finder::Toggle",
+      "alt-p": "command_palette::Toggle",
       "alt-space": "command_palette::Toggle"
     }
   }

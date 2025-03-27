@@ -1,0 +1,3 @@
+Hermeneutic
+Hermeneutics
+checksum_v1 = 86efdefc9eddbf8c417546e53e3f5e9a

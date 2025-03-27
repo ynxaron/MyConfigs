@@ -1,0 +1,69 @@
+2025-03-01 11:20:07.248 [info] [main] Log level: Info
+2025-03-01 11:20:07.248 [info] [main] Validating found git in: "git"
+2025-03-01 11:20:07.248 [info] [main] Using git "2.48.1" from "git"
+2025-03-01 11:20:07.248 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-01 11:20:07.248 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-01 11:20:07.248 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:07.248 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-01 11:20:07.248 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:07.249 [info] > git rev-parse --show-toplevel [0ms]
+2025-03-01 11:20:07.249 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:07.252 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-01 11:20:07.252 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:07.257 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-01 11:20:07.257 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:07.262 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-01 11:20:07.262 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:07.294 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-01 11:20:07.301 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-03-01 11:20:07.309 [info] [Model][openRepository] Opened repository: /home/ynx/Downloads/hello_there
+2025-03-01 11:20:07.321 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-01 11:20:07.321 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:07.321 [info] > git config --get commit.template [7ms]
+2025-03-01 11:20:07.331 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-01 11:20:07.331 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-01 11:20:07.331 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:07.335 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2025-03-01 11:20:07.335 [warning] [Git][getBranch] No such branch: master
+2025-03-01 11:20:07.344 [info] > git status -z -uall [6ms]
+2025-03-01 11:20:07.344 [info] > git rev-parse --show-toplevel [9ms]
+2025-03-01 11:20:07.344 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:07.344 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-01 11:20:07.348 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-01 11:20:07.362 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-03-01 11:20:07.362 [warning] [Git][getBranch] No such branch: master
+2025-03-01 11:20:07.363 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-03-01 11:20:07.363 [info] > git rev-parse --show-toplevel [16ms]
+2025-03-01 11:20:07.363 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:07.364 [info] > git config --get commit.template [2ms]
+2025-03-01 11:20:07.369 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-01 11:20:07.369 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-03-01 11:20:07.369 [warning] [Git][getBranch] No such branch: master
+2025-03-01 11:20:07.376 [info] > git status -z -uall [4ms]
+2025-03-01 11:20:07.376 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-03-01 11:20:07.836 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-01 11:20:09.030 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-01 11:20:09.030 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:36.105 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-01 11:20:36.105 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 11:20:56.012 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-01 11:20:56.012 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 12:58:00.674 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-01 12:58:00.674 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-03-01 12:59:40.857 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-01 12:59:40.857 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

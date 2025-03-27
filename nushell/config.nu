@@ -1,12 +1,13 @@
 $env.config.buffer_editor = "zed"
 $env.config.show_banner = false
 
-alias ls = ~/.cargo/bin/lsd
+alias ls = ~/.repos/bin/lsd
 alias nch = ping -c 5 8.8.8.8
 alias clr = clear
 alias cargo = ~/.cargo/bin/cargo
 alias nv = neovide
 alias cl = z
+alias ytx = ~/.repos/bin/ytx
 
 def srchpkg [pkg] {
     pacman -Qq | grep $pkg
@@ -22,6 +23,5 @@ def --env y [...args] {
 	rm -fp $tmp
 }
 
-~/.cargo/bin/pfetch
-source ~/.oh-my-posh.nu
+/home/ynx/.repos/bin/pfetch
 source ~/.zoxide.nu

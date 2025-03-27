@@ -1,0 +1,5 @@
+2025-03-13 16:14:27.290 [info] Started local extension host with pid 31688.
+2025-03-13 16:14:29.241 [error] An unknown error occurred. Please consult the log for more details.
+2025-03-13 16:14:29.859 [error] Error while getting the latest version for the extension llam4u.nerdtree. Cannot read properties of undefined (reading 'replace')
+2025-03-13 16:14:29.859 [error] Error while getting the latest version for the extension vscodevim.vim. Cannot read properties of undefined (reading 'replace')
+2025-03-13 16:14:30.079 [info] [perf] Render performance baseline is 26ms

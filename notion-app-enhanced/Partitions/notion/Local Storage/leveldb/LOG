@@ -1,7 +1,10 @@
-2025/02/08-15:58:20.703 209e7 Reusing MANIFEST /home/ynx/.config/notion-app-enhanced/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
-2025/02/08-15:58:20.703 209e7 Recovering log #3
-2025/02/08-15:58:20.707 209e7 Level-0 table #3: started
-2025/02/08-15:58:20.710 209e7 Level-0 table #3: 284794 bytes OK
-2025/02/08-15:58:20.713 209e7 Delete type=0 #3
-2025/02/08-15:58:50.640 20a0d Level-0 table #6: started
-2025/02/08-15:58:50.647 20a0d Level-0 table #6: 284590 bytes OK
+2025/02/24-07:49:47.393 20e77 Reusing MANIFEST /home/ynx/.config/notion-app-enhanced/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2025/02/24-07:49:47.393 20e77 Recovering log #4
+2025/02/24-07:49:47.397 20e77 Level-0 table #6: started
+2025/02/24-07:49:47.403 20e77 Level-0 table #6: 284590 bytes OK
+2025/02/24-07:49:47.403 20e77 Recovering log #5
+2025/02/24-07:49:47.403 20e77 Reusing old log /home/ynx/.config/notion-app-enhanced/Partitions/notion/Local Storage/leveldb/000005.log 
+2025/02/24-07:49:47.406 20e77 Delete type=0 #4
+2025/02/24-07:50:47.944 20ea1 Level-0 table #8: started
+2025/02/24-07:50:47.953 20ea1 Level-0 table #8: 289127 bytes OK
+2025/02/24-07:50:47.956 20ea1 Delete type=0 #5

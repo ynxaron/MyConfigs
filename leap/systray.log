@@ -1,0 +1,130 @@
+{"level":"info","logFile":"/home/ynx/.config/leap/systray.log","hint":"you can change the log level with env LOG_LEVEL=INFO|DEBUG|TRACE","time":"2025-02-23T22:12:22+05:30","message":"Enabling logging"}
+{"level":"info","time":"2025-02-23T22:12:22+05:30","message":"Not autostarting OpenVPN"}
+{"level":"info","url":"https://downloads.leap.se/RiseupVPN/linux/lastver","time":"2025-02-23T22:12:23+05:30","message":"Checking for updates"}
+{"level":"warn","error":"Get \"https://downloads.leap.se/RiseupVPN/linux/lastver\": tls: failed to verify certificate: x509: certificate signed by unknown authority","url":"https://downloads.leap.se/RiseupVPN/linux/lastver","time":"2025-02-23T22:12:23+05:30","message":"Could not check if there are updates available"}
+{"level":"info","time":"2025-02-23T22:12:27+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-02-23T22:12:27+05:30","message":"Using transport openvpn"}
+{"level":"info","transport":"openvpn","time":"2025-02-23T22:12:27+05:30","message":"Setting transport"}
+{"level":"info","time":"2025-02-23T22:12:27+05:30","message":"Enabled UDP"}
+{"level":"info","time":"2025-02-23T22:12:27+05:30","message":"Fetching gateways..."}
+{"level":"info","time":"2025-02-23T22:12:31+05:30","message":"Got sorted gateways: [vpn13-ams.riseup.net vpn06-ams.riseup.net vpn19-ams.riseup.net vpn04-ams.riseup.net vpn20-par.riseup.net vpn07-par.riseup.net vpn14-par.riseup.net vpn08-par.riseup.net vpn21-par.riseup.net vpn05-par.riseup.net vpn03-par.riseup.net vpn02-par.riseup.net vpn11-par.riseup.net vpn16-sea.riseup.net vpn15-sea.riseup.net vpn01-sea.riseup.net vpn18-mtl.riseup.net vpn10-mtl.riseup.net vpn12-nyc.riseup.net vpn23-mia.riseup.net vpn22-mia.riseup.net]"}
+{"level":"info","time":"2025-02-23T22:12:37+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-02-23T22:12:37+05:30","message":"Got best gateway [{vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn06-ams.riseup.net 51.158.144.32 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn19-ams.riseup.net 163.172.211.109 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-02-23T22:12:37+05:30","message":"Starting firewall"}
+{"level":"info","time":"2025-02-23T22:12:38+05:30","message":"Starting OpenVPN"}
+{"level":"info","gateway":"vpn13-ams.riseup.net","port":"1194","time":"2025-02-23T22:13:14+05:30","message":"Sucessfully connected to gateway"}
+{"level":"info","time":"2025-02-23T22:15:14+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-02-23T22:15:15+05:30","message":"Stopping OpenVPN"}
+{"level":"info","time":"2025-02-23T22:15:18+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-02-23T22:15:18+05:30","message":"Got best gateway [{vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn06-ams.riseup.net 51.158.144.32 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn19-ams.riseup.net 163.172.211.109 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-02-23T22:15:18+05:30","message":"Starting firewall"}
+{"level":"info","time":"2025-02-23T22:15:18+05:30","message":"Starting OpenVPN"}
+{"level":"info","gateway":"vpn13-ams.riseup.net","port":"1194","time":"2025-02-23T22:15:54+05:30","message":"Sucessfully connected to gateway"}
+{"level":"info","time":"2025-02-23T22:18:28+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-02-23T22:18:29+05:30","message":"Stopping OpenVPN"}
+{"level":"info","time":"2025-02-23T22:20:41+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-02-23T22:20:41+05:30","message":"Got best gateway [{vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn06-ams.riseup.net 51.158.144.32 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn19-ams.riseup.net 163.172.211.109 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-02-23T22:20:41+05:30","message":"Starting firewall"}
+{"level":"info","time":"2025-02-23T22:20:41+05:30","message":"Starting OpenVPN"}
+{"level":"info","gateway":"vpn13-ams.riseup.net","port":"1194","time":"2025-02-23T22:21:20+05:30","message":"Sucessfully connected to gateway"}
+{"level":"info","time":"2025-02-23T22:24:53+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-02-23T22:24:53+05:30","message":"Stopping OpenVPN"}
+{"level":"info","logFile":"/home/ynx/.config/leap/systray.log","hint":"you can change the log level with env LOG_LEVEL=INFO|DEBUG|TRACE","time":"2025-02-24T11:15:50+05:30","message":"Enabling logging"}
+{"level":"info","time":"2025-02-24T11:15:50+05:30","message":"Not autostarting OpenVPN"}
+{"level":"info","url":"https://downloads.leap.se/RiseupVPN/linux/lastver","time":"2025-02-24T11:15:51+05:30","message":"Checking for updates"}
+{"level":"warn","error":"Get \"https://downloads.leap.se/RiseupVPN/linux/lastver\": tls: failed to verify certificate: x509: certificate signed by unknown authority","url":"https://downloads.leap.se/RiseupVPN/linux/lastver","time":"2025-02-24T11:15:51+05:30","message":"Could not check if there are updates available"}
+{"level":"info","time":"2025-02-24T11:15:59+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-02-24T11:15:59+05:30","message":"Using transport openvpn"}
+{"level":"info","time":"2025-02-24T11:15:59+05:30","message":"Fetching gateways..."}
+{"level":"info","transport":"openvpn","time":"2025-02-24T11:15:59+05:30","message":"Setting transport"}
+{"level":"info","time":"2025-02-24T11:15:59+05:30","message":"Enabled UDP"}
+{"level":"info","time":"2025-02-24T11:16:03+05:30","message":"Got sorted gateways: [vpn04-ams.riseup.net vpn06-ams.riseup.net vpn13-ams.riseup.net vpn19-ams.riseup.net vpn20-par.riseup.net vpn07-par.riseup.net vpn02-par.riseup.net vpn05-par.riseup.net vpn14-par.riseup.net vpn03-par.riseup.net vpn21-par.riseup.net vpn08-par.riseup.net vpn11-par.riseup.net vpn16-sea.riseup.net vpn01-sea.riseup.net vpn15-sea.riseup.net vpn18-mtl.riseup.net vpn10-mtl.riseup.net vpn12-nyc.riseup.net vpn23-mia.riseup.net vpn22-mia.riseup.net]"}
+{"level":"info","time":"2025-02-24T11:16:03+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-02-24T11:16:04+05:30","message":"Got best gateway [{vpn04-ams.riseup.net 51.15.9.205 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn06-ams.riseup.net 51.158.144.32 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-02-24T11:16:04+05:30","message":"Starting firewall"}
+{"level":"info","time":"2025-02-24T11:16:04+05:30","message":"Starting OpenVPN"}
+{"level":"info","gateway":"vpn04-ams.riseup.net","port":"1194","time":"2025-02-24T11:16:38+05:30","message":"Sucessfully connected to gateway"}
+{"level":"info","time":"2025-02-24T11:18:31+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-02-24T11:18:31+05:30","message":"Stopping OpenVPN"}
+{"level":"info","time":"2025-02-24T11:18:37+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-02-24T11:18:37+05:30","message":"Got best gateway [{vpn04-ams.riseup.net 51.15.9.205 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn06-ams.riseup.net 51.158.144.32 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-02-24T11:18:37+05:30","message":"Starting firewall"}
+{"level":"info","time":"2025-02-24T11:18:37+05:30","message":"Starting OpenVPN"}
+{"level":"info","gateway":"vpn04-ams.riseup.net","port":"1194","time":"2025-02-24T11:19:09+05:30","message":"Sucessfully connected to gateway"}
+{"level":"info","time":"2025-02-24T11:19:42+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-02-24T11:19:42+05:30","message":"Stopping OpenVPN"}
+{"level":"info","time":"2025-02-24T11:23:00+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-02-24T11:23:00+05:30","message":"Got best gateway [{vpn04-ams.riseup.net 51.15.9.205 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn06-ams.riseup.net 51.158.144.32 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-02-24T11:23:00+05:30","message":"Starting firewall"}
+{"level":"info","time":"2025-02-24T11:23:00+05:30","message":"Starting OpenVPN"}
+{"level":"info","time":"2025-02-24T11:23:32+05:30","message":"Stopping firewall"}
+{"level":"info","gateway":"vpn04-ams.riseup.net","port":"1194","time":"2025-02-24T11:23:32+05:30","message":"Sucessfully connected to gateway"}
+{"level":"info","time":"2025-02-24T11:23:32+05:30","message":"Stopping OpenVPN"}
+{"level":"info","time":"2025-02-24T11:23:34+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-02-24T11:23:34+05:30","message":"Got best gateway [{vpn04-ams.riseup.net 51.15.9.205 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn06-ams.riseup.net 51.158.144.32 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-02-24T11:23:34+05:30","message":"Starting firewall"}
+{"level":"info","time":"2025-02-24T11:23:34+05:30","message":"Starting OpenVPN"}
+{"level":"info","gateway":"vpn04-ams.riseup.net","port":"1194","time":"2025-02-24T11:24:07+05:30","message":"Sucessfully connected to gateway"}
+{"level":"info","time":"2025-02-24T11:27:35+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-02-24T11:27:35+05:30","message":"Stopping OpenVPN"}
+{"level":"info","time":"2025-02-24T11:27:42+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-02-24T11:27:42+05:30","message":"Got best gateway [{vpn04-ams.riseup.net 51.15.9.205 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn06-ams.riseup.net 51.158.144.32 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-02-24T11:27:42+05:30","message":"Starting firewall"}
+{"level":"info","time":"2025-02-24T11:27:42+05:30","message":"Starting OpenVPN"}
+{"level":"info","time":"2025-02-24T11:28:08+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-02-24T11:28:08+05:30","message":"Stopping OpenVPN"}
+{"level":"info","time":"2025-02-24T11:28:15+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-02-24T11:28:15+05:30","message":"Got best gateway [{vpn04-ams.riseup.net 51.15.9.205 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn06-ams.riseup.net 51.158.144.32 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-02-24T11:28:15+05:30","message":"Starting firewall"}
+{"level":"info","time":"2025-02-24T11:28:15+05:30","message":"Starting OpenVPN"}
+{"level":"info","gateway":"vpn04-ams.riseup.net","port":"1194","time":"2025-02-24T11:28:48+05:30","message":"Sucessfully connected to gateway"}
+{"level":"info","time":"2025-02-24T11:42:19+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-02-24T11:42:19+05:30","message":"Stopping OpenVPN"}
+{"level":"info","logFile":"/home/ynx/.config/leap/systray.log","hint":"you can change the log level with env LOG_LEVEL=INFO|DEBUG|TRACE","time":"2025-03-02T11:20:03+05:30","message":"Enabling logging"}
+{"level":"info","time":"2025-03-02T11:20:03+05:30","message":"Not autostarting OpenVPN"}
+{"level":"info","url":"https://downloads.leap.se/RiseupVPN/linux/lastver","time":"2025-03-02T11:20:04+05:30","message":"Checking for updates"}
+{"level":"warn","error":"Get \"https://downloads.leap.se/RiseupVPN/linux/lastver\": tls: failed to verify certificate: x509: certificate signed by unknown authority","url":"https://downloads.leap.se/RiseupVPN/linux/lastver","time":"2025-03-02T11:20:04+05:30","message":"Could not check if there are updates available"}
+{"level":"info","time":"2025-03-02T11:20:09+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-03-02T11:20:09+05:30","message":"Using transport openvpn"}
+{"level":"info","transport":"openvpn","time":"2025-03-02T11:20:09+05:30","message":"Setting transport"}
+{"level":"info","time":"2025-03-02T11:20:09+05:30","message":"Enabled UDP"}
+{"level":"info","time":"2025-03-02T11:20:09+05:30","message":"Fetching gateways..."}
+{"level":"info","time":"2025-03-02T11:20:12+05:30","message":"Got sorted gateways: [vpn19-ams.riseup.net vpn04-ams.riseup.net vpn13-ams.riseup.net vpn06-ams.riseup.net vpn07-par.riseup.net vpn21-par.riseup.net vpn03-par.riseup.net vpn20-par.riseup.net vpn11-par.riseup.net vpn05-par.riseup.net vpn02-par.riseup.net vpn14-par.riseup.net vpn08-par.riseup.net vpn01-sea.riseup.net vpn15-sea.riseup.net vpn16-sea.riseup.net vpn18-mtl.riseup.net vpn10-mtl.riseup.net vpn12-nyc.riseup.net vpn22-mia.riseup.net vpn23-mia.riseup.net]"}
+{"level":"info","time":"2025-03-02T11:20:15+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-03-02T11:20:16+05:30","message":"Got best gateway [{vpn19-ams.riseup.net 163.172.211.109 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn04-ams.riseup.net 51.15.9.205 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-03-02T11:20:16+05:30","message":"Starting firewall"}
+{"level":"warn","error":"exit status 1","cmd":"/usr/sbin/bitmask-root firewall start 163.172.211.109 51.15.9.205 51.158.144.31","time":"2025-03-02T11:20:16+05:30","message":"Error running bitmask-root: \"bitmask-root: ERROR: Could not run ['/bin/iptables', '--table', 'nat', '--insert', 'OUTPUT', '--jump', 'bitmask']: None\""}
+{"level":"warn","error":"exit status 1","time":"2025-03-02T11:20:16+05:30","message":"Could not start VPN"}
+{"level":"info","time":"2025-03-02T11:20:22+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-03-02T11:20:22+05:30","message":"Got best gateway [{vpn19-ams.riseup.net 163.172.211.109 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn04-ams.riseup.net 51.15.9.205 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-03-02T11:20:22+05:30","message":"Starting firewall"}
+{"level":"warn","error":"exit status 1","cmd":"/usr/sbin/bitmask-root firewall start 163.172.211.109 51.15.9.205 51.158.144.31","time":"2025-03-02T11:20:22+05:30","message":"Error running bitmask-root: \"bitmask-root: Could not find default device\""}
+{"level":"warn","error":"exit status 1","time":"2025-03-02T11:20:22+05:30","message":"Could not start VPN"}
+{"level":"info","time":"2025-03-02T11:20:25+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-03-02T11:20:25+05:30","message":"Got best gateway [{vpn19-ams.riseup.net 163.172.211.109 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn04-ams.riseup.net 51.15.9.205 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn13-ams.riseup.net 51.158.144.31 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-03-02T11:20:25+05:30","message":"Starting firewall"}
+{"level":"warn","error":"exit status 1","cmd":"/usr/sbin/bitmask-root firewall start 163.172.211.109 51.15.9.205 51.158.144.31","time":"2025-03-02T11:20:26+05:30","message":"Error running bitmask-root: \"bitmask-root: Could not find default device\""}
+{"level":"warn","error":"exit status 1","time":"2025-03-02T11:20:26+05:30","message":"Could not start VPN"}
+{"level":"info","logFile":"/home/ynx/.config/leap/systray.log","hint":"you can change the log level with env LOG_LEVEL=INFO|DEBUG|TRACE","time":"2025-03-02T15:32:52+05:30","message":"Enabling logging"}
+{"level":"error","error":"another instance is already running, pid: 44236","time":"2025-03-02T15:32:52+05:30","message":"Could not acquire PID"}
+{"level":"info","time":"2025-03-02T15:33:04+05:30","message":"Close: cleanup and vpn shutdown..."}
+{"level":"info","time":"2025-03-02T15:33:04+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-03-02T15:33:04+05:30","message":"Stopping OpenVPN"}
+{"level":"info","logFile":"/home/ynx/.config/leap/systray.log","hint":"you can change the log level with env LOG_LEVEL=INFO|DEBUG|TRACE","time":"2025-03-02T15:33:08+05:30","message":"Enabling logging"}
+{"level":"info","time":"2025-03-02T15:33:08+05:30","message":"Not autostarting OpenVPN"}
+{"level":"info","url":"https://downloads.leap.se/RiseupVPN/linux/lastver","time":"2025-03-02T15:33:08+05:30","message":"Checking for updates"}
+{"level":"warn","error":"Get \"https://downloads.leap.se/RiseupVPN/linux/lastver\": tls: failed to verify certificate: x509: certificate signed by unknown authority","url":"https://downloads.leap.se/RiseupVPN/linux/lastver","time":"2025-03-02T15:33:08+05:30","message":"Could not check if there are updates available"}
+{"level":"info","time":"2025-03-02T15:33:16+05:30","message":"Stopping firewall"}
+{"level":"info","time":"2025-03-02T15:33:16+05:30","message":"Using transport openvpn"}
+{"level":"info","time":"2025-03-02T15:33:16+05:30","message":"Fetching gateways..."}
+{"level":"info","transport":"openvpn","time":"2025-03-02T15:33:16+05:30","message":"Setting transport"}
+{"level":"info","time":"2025-03-02T15:33:16+05:30","message":"Enabled UDP"}
+{"level":"info","time":"2025-03-02T15:33:20+05:30","message":"Got sorted gateways: [vpn06-ams.riseup.net vpn19-ams.riseup.net vpn04-ams.riseup.net vpn13-ams.riseup.net vpn20-par.riseup.net vpn03-par.riseup.net vpn21-par.riseup.net vpn14-par.riseup.net vpn02-par.riseup.net vpn05-par.riseup.net vpn07-par.riseup.net vpn11-par.riseup.net vpn08-par.riseup.net vpn01-sea.riseup.net vpn16-sea.riseup.net vpn15-sea.riseup.net vpn18-mtl.riseup.net vpn10-mtl.riseup.net vpn12-nyc.riseup.net vpn23-mia.riseup.net vpn22-mia.riseup.net]"}
+{"level":"info","time":"2025-03-02T15:33:21+05:30","message":"Getting OpenVPN client certificate"}
+{"level":"info","time":"2025-03-02T15:33:22+05:30","message":"Got best gateway [{vpn06-ams.riseup.net 51.158.144.32 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn19-ams.riseup.net 163.172.211.109 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn} {vpn04-ams.riseup.net 51.15.9.205 Amsterdam Amsterdam NL [53 80 1194] [tcp udp] map[] openvpn}]"}
+{"level":"info","time":"2025-03-02T15:33:22+05:30","message":"Starting firewall"}
+{"level":"warn","error":"exit status 1","cmd":"/usr/sbin/bitmask-root firewall start 51.158.144.32 163.172.211.109 51.15.9.205","time":"2025-03-02T15:33:22+05:30","message":"Error running bitmask-root: \"bitmask-root: ERROR: Could not run ['/bin/iptables', '--table', 'nat', '--insert', 'OUTPUT', '--jump', 'bitmask']: None\""}
+{"level":"warn","error":"exit status 1","time":"2025-03-02T15:33:22+05:30","message":"Could not start VPN"}
+{"level":"info","time":"2025-03-03T04:07:28+05:30","message":"Close: cleanup and vpn shutdown..."}
+{"level":"info","time":"2025-03-03T04:07:28+05:30","message":"Stopping firewall"}
+{"level":"warn","error":"bitmask-root not found in \"/usr/sbin/bitmask-root, /usr/local/sbin/bitmask-root\"","time":"2025-03-03T04:07:28+05:30","message":"There was an error stopping the vpn"}

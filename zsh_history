@@ -1,0 +1,1771 @@
+git clone https://github.com/ynxaron/MyConfigs
+mv MyConfigs .config 
+LS
+rm -rf .config
+mv MyConfigs .config
+rm .zshrc
+rm .zshenv
+curl https://google.com >/dev/null
+yay -Ss zoxide
+yay -S zoxide
+cd do
+cd Downl
+yay -S oh-my-posh
+mkdir .config/oh-my-posh
+oh-my-posh config export --output ~/.config/oh-my-posh/base.json
+oh-my-posh config export --format toml --output ~/.config/oh-my-posh/base.toml
+vim ~/.config/oh-my-posh/base.toml
+rm base.toml
+mv base.json base.json
+vim ~/.config/oh-my-posh/base.json
+cd .config/oh-my-posh
+vim zen.json
+yay -S yazi
+cd ~/.local/share
+cd files
+curl -f https://zed.dev/install.sh | sh
+yay -S bat
+cat
+yay -S neovim
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+yay -S zpotify
+zpotify
+git clone https://github.com/josean-dev/dev-environment-files/tree/main
+rm -rf ~/.config/nvim
+mv dev-environment-files/.config/nvim ~/.config/nvim
+zpotify search
+zpotify search "hey jude"
+zpotify search 
+mpv
+yay -S mpv
+yay -S mpv vlc
+yay -Rs zpotify
+git clone https://aur.archlinux.org/zpotify\
+cd zpotify\
+makepkg -si
+zpotify search track "hey jude"
+yay -S ncspot
+35;54;15M35;52;15M35;51;15M35;50;15M35;48;15M35;47;15M35;45;15M0;45;
+yay -Rs ncspot
+yay -Ss spotify
+git clone https://github.com/jpochyla/psst
+cd psst
+cd psst-cli
+cargo run --release
+rm psst
+yay -S youtube-music-bin
+vim yt_theme.css
+yay -S spotify-adblock
+sudo spicetify backup apply
+sudo chmod a+wr /opt/spotify\
+sudo chmod a+wr /opt/spotify/Apps -R
+spicetify backup apply
+curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+vim .config/spotify/
+cd .config/spicetify
+vim config-xpui.ini
+curl -fsSL https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.sh | sh
+yay -S typora
+curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh >> atuin_setup.sh
+cat atuin_setup.sh
+chmod +x atuin_setup.sh
+./atuin_setup.sh
+cd .atuin/bin
+atuin login
+vim atuin_setup.sh
+atuin register
+curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh
+yay -S notion-enchanced
+yay -Ss notion-enchanced
+yay -Ss notion-enhanced
+yay -Ss notion
+yay -S notion-app-enhanced
+yay -Rs notion-app-enhanced
+yay -Ss obsidian
+yay -S obsidian
+yay -S gh
+yay -Ss gh
+yay -Ss github
+yay -S github-cli
+git
+gh auth
+gh auth login
+gh
+gh browse
+git clone https://github.com/ynxaron/Codes
+git clone https://github.com/ynxaron/Writings
+git clone https://github.com/ynxaron/repos
+rm -rf repos
+mkdir NovelNotes
+mv Notes.md NovelNotes
+fish
+pacman
+sudo pacman
+git clone https://github.com/ani-cli/ani-cli
+git clone https://github.com/pystardust/ani-cli
+./ani-cli/ani-cli
+cp ani-cli/ani-cli bin
+cp yt-dlp/yt_dlp bin
+cp yt-dlp/yt-dlp.sh bin
+"All my repos with a /bin already in" >> README.md
+echo "All my repos with a /bin already in" >> README.md
+git config --global user.email ynx
+git config --global user.email ynx.aron@outlook.com
+git config --global user.name ynx
+git commit -m "Staging first commit"
+git branch -M main
+git remote add origin https://github.com/ynxaron/repos.git
+rm .config/zsh/zshrc
+link .zshrc .config/zsh/zshrc
+rm .config/zsh/zshenv
+link .zshenv .config/zsh/zshenv
+zed .config
+pkgsearch ele
+mkdir nivm
+rm nivm
+mkdir nvim
+rg
+touch init.lua
+mkdir lua/ynx/core
+mkdir -p lua/ynx/core
+mkdir -p lua/ynx/plugins
+touch lua/ynx/lazy.lua
+yay -S tree
+touch lua/ynx/core/options.lua
+nvim nvim
+zed nvim
+rm dev-environment-files
+git clone https://github.com/josean-dev/dev-environment-files
+cp -r dev-environment-files/.config/nvim ~/.config/nvim
+nvim ~/.config/nvim
+zed ~/.config/nvim
+yay -S tldr
+tealdeer
+tldr
+which tldr
+tldr tldr
+git clone https://github.com/nushell/nushell
+cd nushell
+cargo build --release
+which sh
+sh
+chsh -l
+./target/release/nu
+cd ~/Documents
+cd Free-Algorithms-Books
+cd Library
+cd src
+cd PYTHON
+ls .repos/bin
+cat yt-dlp
+cd ../yt-dlp
+cd yt_dlp
+cd ../bin
+mv ~/Downloads/yt-dlp ./
+chmod +x yt-dlp
+yt-dlp 'https://www.youtube.com/watch?v=ORWfsHPbNIQ&list=PLIcl4lmuJQhhAcGdeIF2ZSpahJaCL_7FT&index=22'
+rm Holes\ \&\ The\ Prison-Industrial\ Complex\ \[ZhGELPFmmMw\].f302.webm.part
+yt-dlp 'https://www.youtube.com/watch?v=ORWfsHPbNIQ'
+yt-dlp --cokies-from-browser 'https://www.youtube.com/watch?v=ORWfsHPbNIQ'
+yt-dlp --cookies-from-browser 'https://www.youtube.com/watch?v=ORWfsHPbNIQ'
+yay -S go
+yay -S zig
+yay -S helix
+cd .config
+mkdir helix
+cd helix
+touch config.toml
+helix config.toml
+vim config.toml
+helix .config/helix/config.toml
+cd ~/Videos
+mkdir neetcode
+yt-dlp -o "%(playlist_index)s_%(title)s.%(ext)s" 'https://www.youtube.com/playlist?list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr'
+helix
+helix Codes/leetcode/Hard/019:2_Minimum_Window_Substring.py
+hx Codes
+mkdir VidEssays
+yt-dlp -f 18 'https://www.youtube.com/playlist?list=PLRakOohxLs57PyNeDGOnodME9HTVQ-0CS'
+cd VidEssays
+yt-dlp -f 18 'https://www.youtube.com/playlist?list=PLHGRdQSJCdr9r58fkiJNkuG3cftFMHyvJ'
+yt-dlp -f 18 'https://www.youtube.com/playlist?list=PLoD1kEb2Fm-Z0j3rFoTSjPXdh9pbN8IVP'
+yay -S libreoffice-fresh
+yay -Ss element
+yay -S element
+yay -Rs element
+yay -S fluffychat
+yay -Rs fluffychat
+git clone https://github.com/GauravWalia19/Free-Algorithms-Books
+yay -S 7zip
+zed .config/run.sh
+yay -Ss emacs
+yay -S emacs
+yt-dlp 'https://www.youtube.com/watch?v=nsf_rsGQcVE'
+yay -S logseq
+chmod +x Logseq-linux-x64-0.10.9.AppImage
+./Logseq-linux-x64-0.10.9.AppImage
+yay -S logseq-bin
+yay -Ss logseq-bin
+yay -Ss logseq
+yay -S logseq-desktop
+yay -S anytype
+chmod +x marktext-x86_64\(2\).AppImage
+./marktext-x86_64\(2\).AppImage
+mkdir anytype
+cd anytype
+touch passkey.md
+vim passkey.md
+mv ~/Downloads/Left ~/.repos/bin
+unzip Left-master.zip
+./Left-master
+cd Left-master
+cd desktop
+file left-linux-64.zip
+unzip left-linux-64.zip
+unzip ~/Downloads/left-linux-64.zip
+mkdir Left
+mkdir LeftEditor
+link ../LeftEditor/Left ./left
+file left
+rm left
+cd .repos/LeftEditor/
+./Left
+cat Left
+left
+yt-dlp Non-voting and Women's rights
+yt-dlp 'https://www.youtube.com/watch?v=MubczFueuMQ'
+ls /home
+sudo passwd sudo
+yt-dlp 'https://www.youtube.com/watch?v=Z7MM6k1XXe8'
+rm Does\ having\ a\ toxic\ family\ help\ you\ in\ lifeï¼ƒ¿\ \[Z7MM6k1XXe8\].f137.mp4.part
+lsblks
+sudo wipefs --all /dev/sda
+sudo fdisk -l
+sudo cfdisk /dev/sda
+sudo mkfs.vfat -n 'Aron' /dev/sda
+ls /dev
+lsblk
+file /dev/sda
+sudo umount /dev/sda
+sudo mkfs.vfat -n 'Aron' /dev/sda1
+yt-dlp 'https://www.youtube.com/watch?v=xKs4AjPCLgw'
+yay -Rs firefox cachy-browser epiphany
+mpv Ethan\ Klein\ Threatens\ to\ Dox\ Redditors\ \[xKs4AjPCLgw\].webm
+yt-dlp 'ytsearch:hasan abi reacts to nector dating'
+mpv 50\ strangers\ swipe\ on\ each\ other\ ï½ƒ¼\ Hasanabi\ \&\ Austin\ Show\ react\ to\ Nectar\ \[NSWb6NsOlZI\].webm
+cd .repos/LeftEditor
+unzip Acts\ of\ Desperation.zip
+cd .repos/.git
+which cdi
+cdi update
+cdi load
+which __zoxide_z
+yay -S marktext
+sudo 
+yt-dlp 'ytsearch:hasan abi reacts to jubilee dating'
+mpv HasanAbi\ Reacts\ To\ Blind\ Dating\ 6\ Men\ Based\ on\ Their\ Bodies\ ï½ƒ¼\ Jubilee\ \[fIenWQhpTX0\].mkv
+__zoxide_zi
+c++
+c++ -h
+which c++
+c++ --help
+tldr --update
+tldr c++
+tldr g++
+g++ -h
+./intro
+vim intro.cpp
+g++ intro.cpp -o intro
+cargo new hello_there
+zed hello_there
+which -
+-
+~
+which ~
+/home/ynx
+mv HyDE .repos/
+rm 50\ strangers\ swipe\ on\ each\ other\ ï½ƒ¼\ Hasanabi\ \&\ Austin\ Show\ react\ to\ Nectar\ \[NSWb6NsOlZI\].f616.mp4.
+rm 50\ strangers\ swipe\ on\ each\ other\ ï½ƒ¼\ Hasanabi\ \&\ Austin\ Show\ react\ to\ Nectar\ \[NSWb6NsOlZI\].f616.mp4.part-Frag4.part
+yt-dlp 'ytsearch:hasan abi reacts to jubilee women'
+yt-dlp 'ytsearch:hasan abi reacts to women jubilee'
+rm Are\ Men\ Superior\ To\ Womenï¼ƒ¿\ Alphas\ v.\ Betas\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Jubilee\ \[xP4bywaXlNU\].f399.mp4.part
+yt-dlp 'ytsearch:hasan abi reacts to women'
+rm Matt\ Walsh\ Doesn\'t\ know\ What\ A\ Woman\ Is\ ï½ƒ¼\ HasanAbi\ Reacts\ \[plWeddIH0n0\].f299.mp4.part
+yt-dlp 'ytsearch:hasan abi reacts dating'
+rm CRINGE\ Dating\ Advice\ For\ Men\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Jarvis\ Johnsons\ ft.\ AustinShow\ \[x44OsBR15c4\].f303.webm.part
+yt-dlp 'ytsearch:hasan abi reacts to speed dating'
+mpv 50\ singles\ speed\ date\ \(Part\ 2\)\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Jubilee\ ft.\ AustinShow\ \[TM1ExnK1wXw\].f303.webm.part
+yt-dlp 'ytsearch:speed dating jubilee'
+mpv 20\ vs\ 1ï¼ƒº\ Speed\ Dating\ 20\ Guys\ ï½ƒ¼\ Jubilee\ x\ Solfa\ ï½ƒ¼\ Versus\ 1\ \[zlLH_ph74Es\].webm
+yt-dlp 'ytsearch:speed dating nector'
+mpv 50\ singles\ speed\ date\ in\ front\ of\ strangers\ ï½ƒ¼\ season\ 3\ \[PjDEKqQ_ln4\].f616.mp4.
+yt-dlp 'ytsearch:hasan abi reacts to 50 singles'
+rm 50\ singles\ speed\ date\ \(Part\ 2\)\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Jubilee\ ft.\ AustinShow\ \[TM1ExnK1wXw\].f303.webm.part
+mpv 50\ singles\ speed\ date\ in\ front\ of\ strangers\ ï½ƒ¼\ season\ 3\ \[PjDEKqQ_ln4\].f616.mp4.part
+yt-dlp 'ytsearch:50 singles speed date in front of strangers season 2'
+mpv 50\  
+mpv 50\ more\ singles\ speed\ date\ in\ front\ of\ strangers\ \[wKipD0xgyBs\].webm
+yt-dlp 'ytsearch:50 singles speed date in front of strangers season 1'
+mpv 50\ singles\ speed\ date\ in\ front\ of\ strangers\ ï½ƒ¼\ vs\ 1\ \[vhYrLQ6pphs\].webm
+rm Hunter\ Schafer\ Faces\ Unbelievable\ Issue\ Due\ To\ Trumpâ€ƒ¹s\ Policy\ ï½ƒ¼\ Hasanabi\ Reacts\ \[WgWsFuJlWw0\].f399.mp4.part
+rm 50\ strangers\ swipe\ on\ each\ other\ ï½ƒ¼\ Hasanabi\ \&\ Austin\ Show\ react\ to\ Nectar\ \[NSWb6NsOlZI\].f616.mp4.part
+rm 50\ strangers\ swipe\ on\ each\ other\ ï½ƒ¼\ Hasanabi\ \&\ Austin\ Show\ react\ to\ Nectar\ \[NSWb6NsOlZI\].f616.mp4.ytdl
+yt-dlp 'ytsearch:hasan abi reacts to nector'
+yt-dlp 'ytsearch:hasan abi chadvice'
+yt-dlp 'ytsearch:hasan abi reacts to takoma wept'
+mpv Chadviceï¼ƒº\ 7\ Rules\ For\ Dating\ -\ An\ Antidote\ to\ Inceldom\ \[_FkwPpk9ROw\].mp4
+mpv Conservative\ Self-Help\ \[nsf_rsGQcVE\].webm
+vim .config/zsh/zshrc
+ping 8.8.8.8
+yt-dlp 'https://www.youtube.com/watch?v=Rb__s_g7jwE'
+yt-dlp 'ytsearch:badempanada DESTROSY Ethan Kelin Hasan Reactions'
+zed .config 
+passwd sudo
+sudo -s
+visudo
+cat /etc/sudoers
+which cat
+starship -h
+starship init
+starship init zsh
+starship init zsh >> starship.sh
+cat starship.sh
+chmod +x starship.sh
+source starship.sh
+./starship.sh
+zed starship.sh
+cat fzf.zsh
+cd .local/share/zinit/zinit.git
+cat zinit.zsh
+yt-dlp 'ytsearch:zinit guide'
+cat .zsh_history
+vim .zsh_history
+link .zsh_history .config/zsh/zsh_history
+cat zsh_history
+rm .config/zsh/zsh_history
+cp .zsh_history .config/zsh/zsh_history
+spicetify
+cd ~/.local/bin
+cat hyde-shell
+cat zed
+./zed
+du -hs zed
+ls .cargo/bin
+rustup component add rls
+rls
+rls --help
+tldr rls
+cd $tmp
+echo $tmp
+echo $TMP
+git clone https://github.com/rust-in-action/code
+mv code rust-in-action-codes
+cd rust-in-action-codes
+cd ch1
+cd ch1-cereals
+zed ~/Codes/leetcode
+yt-dlp 'ytsearch:zinit'
+yt-dlp 'ytsearch:zinit plugin manager'
+y
+mpv This\ ZSH\ Plugin\ Manager\ Is\ Really\ SUS\ \[pHVbjLTFmVo\].webm
+mpv This\ Zsh\  
+mpv This\ Zsh\ config\ is\ perhaps\ my\ favorite\ one\ yet.\ \[ud7YxC33Z3w\].webm
+zinit zstatus
+ls --colors
+ga
+yt-dlp 'ytsearch:zoxide guide'
+cd Documents/Rust
+zed ~/.zshrc
+mpv zoxide\ has\ forever\ improved\ the\ way\ I\ navigate\ in\ the\ terminal.\ \[aghxkpyRVDY\].webm
+cd con
+cd lee
+cd nvim
+cd query down
+vlc Megan\ Nolan\ -\ Acts\ of\ Desperation
+cd Megan\ Nolan\ -\ Acts\ of\ Desperation
+vlc Acts\ of\ Desperation\ -\ Part01.mp3
+mpv Acts\ of\ Desperation\ -\ Part01.mp3
+cd ~/.cargo/bin
+echo $SHELL
+/bin/bash
+tldr btop
+git clone https://github.com/aristocratos/btop
+mv btop .repos
+cd btop
+cd .atuin
+./atuin
+yt-dlp 'ytsearch:my favoriate redditor'
+yt-dlp 'ytsearch:nectar full season'
+mpv My\ Favorite\ Redditor\ \[7OViYUArpH8\].webm
+rm My\ Favorite\ Redditor\ \[7OViYUArpH8\].webm
+cd Vi vid
+yt-dlp 'ytsearch:hasan abi reacts to Jubilee'
+rm Ben\ Shapiro\ Debates\ Children\ and\ Loses\ AGAIN\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Jubilee\ \[13oBZ9o818I\].f399.mp4.part
+yt-dlp 'ytsearch:hasan abi reacts to dating'
+mpv CRINGE\ Dating\ Advice\ For\ Men\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Jarvis\ Johnsons\ ft.\ AustinShow\ \[x44OsBR15c4\].webm
+rm CRINGE\ Dating\ Advice\ For\ Men\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Jarvis\ Johnsons\ ft.\ AustinShow\ \[x44OsBR15c4\].webm
+yt-dlp 'ytsearch:hasan abi ft Austing Show'
+mpv 6\ Tops\ vs\ 1\ Secret\ Bottom\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Jubilee\ ft.\ AustinShow\ \[cnNlrWr5980\].webm
+yt-dlp 'ytsearch:afreen afreen'
+z
+vim google.md
+rm google.md
+cargo install nu
+cd .cargo/bin
+./nu
+which pfetch
+rm NEUROSCIENCE\ OF\ SEX\ ft.\ @Sidwarrier\ @SamayRainaOfficial\ @rohanjoshi8016\ @AnirbanDasgupta5\ \[8eehS2gvYQY\].f616.mp4.part
+rm NEUROSCIENCE\ OF\ SEX\ ft.\ @Sidwarrier\ @SamayRainaOfficial\ @rohanjoshi8016\ @AnirbanDasgupta5\ \[8eehS2gvYQY\].f616.mp4.part-Frag3.part
+rm NEUROSCIENCE\ OF\ SEX\ ft.\ @Sidwarrier\ @SamayRainaOfficial\ @rohanjoshi8016\ @AnirbanDasgupta5\ \[8eehS2gvYQY\].f616.mp4.ytdl
+yt-dlp 'ytsearch:nectar 50 singles season 3'
+mpv 50\ singles\ speed\ date\ in\ front\ of\ strangers\ ï½ƒ¼\ season\ 3\ \[PjDEKqQ_ln4\].webm
+yt-dlp 'ytsearch:hasan abi reacts to nectar'
+cat .zshrc
+kill $(pidof thunar)
+yt-dlp 'ytsearch:predicting the womens prize for fiction 2025'
+yt-dlp 'ytsearch:predicting the womens prize for fiction 2025 ben reads good'
+mpv Predicting\ the\ Women\'s\ Prize\ for\ Fiction\ 2025\ longlist\ ðƒ¿ƒ´®\ \[rZ_H00zUVdY\].webm
+vim applock_info.md
+rm parental_account.md
+vim parental_account.md
+yt-dlp 'ytsearch:jubilee hasan reacts to hasanabi head'
+mpv Who\ Is\ The\ Hasanabi\ Headï¼ƒ¿ï¼ƒ¿\ \(Odd\ Ones\ Out\ Jubilee\ React\)\ \[OpOgXpPaJlU\].webm
+rm Who\ Is\ The\ Hasanabi\ Headï¼ƒ¿ï¼ƒ¿\ \(Odd\ Ones\ Out\ Jubilee\ React\)\ \[OpOgXpPaJlU\].webm
+vim ~/.local/share/Trash/files/parental_account.md
+sudo rm -rf /
+which rm
+mpv nectarhouse\ full\ season\ compilation\ \(+\ bonus\ footage\)\ \[zardrkLEBM4\].webm
+yt-dlp 'ytsearch:nectar sex'
+git commit -m "Adding Solution to 045, and updating ../Node_Lib.py for adding some new methods'\
+"
+mpv 046_Invert\ Binary\ Tree\ -\ Depth\ First\ Search\ -\ Leetcode\ 226.webm
+touch BTree_Lib.py
+link BTree_Lib.py Medium/BTree_Lib.py
+link BTree_Lib.py Hard/BTree_Lib.py
+link BTree_Lib.py Easy/BTree_Lib.py
+python Node_Lib.py
+touch Easy/046_Invert_Binary_Tree.py
+yt-dlp 'ytsearch:nectar flirting with 50 strangers season 5'
+mv Nectar_Season_5_Part1.webm Nectar_Season_5_Part3.webm
+yt-dlp 'ytsearch:50 singles speed date in front of strangers season 5'
+mpv Nectar_Season_5_Part3.webm
+mpv 50\ singles\ speed\ date\ in\ front\ of\ strangers\ ï½ƒ¼\ season\ 5\ \[ZmVfDjRA7nA\].webm Nectar_Season_5_Part1.webm
+mv 50\ singles\ speed\ date\ in\ front\ of\ strangers\ ï½ƒ¼\ season\ 5\ \[ZmVfDjRA7nA\].webm Nectar_Season_5_Part1.webm
+yt-dlp 'ytsearch:50 singles swipe on each other season 5'
+mpv Nectar_Season_5_Part1.webm
+mpv 50\ strangers\ swipe\ on\ each\ other\ ï½ƒ¼\  
+mpv 50\ strangers\ swipe\ on\ each\ other\ ï½ƒ¼\ season\ 5\ \[PX6jL5m1aLc\].webm
+yt-dlp 'ytsearch:50 singles swipe on each other season 4 nectar'
+yt-dlp 'ytsearch:50 singles swipe on each other season 4 nectar part 2'
+yt-dlp 'ytsearch:nectar season part 2'
+rm Season\ 1\ Episode\ 2ï¼ƒº\ Host\ and\ Nectar\ Plants\ -\ \ Part\ 2\ \[3Ma2Fz9W0qQ\].f299.mp4.part
+mv flirting\ with\ 50\ strangers\ ï½ƒ¼\ season\ 5\ \[We5YIwYVRNU\].webm Nectar_Season_5_Part1.webm
+yt-dlp 'ytsearch:flirting with 50 strangers nectar'
+mpv flirting\ with\ 50\ strangers\ ï½ƒ¼\ season\ 4\ \[ylqVV9FpOAc\].webm
+mpv 50\ strangers\ swipe\ on\ each\ other\ ï½ƒ¼\ season\ 4\ \[st-xSFONWo4\].webm
+mpv Videos/neetcode
+cd Videos/neetcode
+mpv 047_Maximum\ Depth\ of\ Binary\ Tree\ -\ 3\ Solutions\ -\ Leetcode\ 104\ -\ Python.webm
+touch Easy/047_Maximum_Depth_Of_A_Binary_Tree.py
+python Easy/047_Maximum_Depth_Of_A_Binary_Tree.py
+git commit -m "Modifying ../Node_Lib to fix .append() method, since it gave a NoneObject Error, then added a Binary Tree Lib, defined like before a level above, and added solutions of 046 and 047"
+rm hello_there
+rm CommonCodingProbs.py
+cd Easy/__pycache__
+vim BTree_Lib.cpython-313.pyc
+cd ../..
+git branch
+zed ~/.config/oh-my-posh
+cd .config/zsh
+cat ynx_output.sh
+uptime --pretty
+zed ynx_output.sh
+./ynx_output.sh
+zinit
+zinit update
+vim .config/zsh/zsh_history
+yt-dlp 'ytsearch:nectar season 3 strangers flirting'
+mpv 50\ more\ strangers\ swipe\ on\ each\ other\ ï½ƒ¼\ season\ 3\ \[y34j_jLMA8c\].webm
+sudo pacman -Ss hello
+yay -S zen
+yay -Ss zenbrowser
+yay -Ss zen
+yay -S librewolf
+yay
+yay -S riseup-vpn
+yt-dlp 'https://www.youtube.com/watch?v=eDOxhrqw5Tk'
+yay -Ss nuclear
+yay -S nuclear-player
+yay -S superfile
+pkgsearch super
+superfile
+yay -Rs superfile
+bash -c "$(curl -sLo- https://superfile.netlify.app/install.sh)"
+spf
+yt-dlp 'https://www.youtube.com/watch?v=jN90xzut-2g'
+yt-dlp 'https://www.youtube.com/watch?v=g07uoI7UUCM'
+rm reading\ a\ book\ from\ every\ country\ in\ the\ world\ ðƒ¿ƒ¬ƒ­\ 45\ countries\ in\ novels\ \[g07uoI7UUCM\].f313.webm.part
+yay -S yarn
+yarn add react react-dom @excalidraw/excalidraw
+yarn --list
+git clone https://github.com/excalidraw/excalidraw.git
+yarn
+yay -S excalidra
+yay -S excalidraw
+yay -S revezone
+npm install react react-dom @excalidraw/excalidraw
+yay -Rs librewolf
+yay -S blanket
+yay -Rs riseup-vpn
+sudo visudo
+yt-dlp "ytsearch:women's prize in fiction 2025"
+go
+go search
+go install ytui
+go install ytui@latest
+mpv My\ Predictions\ for\ the\ Women\'s\ Prize\ for\ Fiction\ 2025\ \[UTRCU6yI4tA\].webm
+eval
+which eval
+man eval
+tldr eval
+eval "echo foo"
+logout
+exit
+yt-dlp 'https://www.youtube.com/watch?v=UDYhIvIMBsQ'
+python -m venv .venv
+lsa
+which lsa
+cat activate
+python --version
+rm .venv
+rm_test
+cargo new testing_things
+rm_test testing_things
+yt-dlp 'https://www.youtube.com/watch?v=7zJhJsdoTYQ'
+rm Downloads/zen-x86_64.AppImage
+mpv 048_Diameter\ of\ a\ Binary\ Tree\ -\ Leetcode\ 543\ -\ Python.webm
+zed ~/.config 
+touch Easy/048_Diameter_Of_A_Binary_Tree.py
+python Easy/048_Diameter_Of_A_Binary_Tree.py
+mpv The\ Native\ Bigfoot\ \[7zJhJsdoTYQ\].webm
+mpv 049_Balanced\ Binary\ Tree\ -\ Leetcode\ 110\ -\ Python.webm
+touch Easy/049_Balenced_Binary_Tree.py
+git add ../CommonCodingProbs.py
+python Easy/049_Balenced_Binary_Tree.py
+git commit -m "Modifying ../BTree_Lib to add self.height() function, that calculates max height, and adding solutions to two leetcode problems (048, 049), both related to Binary Tree"
+git commit -m "Updating UOSIC_AL and finishing edit of Tree_Winter_Nights (not really, I think it was already good enough (I hope))"
+cd ~/.config
+git add zed 
+yt-dlp "ytsearch:life in North america before europeans"
+mpv The\ Truth\ About\ Native\ Americans\ before\ Europeans\ Arrived\ \[-8jT6qpR96k\].webm
+rm The\ Truth\ About\ Native\ Americans\ before\ Europeans\ Arrived\ \[-8jT6qpR96k\].webm
+mpv 050_Same\ Tree\ -\ Leetcode\ 100\ -\ Python.webm
+touch Easy/050_Same_Tree.py
+yay -Ss mojo
+pacman -Ss mojo
+yt-dlp "ytsearch:public hitting on my wife compliation"
+mpv Hitting\ on\ My\ Wife\ in\ Public\ to\ Get\ Her\ Reaction\!\ \(Parts\ 1-10\)\ ï½ƒ¼\ Funniest\ Reactions\ Compilation\ \[ti_ard2jMy8\].webm
+/
+which z
+cd .venv
+python -m venv .repos/animations
+rm .repos
+python -m venv ~/.repos/animations
+cd ~/.repos/animations
+ls bin
+chmod +x bin/activate
+./bin/activate
+./bin/pip3 install manim
+./bin/python
+./bin/pip3 install numpy matplotlib
+/bin/python -m pip install --upgrade pip
+/bin/python -m pip install --upgrade pip3
+vim pyvenv.cfg
+python Easy/050_Same_Tree.py
+touch Easy/051_Subtree_Of_Another_Tree.py
+cd Codes/leetcode
+ðƒ¿¤ƒ°ðƒ¿ƒ²ƒ¿ðƒ¿ƒ²«ðƒ¿ƒ²ƒ«ðƒ¿ƒ¨´
+ã€½ï¸ƒ¯
+vim hello.md
+cat hello.md
+rm hello.md
+ðƒ¿¥»ðƒ¿§½ðƒ¿§©ðƒ¿ƒ®¯ðƒ¿ƒ´®
+ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«ðƒ¿ƒµƒ«
+vim intro.p
+vim intro.py
+nvim intro.py
+rm intro.py
+cd conf
+tree nvim.bak
+rm nvim
+mv nvim.bak nvim
+nvim Codes/leetcode
+atuin
+atuin dotfiles
+atuin dotfiles help
+atuin dotfiles -h
+pkgsearch excal
+pkgsearch exc
+yay -Ss excalidraw
+yt-dlp "ytsearch:publicly flirting with my wife tiktok"
+rm Best\ Pickup\ Line\ to\ Impress\ a\ Girl\ âƒ½¤ï¸ƒ¯ðƒ¿ƒ²¯\ \#Shorts\ \#ajpickuplines\ \#love\ \#OyeItsPrank\ \[iyd-guSw7uI\].webm
+yt-dlp "ytsearch:publicly hitting on my wife tiktok"
+rm Abusive\ husband\ hitting\ his\ wife\ on\ a\ motorcycle\ caught\ live\ on\ camera\ \[g9YuNK2w6LY\].f399.mp4.part
+yt-dlp "ytsearch:publicly hitting on my wife compilation"
+mpv Doing\ this\ in\ the\ middle\ of\ an\ argument\ with\ my\ girlfriendðƒ¿¤£\ \#shorts\ \[h91OWaAaCPE\].webm
+rm Doing\ this\ in\ the\ middle\ of\ an\ argument\ with\ my\ girlfriendðƒ¿¤£\ \#shorts\ \[h91OWaAaCPE\].webm
+yt-dlp "ytsearch:how to use excalidraw"
+mpv Excalidraw\ Obsidian\ Tutorial\ -\ How\ To\ Use\ Excalidraw\ For\ Beginners\ \(Full\ Guide\)\ \[147f6prXuWA\].webm
+yt-dlp "ytsearch:git how to use git branch"
+mpv Git\ Branches\ Tutorial\ \[e2IbNHi4uCI\].webm
+mkdir git_test
+cd git_test
+git init
+touch hello.md hi.md whatsup.md
+git commit -m "Testing"
+git branch new_branch
+git checkout new_branch
+touch bye_bye.md
+vim bye_bye.md
+git commit -m "Adding bye bye"
+git checkout main
+git checkout master
+rm git_test
+cd ~/Writings
+git commit -m "Adding this day's worth of work, and also possibly playing with a branch"
+git branch RobberyBeginning
+cd Writings
+cd UOSIC_AL
+typora Act_I.md
+yt-dlp "ytsearch:life in North america before europeans documentary"
+yt-dlp "ytsearch:women's prize in fiction 2025 reaction"
+git checkout RobberyBeginning
+cd repos
+cd excalidraw
+cd examples
+cd with-nextjs
+s
+yarn dev
+yt-dlp "ytsearch:hasan reacts to nectar"
+mpv 50\ strangers\ swipe\ on\ each\ other\ ï½ƒ¼\ Hasanabi\ \&\ Austin\ Show\ react\ to\ Nectar\ \[NSWb6NsOlZI\].f616.mp4.part
+yt-dlp "ytsearch:hasan reacts to "
+mpv Rapid\ Fire\ \(Hasan\ x\ Theo\ Von,\ Ethan\ Klein\ \&\ More\)\ ï½ƒ¼\ HasanAbi\ Reacts\ \[qNfJ7jdZ-78\].webm
+yt-dlp "ytsearch:walking through new york rain lofi"
+mpv RAINING\ IN\ ï¼®ï¼¥ï¼·\ ï¼¹ï¼¯ï¼²ï¼«\ \(Lofi\ HipHop\)\ \[z3XeesFzNe4\].webm
+yt-dlp "ytsearch:walking through new york lofi"
+mpv Walk\ Through\ New\ York\ City\ -\ Lofi\ Hip-Hop\ \[4GJdSJlEtBs\].mkv
+yt-dlp "ytsearch:what is tonsil and how to fix it"
+mpv Tonsillitisï¼ƒº\ Home\ Remedies\ \&\ Treatments\ By\ Dr\ Lalit\ Parashar\ at\ Apollo\ Spectra\ Hospitals\ \[ASWYPgNgEiw\].webm
+yt-dlp "ytsearch:how to heal from tonsil"
+mpv How\ to\ Treat\ Tonsillitis\ ï½ƒ¼\ Home\ remedies\ for\ Tonsillitis\ \[ZrvxZIrFjzQ\].webm
+yt-dlp "ytsearch:tonsil anti bacteria"
+mpv Tonsillitis
+mpv Tonsillitis\ in\ adultsï¼ƒº\ Symptoms\ and\ treatment\ ï½ƒ¼\ NHS\ \[wCFtZGps69Y\].webm
+mpv 051_Subtree\ of\ Another\ Tree\ -\ Leetcode\ 572\ -\ Python.webm
+mpv 052_Lowest\ Common\ Ancestor\ of\ a\ Binary\ Search\ Tree\ -\ Leetcode\ 235\ -\ Python.webm
+touch Easy/052_Lowest_Common_Denominater.py
+yt-dlp "ytsearch:mother's basement anime"
+mpv Animeâ€ƒ¹s\ Most\ Tragic\ Downgrades\ \[BwC22b_Dedo\].webm
+touch Medium/053_BinaryTree_Level_Order_Traversal.py
+yt-dlp "ytsearch:gigguk anime recommendation"
+mpv Best\ of\ Anime\ 2024\ \[rJ1PLLPcWXs\].webm
+mpv 053_Binary\ Tree\ Level\ Order\ Traversal\ -\ BFS\ -\ Leetcode\ 102.webm
+mpv 054_Binary\ Tree\ Right\ Side\ View\ -\ Breadth\ First\ Search\ -\ Leetcode\ 199.webm
+touch Medium/054_BinaryTree_Right_Side_View.py
+python Medium/053_BinaryTree_Level_Order_Traversal.py
+python Medium/054_BinaryTree_Right_Side_View.py
+touch Medium/055_Count_Good_Nodes_In_Binary_Tree.py
+yt-dlp "ytsearch:python lambda tutorial"
+mpv Lambda\ functions\ in\ Python\ ï½ƒ¼\ Python\ Tutorial\ -\ Day\ \#52\ \[UfFWf-PXUqE\].webm
+cd ~/Videos/neetcode
+mpv 055_Microsoft\'s\ Most\ Asked\ Question\ 2021\ -\ Count\ Good\ Nodes\ in\ a\ Binary\ Tree\ -\ Leetcode\ 1448\ -\ Python.webm
+python Medium/055_Count_Good_Nodes_In_Binary_Tree.py
+cd ~/Music
+ls Element
+cd Element
+yt-dlp "ytsearch:heat waves music video"
+mpv Glass\ Animals\ -\ Heat\ Waves\ \(Official\ Video\)\ \[mRD0-GxqHVo\].webm
+yt-dlp "ytsearch:ind vs nz final"
+rm These\ 3\ NZ\ Players\ Are\ Biggest\ Threats\ for\ India\ to\ Win\ CT\ 2025\ ï½ƒ¼\ Detailed\ Analysis\ by\ Jatin\ Sapru\ \[KHMfGKtv5MM\].f616.mp4.part
+rm These\ 3\ NZ\ Players\ Are\ Biggest\ Threats\ for\ India\ to\ Win\ CT\ 2025\ ï½ƒ¼\ Detailed\ Analysis\ by\ Jatin\ Sapru\ \[KHMfGKtv5MM\].f616.mp4.ytdl
+touch Medium/056_Validate_Binary_Search_Tree.py
+chmod +x zen-x86_64\ \(1\).AppImage
+rm zen-x86_64\ \(1\).AppImage
+mv Downloads/zen-x86_64.AppImage ./zen
+chmod +x zen
+chmod +x deskthing-linux-0.10.3-setup.AppImage
+./deskthing-linux-0.10.3-setup.AppImage
+pidof zen
+kill $(pidof zen)
+mkdir LiteraryTheory
+yt-dlp 'https://www.youtube.com/playlist?list=PLD00D35CBC75941BD'
+cd Vid 
+rm zen
+./zen
+rm zen zen.zip 'zen-x86_64 (1).AppImage'
+cd LiteraryTheory
+yt-dlp -o "%(playlist_index)s_%(title)s.%(ext)s" 'https://www.youtube.com/playlist?list=PLD00D35CBC75941BD'
+cd Videos/LiteraryTheory
+mpv 01_1.\ Introduction.webm
+mpv 02_2.\ Introduction\ \(cont.\).webm
+mpv Ireland\'s\ Unfinished\ Revolution\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Horses\ \[86F8Z9gPhJY\].f
+yt-dlp 'ytsearch:hasan abi reacts to irelands unfinished revolution horses'
+yt-dlp 'ytsearch:hasan abi reacts to'
+mpv Ireland\'s\ Unfinished\ Revolution\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Horses\ \[86F8Z9gPhJY\].webm
+yt-dlp 'ytsearch:hasan abi reacts to gdf ira'
+mpv why\ did\ disney\ do\ thisâ€¦\ \[K49oV3X_BbY\].f399.mp4
+rm why\ did\ disney\ do\ thisâ€¦\ \[K49oV3X_BbY\].f399.mp4
+yt-dlp 'ytsearch:hasan abi reacts to gdf'
+yt-dlp 'ytsearch:rev and reve gaza prison uprising'
+mpv Piers\ Morgan\ is\ Wrong\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ GDF\ \[LUbaBELhJMs\].webm
+mv ungoogled-chromium_134.0.6998.35-1.AppImage ../
+yt-dlp 'ytsearch:the gaza ghetto uprising rev and reve video essay'
+yt-dlp 'https://www.youtube.com/watch?v=SGVOZ1D4GyM'
+yt-dlp 'https://www.youtube.com/watch?v=1lmsz1lE6G0&t=307s'
+yt-dlp 'https://www.youtube.com/watch?v=Jlz2EUkDc0A'
+yt-dlp 'https://www.youtube.com/watch?v=yna_ILu0HV4'
+mkdir AudioBooks
+mv Downloads/Hunters_Of_Gor_08.rar AudioBooks
+mkdir 'Richard Wright-Black Boy'
+cd Richard\ Wright-Black\ Boy
+yt-dlp -F 'https://www.youtube.com/watch?v=lNgi9NVJ2z8'
+yt-dlp -f 18 'https://www.youtube.com/watch?v=lNgi9NVJ2z8'
+cd AudioBooks/Richard\ Wright-Black\ Boy
+yt-dlp -f 18 'https://www.youtube.com/watch?v=sbPyqloRdQY'
+yt-dlp 'https://www.youtube.com/watch?v=-8wEEaHUnkA'
+mpv Ep\ 84\ \(pt\ 1\)\ -\ The\ Gaza\ Ghetto\ Uprising\ wâ§¸Rev\ \&\ Reve\ \[e252NmDE164\].f313.webm.part
+mpv The\ Gaza\ Ghetto\ Uprising\ \[Pt_1k7nSv1M\].webm
+cd Vid nee
+mpv 056_Validate\ Binary\ Search\ Tree\ -\ Depth\ First\ Search\ -\ Leetcode\ 98.webm
+mpv Solving\ Nabokov\'s\ Pale\ Fire\ -\ A\ Deep\ Dive\ \[-8wEEaHUnkA\].mkv
+__zoxide_z 
+zoxide
+cd ~/Videos/LiteraryTheory
+mpv 03_3.\ Ways\ In\ and\ Out\ of\ the\ Hermeneutic\ Circle.webm
+mpv Dear\ Ethan\ Klein,\ You\ Can\'t\ Litigate\ Public\ opinion.\ \[Jlz2EUkDc0A\].webm
+mpv Destiny\ BAD\ response\ to\ being\ sued\ \[yna_ILu0HV4\].webm
+mpv INSANE\ Ethan\ Klein\ Conspiracy\ Theory\ RESPONSE\ -\ CPS\ Investigation\ Sends\ Him\ Spiralling\ Further\ \[1lmsz1lE6G0\].webm
+cd Templates
+touch 'Empty NameDocs'
+vim Templates/Empty\ NameDocs
+rm Templates/Empty\ NameDocs
+yt-dlp 'ytsearch:writing styles and giovannis room'
+rm Giovanni\'s\ Room\ ï¼ƒº\ Great\ Books\ Explained\ \[7OVi9dYnIXo\].f616.mp4.
+mpv Writing\ Styles\ and\ Giovanni\'s\ Room\ \[yCksSCvLzz8\].f400.mp4.part
+cd Music
+yt-dlp 'ytsearch:coke studios afreen afreen'
+cd jn
+yt-dlp 'https://www.youtube.com/watch?v=yCksSCvLzz8'
+mpv Writing\ Styles\ and\ Giovanni\'s\ Room\ \[yCksSCvLzz8\].webm Content\ Nuke\ Part\ 2\ -\ Ethan\ Lied\ For\ Israel\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Disinformation\ Tracker\ \[NoF43jgvpEw\].f399.mp4.part
+mpv Coke\ Studio\ Season\ 9ï½ƒ¼\ Afreen\ Afreenï½ƒ¼\ Rahat\ Fateh\ Ali\ Khan\ \&\ Momina\ Mustehsan\ \[kw4tT7SCmaY\].webm
+mpv 057_Kth\ Smallest\ Element\ in\ a\ BST\ -\ Leetcode\ 230\ -\ Python.webm
+python Medium/056_Validate_Binary_Search_Tree.py
+touch Medium/057_kth_smallest_elements_in_a_BST.py
+yt-dlp 'ytsearch:hasan abi reacts to noah streamers who deny genocide'
+mpv Genocide\ Denial\ Streamers\ ï½ƒ¼\ HasanAbi\ reacts\ to\ Noah\ Samsen\ \[0FMRvt7UFRk\].webm
+youtube-music
+yt-dlp 'ytsearch:paul cockshott the new world order'
+mpv The\ World\ Crisis\ \[WiqxGdY5_V4\].mkv
+yt-dlp 'ytsearch:noah samsen'
+yt-dlp 'ytsearch:the youtuber who backed a genocide hasan abi reacts'
+rm The\ YouTubers\ Who\ Backed\ a\ Genocide\ \[SsPCxoln6fQ\].f616.mp4.part
+rm The\ YouTubers\ Who\ Backed\ a\ Genocide\ ï½ƒ¼\ Hasanabi\ reacts\ to\ Noah\ Samsen\ \[wjzV3HKqYDs\].f616.mp4.part
+rm The\ YouTubers\ Who\ Backed\ a\ Genocide\ ï½ƒ¼\ Hasanabi\ reacts\ to\ Noah\ Samsen\ \[wjzV3HKqYDs\].f616.mp4.ytdl
+rm The\ YouTubers\ Who\ Backed\ a\ Genocide\ \[SsPCxoln6fQ\].f616.mp4.ytdl
+unzip 00hdPdMxVk9ntd.zip
+ls 00hdPdMxVk9ntd
+mv 00hdPdMxVk9ntd 'The Bluest Eye'
+rm 00hdPdMxVk9ntd.zip
+vlc The\ YouTubers\ Who\ Backed\ a\ Genocide\ ï½ƒ¼\ Hasanabi\ reacts\ to\ Noah\ Samsen\ \[wjzV3HKqYDs\].f251.webm
+yt-dlp 'ytsearch:hasan abi reacts to noah samsun the youtuber who backed a genocide'
+mpv The\ YouTubers\ Who\ Backed\ a\ Genocide\ ï½ƒ¼\ Hasanabi\ reacts\ to\ Noah\ Samsen\ \[wjzV3HKqYDs\].f251.webm
+cd AudioBooks
+unrar x Hunters_Of_Gor_08.rar
+rm Hunters_Of_Gor_08.rar
+mv 08\ Hunters\ Of\ Gor 'Hunters of Gor'
+cd Hunters\ of\ Gor
+mpv GS-08\ -\ Hunters\ of\ Gor\ -\ chap-01.mp3
+mpv GS-08\ -\ Hunters\ of\ Gor\ -\ chap-02.mp3
+cd Downloads
+mv Downloads/ungoogled-chromium_134.0.6998.35-1.AppImage ./
+chmod +x ungoogled-chromium_134.0.6998.35-1.AppImage
+rm zen-x86_64.AppImage ungoogled-chromium_134.0.6998.35-1.AppImage
+rm ungoogled-chromium_134.0.6998.35-1.AppImage
+mpv 'The YouTubers Who Backed a Genocide ï½ƒ¼ Hasanabi reacts to Noah Samsen [wjzV3HKqYDs].f251.webm'
+yt-dlp 'https://www.youtube.com/watch?v=rRTfwWfIn_g'
+cd ~/.local
+cd share
+cd Trash
+ls expunged
+ls files
+ls info
+touch taste.md
+cat >> taste.md
+cat taste.md
+source ~/.zshrc
+rm_test taste.md
+cd .spicetify
+./spicetify
+./spicetify update
+which spicetify
+echo $ZSH
+rm taste.md
+mv The\ Worst\ YouTubers\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Noah\ Samsen\ \[rRTfwWfIn_g\].webm .junk
+cd jnk
+yt-dlp 'ytsearch:free code camp binary tree'
+cd code
+git add BTree_Lib.py
+git commit -m "Added a few methods to the /BTree_Lib.py file"
+git ls-file
+git ls-files
+yt-dlp 'ytsearch:cloudcuckoocountry book burning the violinist of venice part 1'
+yt-dlp 'ytsearch:cloudcuckoocountry book burning the violinist of venice part 2'
+mpv Book\ Burningï¼ƒº\ The\ Violinist\ of\ Venice\ Part\ 1\ \(ft.\ Crowne\ Prince\)\ \[2w3itEppHPs\].mkv
+yt-dlp 'ytsearch:cloudcuckoocountry book burning the ancient solitary reign part 1'
+mpv Book\ Burningï¼ƒº\ The\ Ancient\ Solitary\ Reign\ Part\ 1\ \(ft.\ Shammy\)\ \[qzdvUcDfdGo\].webm
+python Medium/057_kth_smallest_elements_in_a_BST.py
+touch Medium/058_Construct_BinaryTree_from_Inorder_and_Preorder_traversal.py
+;3A
+mpv Book\ Burningï¼ƒº\ The\ Violinist\ of\ Venice\ Part\ 2\ \(ft.\ Crowne\ Prince\)\ \[lIy71mx_MtU\].webm
+yt-dlp 'ytsearch:korean extra spicy noodles recipe'
+mpv NEW
+mpv 6\ NEW\ WAYS\ TO\ ENJOY\ KOREAN\ SPICY\ FIRE\ NOODLES\!\ Ramyun\ Recipes\ Hack\!\ \[e2A_h-4Clb4\].webm
+yt-dlp 'ytsearch:gigguk'
+yt-dlp 'ytsearch:best echii anime of all time'
+yt-dlp 'ytsearch:best echii anime'
+mpv Top\ 10\ Ecchi\ Anime\ Where\ Girls\ Go\ TOO\ FAR\ for\ the\ MC\ \[kHvnHiDLCZE\].webm
+yt-dlp 'ytsearch:elen diddy come on out'
+mpv DIDDY\ ELLEN\ SHOW\ EPISODE\ RESURFACED\ ðƒ¿ƒ¸±\ EP.215\ @jumpersjump\ \[uIrfnS8Qe5E\].webm
+rm DIDDY\ ELLEN\ SHOW\ EPISODE\ RESURFACED\ ðƒ¿ƒ¸±\ EP.215\ @jumpersjump\ \[uIrfnS8Qe5E\].webm
+yt-dlp 'ytsearch:anime with best fan service'
+mpv 100\ Best\ Anime\ With\ Too\ Much\ Fanservice\ \[NZflsB3tHc8\].webm
+ani-cli -d "scum's wish"
+ani-cli "scum's wish"
+ani-cli "domestic girlfriend"
+cd .local/share/flatpak
+cd appstream/flathub/x86_64
+cd 65c7ddfafad17181cfc23462544867b6b7ff5194629e876d27d48d54886aa4d5
+cat appstream.xml
+cd icons
+cd flatpak
+yt-dlp 'ytsearch:the deprogram episode 172'
+cd Co le
+cd Medium/__pycache__
+file BTree_Lib.cpython-313.pyc
+cat BTree_Lib.cpython-313.pyc
+cat Node_Lib.cpython-313.pyc
+mpv How\ Cars\ Changed\ Modern\ America\ -\ Deprogram\ Episode\ 172\ \[yvSenYDIeao\].webm
+cd .local/share/Trash/files
+mpv 058_Construct\ Binary\ Tree\ from\ Inorder\ and\ Preorder\ Traversal\ -\ Leetcode\ 105\ -\ Python.webm
+python Medium/058_Construct_BinaryTree_from_Inorder_and_Preorder_traversal.py
+cd ~/Codes/leetcode
+git commit -m "Modified some files here and there, added some files (mainly binary tree related)"
+yt-dlp 'ytsearch:Freecodecamp binary tree problems'
+mpv Binary\ Tree\ Algorithms\ for\ Technical\ Interviews\ -\ Full\ Course\ \[fAAZixBzIAI\].webm
+cd ~/Code
+cat ~/.zshrc
+mkdir BinaryTreeProbs
+node
+zed .junk/BinaryTreeProbs
+touch intro.javascript
+touch intro.js
+touch depth_first_traversal.js
+node intro.js
+node depth_first_traversal.js
+touch breadth_first_search.js
+node breadth_first_search.js
+touch tree_includes.js
+[A
+node tree_includes.js
+touch tree_sum.js
+node tree_sum.js
+touch tree_min_value.js
+yt-dlp 'ytsearch:womens prize in fiction reaction and analysis'
+cd junk
+ls Binary
+ls BinaryTreeProbs
+cd BinaryTreeProbs
+rm intro.javascript
+cat tree_min_value.js
+mpv ../Binary\ Tree\ Algorithms\ for\ Technical\ Interviews\ -\ Full\ Course\ \[fAAZixBzIAI\].webm
+node tree_min_value.js
+touch max_root_to_leaf_path_sum.js
+node max_root_to_leaf_path_sum.js
+mpv Women\'s\ Prize\ Longlist\ 2022\ -\ Reaction\ \[XvH-c_-jZlI\].mkv
+yt-dlp 'ytsearch:womens prize in fiction 2025 reaction and analysis'
+yt-dlp 'ytsearch:remote sympathy by catherine shidgey review'
+mpv reading\ the\ longlist\ ï½ƒ¼ï½ƒ¼\ women\'s\ prize\ vlog\ 1\ \[mmbNECSH5PA\].mkv
+ani-cli "fate/demonic"
+yt-dlp 'ytsearch:badly explaining the entire faate series in 30 minutes gigguk'
+mpv Badly\ Explaining\ the\ ENTIRE\ Fate\ Series\ in\ 30\ MINUTES\ \[UzNSWmokCdU\].webm
+touch Hard/059_BinaryTree_Maximum_Path_Sum.py
+mkdir udemy_courses
+mv \[FreeCourseSite.com\]\ Udemy\ -\ The\ Complete\ Data\ Structures\ and\ Algorithms\ Course\ in\ Python.part1.rar udemy_courses
+mv \[FreeCourseSite.com\]\ Udemy\ -\ The\ Complete\ Data\ Structures\ and\ Algorithms\ Course\ in\ Python.part2.rar udemy_courses
+cd udemy_courses
+unrar x \[FreeCourseSite.com\]\ Udemy\ -\ The\ Complete\ Data\ Structures\ and\ Algorithms\ Course\ in\ Python.part
+unrar x \[FreeCourseSite.com\]\ Udemy\ -\ The\ Complete\ Data\ Structures\ and\ Algorithms\ Course\ in\ Python.part1.rar
+du -hs \[FreeCourseSite.com\]\ Udemy\ -\ The\ Complete\ Data\ Structures\ and\ Algorithms\ Course\ in\ Python
+mv \[FreeCourseSite.com\]\ Udemy\ -\ The\ Complete\ Data\ Structures\ and\ Algorithms\ Course\ in\ Python udemy_part1
+unrar x \[FreeCourseSite.com\]\ Udemy\ -\ The\ Complete\ Data\ Structures\ and\ Algorithms\ Course\ in\ Python.part2.rar
+mv \[FreeCourseSite.com\]\ Udemy\ -\ The\ Complete\ Data\ Structures\ and\ Algorithms\ Course\ in\ Python udemy_part2
+ls udemy_part1
+ls udemy_part2
+rm \[FreeCourseSite.com\]\ Udemy\ -\ The\ Complete\ Data\ Structures\ and\ Algorithms\ Course\ in\ Python.part1.rar
+rm \[FreeCourseSite.com\]\ Udemy\ -\ The\ Complete\ Data\ Structures\ and\ Algorithms\ Course\ in\ Python.part2.rar
+cd udemy_part1
+cd 0.\ Websites\ you\ may\ like
+cd ../4\ -\ Bonus\ CHALLENGING\ Recursion\ Problems
+cd ~/Videos/VidEssays
+yt-dlp 'https://www.youtube.com/watch?v=eYn-YY8hz94'
+go version
+file go
+mkdir .repos/go
+file ~/.repos/go
+export $GOPATH=~/.repos/go
+export $GOPATH=/home/ynx/.repos/go
+export $GOPATH=/home/ynx/.repos/go/
+echo $GOPATH
+git clone https://github.com/Banh-Canh/ytui
+file scripts
+cd scripts
+cd .
+cd ~/.config/ytui
+cat ytui.log
+zed ytui.log
+cd ~/.repos/ytui
+cd Vid vid
+cd ~/.junk
+yt-dlp 'https://www.youtube.com/watch?v=GG5cFar-Wio'
+mkdir StanfordAlgo
+cd StanfordAlgo
+mkdir Part1
+cd Vid Vid
+yt-dlp 'https://www.youtube.com/watch?v=qSy2uaJ7ecU'
+python BTree_Lib.py
+python Easy/046_Invert_Binary_Tree.py
+cd Vid ne
+cd ../StanfordAlgo
+cd Part1
+git clone https://github.com/yt-dlp/yt-dlp
+./yt-dlp.sh
+mv yt-dlp.sh yt-dlp
+cp yt-dlp ../bin
+cd part1
+yt-dlp 'https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V'
+~/.repos/yt-dlp/yt-dlp 'https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V'
+yt-dlp 'https://www.youtube.com/playlist?list=PLEAYkSg4uSQ37A6_NrUnTHEKp6EkAxTMa'
+~/.repos/yt-dlp/yt-dlp 'https://www.youtube.com/playlist?list=PLEAYkSg4uSQ37A6_NrUnTHEKp6EkAxTMa'
+rm ~/.repos/bin/yt-dlp
+cd ~/.local/share/Trash/files
+mv yt-dlp yt-dlp-1
+cd Vid sta
+cd ~/.repos/bin
+rm yt-dlp
+cd .re
+cp yt-dlp bin/
+cp -r yt-dlp bin/
+link yt-dlp/yt-dlp ytdlp
+./ytdlp
+./yt-dlp
+rm ytdlp
+cd .repos/yt-dlp
+cd vi st
+ytdlp
+ytdlp 'https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V'
+ytdlp 'https://www.youtube.com/playlist?list=PLEAYkSg4uSQ37A6_NrUnTHEKp6EkAxTMa'
+rm total
+mkdir total
+cd total
+ytdlp -o "%(playlist_index)s_%(title)s.%(ext)s" 'https://www.youtube.com/playlist?list=PLEAYkSg4uSQ37A6_NrUnTHEKp6EkAxTMa'
+cd vid st
+rm Part1
+python Hard/059_BinaryTree_Maximum_Path_Sum.py
+mpv 059_Binary\ Tree\ Maximum\ Path\ Sum\ -\ DFS\ -\ Leetcode\ 124\ -\ Python.webm
+mpv 060_Serialize\ and\ Deserialize\ Binary\ Tree\ -\ Preorder\ Traversal\ -\ Leetcode\ 297\ -\ Python.webm
+touch Hard/060_Serialize_and_Deserialize_BinaryTree.py
+python Hard/060_Serialize_and_Deserialize_BinaryTree.py
+mpv 061_Implement\ Trie\ \(Prefix\ Tree\)\ -\ Leetcode\ 208.webm
+cd vid nee
+yt-dlp Algorithmic Thinking
+yt-dlp 'https://www.youtube.com/watch?v=elQGTyqx2x8'
+ytdlp 'https://www.youtube.com/watch?v=elQGTyqx2x8'
+ytdlp 'https://www.youtube.com/watch?v=pZSlhulI13s'
+touch Medium/061_Implement_Trie.py
+git commit -m "Added Solutions (possibly) to 059, 060, 061, and modifying BTree_Lib (adding a new method)"
+mpv Amy\ Schumer\ goes\ MASK\ OFF\ on\ Palestine\ ï½ƒ¼\ Hasanabi\ reacts\ \[pZSlhulI13s\].mkv
+tree
+python Medium/061_Implement_Trie.py
+ytdlp 'ytsearch:womens prize 2025 fiction reaction'
+ytdlp 'ytsearch:womens prize in fiction 2025 longlist reaction'
+mpv Women\'s\ Prize\  
+mpv Women\'s\ Prize\ for\ Fiction\ 2025\ longlist\ reaction\ \[bNcZNaEWJjE\].webm
+ytdlp 'ytsearch:womens prize in fiction 2025 shortlist'
+mpv Announcing\ the\ 2025\ Women\'s\ Prize\ for\ Fiction\ longlist\ \[ngXj_Gqq2TI\].webm
+ytdlp 'ytsearch:gigguk annual'
+ls .junk
+rm .junk
+mkdir .junk
+mpv Gigguk\ Finds\ the\ Best\ Year\ of\ Anime\ \(2013-2023\)\ \[2HTKpilZSGg\].webm
+rm Gigguk\ Finds\ the\ Best\ Year\ of\ Anime\ \(2013-2023\)\ \[2HTKpilZSGg\].webm
+cd Aud
+unzip Solenoid.zip
+rm Solenoid.zip
+cd Solenoid
+mpv Solenoid.mp3
+mv White\ Teeth\ A\ Novel.m4b ~/AudioBooks
+cd -
+mkdir 'White Teeth'
+cd White\ Teeth
+mv ../White\ Teeth\ A\ Novel.m4b ./
+mpv White\ Teeth\ A\ Novel.m4b
+touch Medium/062_Design_Add_and_Search_Word_DataStructure.py
+ytdlp 'ytsearch:why america supports israel GDF'
+mpv Why\ America\ \(REALLY\)\ Supports\ Israel\ \[elQGTyqx2x8\].webm
+ytdlp 'ytsearch:gdf how lebanese got so good as smoking'
+mpv How\ The\ Lebanese\ Got\ So\ Good\ At\ Smoking\ American\ Soldiers\ \[480ILf6LkIc\].webm
+ytdlp 'ytsearch:gdf hezballah'
+rm Hezbollah\ explainedï¼ƒº\ The\ Lebanese\ militant\ group\ targeted\ with\ exploding\ walkie-talkies\ \[d1p9gTlt4Ng\].f616.mp4.
+rm Hezbollah\ explainedï¼ƒº\ The\ Lebanese\ militant\ group\ targeted\ with\ exploding\ walkie-talkies\ \[d1p9gTlt4Ng\].f616.mp4.part
+rm Hezbollah\ explainedï¼ƒº\ The\ Lebanese\ militant\ group\ targeted\ with\ exploding\ walkie-talkies\ \[d1p9gTlt4Ng\].f616.mp4.ytdl
+ytdlp 'ytsearch:gdf how iran'
+mpv Let\'s\ say,\ hypothetically,\ war\ with\ Iran\ \[_p8AbplXQF4\].webm
+ytdlp 'ytsearch:yanis varoufakis israel iran'
+ytdlp 'ytsearch:gdf iran'
+ytdlp 'ytsearch:john mershmeir iran'
+mpv Yanis\ Varoufakis\ on\ Israel-Palestineï¼ƒº\ the\ truth\ behind\ October\ 7\ \[5TqyiP6gV6w\].webm
+mpv Politics,\ policies\ \&\ powerï¼ƒº\ John\ Mearsheimerâ€ƒ¹s\ blunt\ analysis\ ï½ƒ¼\ Centre\ Stage\ \[UWcTYY1Dofg\].webm
+ytdlp 'ytsearch:john mearsheimer iran'
+which cal
+/bin/cal
+ytdlp 'ytsearch:US hegemony facing real threat talk it out with jin lingjing'
+ytdlp 'ytsearch:talk it out with Li Jingjing us economic hegemony facing REAL THREAT'
+mpv U.S.\ economic\ hegemony\ facing\ REAL\ THREAT\ ï½ƒ¼\ Talk\ with\ Yanis\ Varoufakis\ \[eL3ZqQWTM60\].webm
+mpv How\ China\ Can\ Win\ the\ Cold\ War\ with\ the\ U.S.,\ Here\ are\ Four\ Suggestions\ ï½ƒ¼\ Yanis\ Varoufakis\ \[8BsAa_94dao\].webm
+ytdlp 'ytsearch:yanis varoufakis china'
+ytdlp 'ytsearch:yanis varoufakis 1 hour'
+cd ju
+mpv Capitalism\ is\ dead\ and\ so\ are\ we\ ï½ƒ¼\ Yanis\ Varoufakis\ interview\ \[w6H6tvVuGgo\].webm
+ytdlp 'ytsearch:hasan reactions'
+rm I\ Became\ A\ Right-Wing\ Grifter\ To\ Prove\ It\'s\ Easy\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Benaminute\ \[3GCFLAFI-wU\].f399.mp4.part
+ytdlp 'ytsearch:hasan reactions israel'
+rm Israel\ and\ Palestine\ Debate\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Jubilee\ \[t_oqZ7aqL5g\].f399.mp4.part
+ytdlp 'ytsearch:hasan reacts to'
+rm Sam\ Seder\ SCHOOLS\ 20\ Trump\ Supporters\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Jubilee\ \[JRHzy5m-ehs\].f303.webm.part
+ytdlp 'ytsearch:gigguk reacts to best anime of year'
+rm Gigguk\ Finds\ the\ Best\ Year\ of\ Anime\ \(2013-2023\)\ \[2HTKpilZSGg\].f616.mp4.part
+rm Gigguk\ Finds\ the\ Best\ Year\ of\ Anime\ \(2013-2023\)\ \[2HTKpilZSGg\].f616.mp4.ytdl
+ytdlp 'ytsearch:gigguk'
+mpv Winter\ Anime\ 2025\ In\ A\ Nutshell\ \[WAk1u5e9K7A\].webm
+ytdlp 'ytsearch:mothers basement'
+rm The\ Problem\ With\ Power\ Fantasy\ Anime\ \[A0j3KaH7vuA\].f399.mp4.part
+ytdlp 'ytsearch:best echii anime'
+mpv Top\ 10\ New\ Ecchi\ Anime\ \[zlCeqXH_XIo\].webm
+mpv StepDaddy\ Fucked\ and\ Cum\ in\ my\ Mouth\ When\ I\ Came\ to\ Lie\ on\ His\ lap.mp4
+file VIXEN\ Tori\ Black\ In\ The\ Greatest\ Orgy\ Ever\ Filmmed.mp4
+mpv VIXEN\ Tori\ Black\ In\ The\ Greatest\ Orgy\ Ever\ Filmmed.mp4
+cd Vid
+mpv Why\ HOUSE\ Is\ Such\ A\ UNIQUE\ Horror\ Game\ -\ \(Video\ Essay\)\ \[9m9EVt4jJLM\].mp4
+cat yarn.lock
+mpv Yume\ Nikki\'s\ Traumatic\ Symbolism\ -\ Traumathon\ 2\ \[gkiKKe6sCvo\].mp4
+ytdlp 'ytsearch:accented cinema korea'
+mpv S.Korea\ Used\ to\ Make\ Awful\ Movies\ ï½ƒ¼\ Video\ Essay\ \[xDkmVBdMzKE\].mkv
+ytdlp 'ytsearch:accented cinema movie that changed south korean law'
+mpv The\ Film\ That\ Changed\ South\ Korea\ ï½ƒ¼\ Video\ Essay\ \[WDv3KEt6LWQ\].webm
+ytdlp 'ytsearch:trump gaza song'
+ytdlp 'ytsearch:hasan abi reacts to'
+mpv Sam\ Seder\ SCHOOLS\ 20\ Trump\ Supporters\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Jubilee\ \[JRHzy5m-ehs\].webm
+ytdlp 'ytsearch:how to dad'
+mpv Runaway\ baby...\ ï½ƒ¼\ QUICK\ TIPS\ with\ How\ to\ DAD\ \[EIQxN0EjkwU\].webm
+ytdlp 'ytsearch:how to dad documentary'
+mpv RELEASING\ A\ BABY\ INTO\ THE\ WILD\ \[VUeXSW4oROU\].webm
+ytdlp 'ytsearch:do not worry podcast'
+mpv Too\ Farï¼ƒ¿\ CPS\ Visits\ Ethan\ and\ Hila\ Kleinï¼ƒº\ Fallen\ Fan\ REACTS\ \[wawGiEBeaFQ\].mkv
+cd a
+cd aud
+file Hunters\ of\ Gor
+unzip 6PNRSlIaLSNGLwlKC3DBAPlhVRCe5w.zip
+ls 6PNRSlIaLSNGLwlKC3DBAPlhVRCe5w
+rm 6PNRSlIaLSNGLwlKC3DBAPlhVRCe5w.zip
+mv 6PNRSlIaLSNGLwlKC3DBAPlhVRCe5w Fingersmith
+cd Fingersmith
+mpv 01.\ Introduction.mp3
+ytdlp 'ytsearch:bad empenada'
+rm Content\ Tsar\ Bomba\ -\ Ethan\ Klein\ \[3rM76vkIQNg\].f399.mp4.part
+ytdlp 'ytsearch:bad empenada ethan klein'
+rm Content\ Tsar\ Bomba\ -\ Ethan\ Klein\ \[3rM76vkIQNg\].f616.mp4.part
+rm Content\ Tsar\ Bomba\ -\ Ethan\ Klein\ \[3rM76vkIQNg\].f616.mp4.ytdl
+ytdlp 'ytsearch:bad empenada ethan klein CPS'
+mpv H3\ Ethan\ Klein\ CPS\ Situation\ is\ Disgusting,\ Russia\ Ukraine\ 30-Day\ Ceasefire\ Agreement\ \&\ Today\'s\ News\ \[jw5xlEAs1u4\].f616.mp4.
+mpv H3\ Ethan\ Klein\ CPS\ Situation\ is\ Disgusting,\ Russia\ Ukraine\ 30-Day\ Ceasefire\ Agreement\ \&\ Today\'s\ News\ \[jw5xlEAs1u4\].f616.mp4.part
+rm H3\ Ethan\ Klein\ CPS\ Situation\ is\ Disgusting,\ Russia\ Ukraine\ 30-Day\ Ceasefire\ Agreement\ \&\ Today\'s\ News\ \[jw5xlEAs1u4\].f616.mp4.part
+rm H3\ Ethan\ Klein\ CPS\ Situation\ is\ Disgusting,\ Russia\ Ukraine\ 30-Day\ Ceasefire\ Agreement\ \&\ Today\'s\ News\ \[jw5xlEAs1u4\].f616.mp4.part-Frag45.part
+rm H3\ Ethan\ Klein\ CPS\ Situation\ is\ Disgusting,\ Russia\ Ukraine\ 30-Day\ Ceasefire\ Agreement\ \&\ Today\'s\ News\ \[jw5xlEAs1u4\].f616.mp4.ytdl
+ytdlp 'ytsearch:hasan abi reacts to bad empenada'
+mpv BadEmpanada\ DESTROYS\ Ethan\ Klein\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ ï¼‚Content\ Nuke\ Destroyedï¼‚\ \[5USTQp9UpLQ\].webm
+git add Medium/061_Implement_Trie.py
+git commit -m "Added comments to 061_Implement_Trie (where I added my concerns as well)"
+git status
+git add Hard/060_Serialize_and_Deserialize_BinaryTree.py
+git commit -m "Added 060_Serialize_and_Deserialize_BinaryTree"
+ytdlp 'ytsearch:hasan abi knesset'
+rm Israel\ Threatens\ to\ Shut\ Down\ Haaretz\ Newspaper\ ï½ƒ¼\ HasanAbi\ reacts\ \[GGpgF6Etu5U\].f399.mp4.part
+ytdlp 'ytsearch:hasan abi knesset member live'
+rm HasanAbi\ October\ 18,\ 2023\ â€ƒ³\ Israel\ Palestine\ Day\ 11,\ Ofer\ Cassif\ \(Knesset\ member\)\ \&\ Noah\ Kulwin\ join\ \[Rn3RQAQ9Tew\].f299.mp4.part
+ytdlp 'ytsearch:hasan abi with member of knesset'
+mpv Ofer\ Cassif,\ A\ Member\ Of\ The\ Knesset\ Joined\ Hasan\ On\ Stream\ \!\ ï½ƒ¼\ HasanAbi\ Reacts\ ft\ Noah\ Kulwin\ \[mo3__EdKTIs\].mkv
+cd vi nee
+vim .config/hypr/keybindings.conf
+zed .config/hypr/keybindings.conf
+wine
+vim 
+nvim
+nvim hello.md
+curl -fsSL https://deno.land/install.sh | sh
+curl -fsSL https://deno.land/install.sh >> deno_install.sh
+vim deno_install.sh
+chmod +x deno_install.sh
+./deno_install.sh
+.deno/bin/deno --help 
+cargo install --git https://github.com/giacomo-b/rust-stakeholder.git
+rust-stakeholder --dev-type game-development --framework "Custom Engine" --jargon high
+deno
+deno repl
+rust-stakeholder --dev-type blockchain --jargon extreme --alerts
+ytdlp 'https://www.youtube.com/watch?v=AYV485z3LnE'
+ytdlp 'ytsearch:deno 2 trailer'
+mpv Donald\ Trump\ shares\ bizarre\ AI-generated\ video\ of\ \'Trump\ Gaza\'\ \[PslOp883rfI\].webm
+mpv Prof.\ John\ Mearsheimerï¼ƒº\ Trump\ Does\ NOT\ Want\ War\ with\ Iran\ \[IOfJ3b3Pjfo\].webm
+mpv Programming\ Should\ Be\ Simple\ \[swXWUfufu2w\].webm
+cd /
+cd home
+ls sudo
+lsd
+which ls
+which lsd
+rust-stakeholder -d system-programing
+rust-stakeholder -d systems-programming
+rust-stakeholder -h
+rust-stakeholder -T 15 -c high -t -d blockchain
+rust-stakeholder -T 150 -c high -t -d blockchain
+cd ytui
+go build
+file ytui
+./ytui
+./ytui query search "hey jude"
+cd cmd
+cd .repos/ytui
+ytdlp 'ytsearch:hasan abi reacts to asmongold houthi'
+rm DEBATING\ ASMONGOLD\ ON\ PALESTINE\ \[ukVFg1OlA0M\].f399.mp4.part
+mpv Trump\ Did\ WHAT\!ï¼ƒ¿\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Asmongold\ \[hI_6ug_GVwk\].webm
+./ytui query search "hey jude" -d
+cd ~/
+ytdlp 'ytsearch:data structure and algorithm in Go'
+mpv Go\ in\ 100\ Seconds\ \[446E-r0rXHI\].webm
+cat hello.go
+vim hello.go
+ytdlp 'ytsearch:hasan abi reacts to asmongold killing houthi'
+cd .junk
+du -hs hello
+du -hs ./hello
+du -hs ./hello.go
+go build ./hello.go
+rm Content\ Nuke\ -\ Hasan\ Piker\ ï½ƒ¼\ Asmongold\ Reacts\ \[eYl8ByQd8RQ\].f399.mp4.part
+ytdlp 'ytsearch:hasan abi reacts to asmongold'
+ytdlp 'ytsearch:hasan abi reacts to disinformation tracker'
+go mod init foo/bar
+ytdlp 'ytsearch:dsa in go'
+ytdlp 'ytsearch:dsa in go tutorial'
+ytdlp 'ytsearch:go tutorial 10 hour'
+	fmt.\
+
+mpv Content\ Nuke\ Part\ 2\ -\ Ethan\ Lied\ For\ Israel\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Disinformation\ Tracker\ \[NoF43jgvpEw\].webm
+cd cod lee
+cd vi ne
+mpv 062_Design\ Add\ and\ Search\ Words\ Data\ Structure\ -\ Leetcode\ 211\ -\ Python.webm
+cd ../vi
+cd ../VidEssays
+cd vi vi
+ytdlp 'ytsearch:pathalogic 2 video essay'
+mpv Go\ Programming\ â€ƒ³\ Golang\ Course\ with\ Bonus\ Projects\ \[un6ZyFkqFKo\].webm
+mpv Dissecting\ Pathologic\ 2\;\ \ Why\ It\'s\ The\ Best\ Game\ of\ 2019\ \[FKhSbZPBEKc\].webm
+python Medium/062_Design_Add_and_Search_Word_DataStructure.py
+git add Medium/061_Implement_Trie.py Medium/062_Design_Add_and_Search_Word_DataStructure.py
+git commit -m "Modified Comments on Medium/061, clarifying some doubt I had before, and adding working solution to Medium/062, one that I came up with myself"
+cd vi n
+touch Hard/063_Word_Search_II.py
+touch TNode_Lib.py
+link TNode_Lib.py Easy/TNode_Lib.py
+link TNode_Lib.py Medium/TNode_Lib.py
+link TNode_Lib.py Hard/TNode_Lib.py
+rm TNode_Lib.py
+ls Easy
+mpv 076_Word\ Search\ -\ Backtracking\ -\ Leetcode\ 79\ -\ Python.webm
+cd ~/j
+ytdlp 'ytsearch:sayo na uta talk about games'
+ytdlp 'ytsearch:sayo na uta video essay 2 hours'
+mpv Saya\ no\ Uta\ Ruined\ My\ Life\ \[Db9IQA3cBW8\].webm
+mpv Exploring\ the\ Darkest\ Visual\ Novelï¼ƒº\ The\ Song\ of\ Saya\ \[5HUssOwhAZ0\].webm
+ytdlp 'ytsearch:rust uutils'
+mpv Uutilsï¼ƒº\ Cross\ Platform\ Linux\ Core\ Utils\ In\ Rust\!ï¼ƒ¿\!\ \[ZIgve4YpipE\].webm
+ytdlp 'ytsearch:sayo no uta video essay'
+ytdlp 'ytsearch:sayo no uta lets talk games'
+git clone https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp
+nu
+ytdlp 'ytsearch:sayo no uta analysis'
+ytdlp 'ytsearch:sayo no uta visual novel essay'
+touch Medium/076_Word_Search.py
+ytdlp 'ytsearch:sayo no uta long form analysis'
+mpv Saya\ no\ Uta\ â€ƒ³\ A\ Horrifically\ Biased\ Review\ \ ï½ƒ¼\ ft.\ Max0r\ \&\ Kirsche\ Verstahl\ \[3wyOBFvqQyk\].mkv
+python Medium/076_Word_Search.py
+ytdlp 'https://www.youtube.com/watch?v=W7Upyra51YM'
+ytdlp 'https://www.youtube.com/watch?v=h0mZEoWP4G4&t=782s'
+ytdlp --cookies-from-browser firefox 'https://www.youtube.com/watch?v=h0mZEoWP4G4&t=782s'
+ytdlp --cookies-from-browser --cookies /home/ynx/cookies.txt 'https://www.youtube.com/watch?v=h0mZEoWP4G4&t=782s'
+git clone git@github.com:sudipghimire533/ytui-music
+vim ytfzf.sh
+chmod +x ytfzf.sh
+./ytfzf.sh
+# Clone the repository\
+git clone https://github.com/vedant-
+git clone https://github.com/vedant-asati03/Aurras.git
+cd Aurras
+python -m venv ~/.repos/music
+chmod ../music/bin/activate
+chmod +x ../music/bin/activate
+../music/bin/activate
+../music/bin/pip install -r requirements.txt
+../music/bin/pip3 install -m aurras
+../music/bin/pip3 -m aurras
+python -m aurras
+cat requirements.txt
+vim .repos/Aurras/requirements.txt
+../music/bin/pip3 install anyio
+../music/bin/pip3 install certifi
+python -m pip install --upgrade pip
+../music/bin/python -m pip install --upgrade pip
+../music/bin/pip3 -r requirements.txt
+../music/bin/pip3 install -r requirements.txt
+jq
+curl -sL "https://raw.githubusercontent.com/Benexl/yt-x/refs/heads/master/yt-x" -o ~/.repos/bin/ytx
+chmod +x ytx
+ytx -e
+zed ytx
+which ytdlp
+pkgsearch yt
+pkgsearch ytdlp
+pkgsearch yt-dlp
+command -v yt-dlp
+yt-dlp
+file yt-dlp
+ytx --player mpv
+cd Videos
+cd individual
+cd The\ Beatles
+mpv The\ Beatles\ -\ Hey\ Jude.webm
+zed .repos/bin/ytx
+vim cookies.txt
+mkdir .VIP
+mv cookies.txt .VIP/
+ls .VIP
+ytdlp --cookies-from-browser firefox --cookies /home/ynx/cookies.txt 'https://www.youtube.com/watch?v=h0mZEoWP4G4&t=782s'
+yt-cdlp --cookies-from-browser firefox --cookies /home/ynx/.VIP/cookies.txt 'https://www.youtube.com/watch?v=h0mZEoWP4G4&t=782s'
+yt-dlp 'https://www.youtube.com/watch?v=F1aj3zXXI6g&t=313s'
+rm zen-x86_64.AppImage
+mpv America\'s\ Downfall.\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Gattsu.webm
+cd HasanAbi\ Archive
+mpv H3\ Ethan\ Klein\ CPS\ Situation\ Is\ Disgusting\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Philip\ DeFranco.webm
+cd Hasan\ Reactions
+cd ../Hasanabi\ Productions
+mpv F.D\ Signifier\ Defends\ Hasan\ ï½ƒ¼\ Hasanabi\ reacts.webm
+mpv 063_Word\ Search\ II\ -\ Backtracking\ Trie\ -\ Leetcode\ 212\ -\ Python.webm
+cd v 
+cd yt-x
+cd vid
+cd ../
+cd yt-x/videos
+cd Cryo\ Chamber
+mpv Songs\ for\ an\ empty\ world.webm
+cd v
+cd Videos/yt-x
+mpv Hasan\ Reactions/Were\ Hitler\ and\ Stalin\ Alliesï¼ƒ¿\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Hakim.webm
+cd k
+cd ~/Downloads
+mpv Saya\ no\ Uta\ Uncensored\ Guide\ Episode\ 11.mp4
+cd dow
+mpv Song\ Of\ Saya\ Uncensored\ Guide\ Part\ 13\ Training\ time.mp4
+mpv Song\ Of\ Saya_Saya\ No\ Uta\ Uncensored\ Guide\ Part\ 14.mp4
+zed .zshrc
+fzf --zsh >> fzf.zsh
+cd The\ Linux\ Experiment
+mpv New\ Webkit\ browser\ for\ Linux,\ NVK\ becomes\ default,\ KDE\ splits\ X11\ codeï¼ƒº\ Linux\ \&\ Open\ Source\ News.webm
+mpv Hasan\ Reactions/CHADVICEï¼ƒº\ Dating\ Advice\ with\ HasanAbi,\ Valkyrae,\ AustinShow,\ Jarvis\ Johnson,\ Will\ Neff\ \&\ Stavros.webm
+vim fzf.zsh
+fzf --fish
+fzf --nushell
+fzf --nu
+fzf --bash
+fzf --bash | helix
+fzf --zsh | zed
+fzf --zsh >> fzf.zsh | zed
+fzf --zsh >> fzf.zsh && zed fzf.zsh
+zed fzf.zsh
+rm fzf.zsh
+fzf --zsh ~/.local/share/Trash/files/fzf.zsh
+fzf --zsh >> ~/.local/share/Trash/files/fzf.zsh
+vim .local/share/Trash/files/fzf.zsh
+eval (fzf --zsh)
+eval "$(eval fzf --zsh)"
+bash
+ind=3
+echo $ind
+cd Times\ Of\ India
+mpv Hezbollah\'s\ Stunning\ Military\ Action\;\ Lebanese\ Fighters\ Abduct\ \'Enemy\'\ Soldiers\ In\ Hamas-StyleÂƒ€Raid.webm
+mpv Al\ Mayadeen\ English/\'There\ is\ no\ defense\ against\ Hezbollah\'s\ weapons\'ï¼ƒº\ Scott\ Ritter.webm
+xset -h
+tldr xset
+echo $WAYLAND_DISPLAY
+waybar
+cd .co
+pfetch
+cd zpotify
+oh-my-posh
+omz
+which omz
+					ks
+cd .git
+cd ../leetcode
+git pull
+vim README.md
+which cd
+cd Danny\ Haiphong
+mpv Scott\ Ritterï¼ƒº\ Hezbollah\ WIPES\ OUT\ Israeli\ Ground\ War,\ IDF\ Collapses\ on\ All\ Fronts.webm
+cachyos-hello
+which cachyos-hello
+/bin/cachyos-hello
+cd No\ Boilerplate
+mpv Your\ Command\ Line,\ Oxidised.webm
+cargo install irust
+
+cargo install bacon
+bacon
+cargo install cargo-info
+cargo info serde
+cd .ju
+file hello
+./hello
+zed hello.go
+35;34;4M35;33;4M35;33;3M35;32;3M35;31;3M35;30;3M35;30;4M35;29;4M35;29;5M35;28;5M35;27;5M35;26;5M35;26;6M35;25;6M35;24;6M35;23;6M35;22;6M35;22;7M35;21;7M35;20;7M35;19;7M35;18;7M35;17;7M35;17;8M35;16;8M35;15;8M35;14;8M35;13;8M35;12;9M35;11;9M35;10;9M35;9;9M35;8;9M35;7;9M35;6;9M35;6;10M35;5;10M35;6;10M35;7;10M35;7;11M35;8;11M35;9;11M35;10;11M35;11;11M35;12;11M35;13;11M35;14;11M35;15;11M35;16;11M35;17;11M35;18;11M35;20;11M35;21;11M35;23;11M35;26;11M35;28;11M35;30;11M35;32;11M35;33;11M35;35;11M35;37;12M35;38;12M35;39;12M35;40;12M35;41;12M35;42;12M35;43;12M35;44;12M35;45;12M35;46;13M35;47;13M35;48;13M35;49;13M35;50;13M35;51;13M35;52;14M35;53;14M35;54;14M35;54;15M35;55;15M35;55;16M35;54;16M35;53;17M35;50;18M35;47;19M35;43;20M35;40;21M35;38;21M35;36;21M35;34;21M35;32;21M35;30;21M35;28;21M35;27;21M35;25;21M35;24;21M35;22;21M35;21;20M35;20;20M35;19;19M35;18;19M35;16;18M35;15;17M35;13;16M35;11;15M35;9;14M35;8;12M35;7;11M35;6;10M35;6;9M35;5;8M35;5;7M35;5;6M35;5;5M35;5;4M35;6;3M35;7;3M35;8;2M35;9;2M35;10;1M35;11;1M35;12;1M35;13;1M35;14;1M35;15;1M35;27;1M35;28;1M35;29;1M35;30;2M35;31;3M35;33;3M35;34;4M35;35;5M35;37;6M35;38;7M35;40;8M35;41;9M35;42;10M35;43;11M35;44;12M35;45;12M35;46;13M35;46;14M35;47;15M35;48;16M35;48;17M35;49;18M35;49;19M35;48;20M35;48;21M35;48;22M35;47;23M35;47;24M35;47;25M35;29;25M35;28;25M35;26;24M35;25;24M35;24;24M35;23;23M35;22;23M35;21;22M35;20;22M35;19;21M35;18;21M35;17;21M35;17;20M35;16;20M35;15;20M35;16;20M35;19;20M35;21;19M35;24;19M35;28;19M35;31;19M35;34;19M35;37;18M35;40;18M35;43;18M35;46;18M35;48;18M35;49;18M35;51;18M35;52;18M35;53;18M35;54;18M35;55;18M35;56;18M35;57;18M35;58;18M35;59;19M35;60;19M35;61;19M35;62;19M35;63;19M35;64;19M35;66;20M35;67;20M35;68;20M35;69;20M35;70;21M35;71;21M35;72;21M35;74;21M35;75;22M35;76;22M35;77;22M35;78;22M35;78;23M35;79;23M35;80;23M35;81;23M35;81;24M35;82;24M35;83;24M35;84;24M35;84;25M35;85;25M35;85;24M35;85;23M35;84;23M35;84;22M35;83;22M35;83;21M35;82;20M35;82;19M35;81;19M35;81;18M35;80;18M35;80;17M35;80;16M35;79;16M35;79;15M35;78;15M35;77;15M35;76;15M35;75;15M35;74;15M35;73;15M35;72;15M35;71;16M35;70;16M35;69;16M35;68;16M35;67;16M35;65;17M35;64;17M35;63;17M35;61;17M35;60;18M35;59;18M35;58;18M35;57;18M35;55;18M35;54;19M35;52;19M35;51;19M35;49;19M35;48;20M35;47;20M35;46;20M35;44;20M35;43;21M35;42;21M35;41;21M35;39;21M35;38;22M35;37;22M35;36;22M35;34;23M35;33;23M35;32;23M35;30;24M35;29;24M35;28;25M35;27;25M35;26;25M35;25;25M35;8;25M35;7;25M35;7;24M35;8;23M35;8;22M35;9;20M35;11;18M35;11;17M35;11;16M35;12;16M35;13;16M35;14;16M35;15;16M35;16;15M35;17;15M35;18;15M35;19;15M35;20;15M35;22;15M35;23;14M35;25;14M35;27;14M35;29;14M35;31;14M35;32;14M35;33;14M35;35;14M35;36;14M35;37;14M35;38;14M35;39;15M35;40;15M35;41;15M35;42;15M35;43;15M35;44;15M35;45;15M35;46;15M35;47;15M35;48;15M35;49;16M35;50;16M35;51;16M35;52;16M35;54;16M35;55;16M35;56;17M35;57;17M35;59;17M35;61;18M35;62;18M35;64;19M35;65;19M35;66;20M35;68;20M35;69;21M35;70;21M35;71;22M35;72;22M35;72;23M35;73;23M35;74;24M35;75;24M35;75;25M35;76;25M35;73;25M35;72;25M35;72;24M35;71;23M35;70;23M35;69;22M35;68;22M35;68;21M35;67;21M35;67;20M35;66;20M35;65;19M35;64;19M35;64;18M35;63;18M35;62;17M35;61;17M35;60;16M35;59;16M35;58;16M35;57;16M35;56;16M35;55;16M35;54;16M35;53;16M35;51;16M35;49;17M35;46;17M35;44;18M35;42;18M35;40;18M35;38;19M35;36;19M35;34;19M35;33;20M35;31;20M35;30;20M35;29;21M35;28;21M35;27;21M35;26;21M35;25;21M35;25;22M35;24;22M35;23;22M35;22;22M35;22;23M35;21;23M35;20;24M35;19;24M35;18;24M35;18;25M35;17;25M35;16;25M35;29;25M35;30;25M35;31;25M35;32;24M35;33;24M35;34;24M35;35;24M35;36;23M35;37;23M35;38;23M35;39;23M35;40;23M35;41;22M35;42;22M35;43;22M35;44;22M35;46;22M35;47;21M35;48;21M35;50;21M35;51;21M35;53;21M35;55;21M35;57;21M35;59;21M35;60;21M35;61;21M35;62;21M35;63;21M35;64;21M35;65;21M35;64;21M35;64;20M35;63;20M35;62;20M35;62;19M35;61;19M35;60;18M35;59;18M35;59;17M35;58;17M35;58;16M35;57;16M35;56;15M35;55;14M35;54;13M35;53;12M35;52;12M35;52;11M35;51;11M35;51;10M35;50;10M35;50;9M35;49;9M35;49;8M35;49;9M35;48;9M35;48;10M35;47;10M35;47;11M35;46;13M35;45;14M35;44;15M35;44;16M35;43;17M35;43;18M35;43;19M35;42;19M35;42;20M35;42;21M35;42;22M35;41;22M35;41;23M35;40;23M35;40;24M35;39;24M35;39;25M35;38;25M35;48;25M35;49;25M35;50;25M35;51;25M35;52;25M35;53;25M35;54;25M35;55;25M35;56;25M35;57;25M35;58;25M35;59;25M35;60;25M35;61;25M35;62;25M35;63;25M35;64;25M35;65;25M35;66;25M35;67;25M35;68;25M35;69;25M35;70;25M35;71;25M35;71;24M35;72;24M35;73;24M35;74;24M35;75;24M35;76;24M35;77;24M35;78;24M35;79;24M35;80;24M35;81;24M35;82;24M35;83;24M35;84;24M35;85;24M35;86;24M35;87;24M35;88;24M35;89;24M35;88;24M35;87;24M35;86;24M35;85;24M35;84;24M35;82;24M35;80;24M35;79;24M35;77;24M35;76;25M35;75;25M35;74;25M35;73;25M35;72;25M35;71;25M35;70;25M35;69;25M35;68;25M35;67;25M35;66;25M35;65;25M35;64;25M35;63;25M35;37;25M35;36;25M35;35;24M35;34;24M35;34;23M35;33;22M35;31;20M35;30;19M35;29;17M35;28;15M35;26;13M35;25;11M35;24;10M35;24;8M35;23;7M35;22;6M35;22;5M35;21;5M35;21;4M35;20;3M35;20;2M35;19;2M35;19;1M35;17;1M35;18;2M35;18;3M35;17;4M35;17;5M35;17;6M35;17;7M35;17;8M35;17;9M35;17;10M35;17;11M35;18;12M35;18;13M35;19;13M35;19;14M35;20;14M35;20;15M35;21;15M35;22;16M35;23;16M35;23;17M35;24;17M35;25;17M35;25;18M35;26;18M35;27;18M35;28;19M35;29;19M35;30;20M35;31;20M35;32;20M35;32;21M35;33;21M35;34;22M35;35;22M35;36;23M35;37;23M35;38;23M35;39;24M35;40;24M35;41;24M35;42;24M35;43;25M35;44;25M35;45;25M35;46;25M35;47;25M35;60;25M35;62;25M35;64;25M35;66;25M35;68;25M35;69;25M35;70;25M35;71;25M35;71;24M35;72;24M35;73;24M35;74;24M35;75;24M35;76;24M35;77;24M35;78;23M35;79;23M35;80;23M35;81;23M35;82;23M35;83;23M35;84;23M35;84;22M35;85;22M35;86;22M35;85;22M35;84;22M35;83;22M35;82;22M35;81;22M35;80;22M35;79;22M35;78;22M35;77;22M35;76;22M35;75;22M35;74;22M35;73;23M35;72;23M35;71;23M35;70;23M35;69;23M35;68;23M35;67;23M35;66;23M35;65;23M35;64;23M35;63;23M35;63;24M35;62;24M35;61;24M35;60;24M35;59;24M35;58;24M35;57;24M35;56;24M35;55;24M35;54;24M35;53;24M35;52;24M35;51;25M35;50;25M35;49;25M35;48;25M35;47;25M35;46;25M35;45;25M35;44;25M35;43;24M35;42;24M35;41;24M35;40;24M35;39;24M35;38;24M35;37;24M35;36;24M35;35;24M35;34;24M35;32;24M35;31;24M35;29;24M35;27;24M35;22;23M35;19;23M35;15;23M35;13;23M35;11;22M35;9;22M35;8;22M35;7;22M35;6;22M35;5;22M35;4;22M35;4;21M35;3;21M35;2;21M35;3;21M35;4;21M35;5;21M35;6;21M35;7;21M35;8;21M35;9;21M35;10;21M35;11;21M35;12;21M35;13;21M35;14;21M35;15;21M35;16;21M35;17;21M35;18;21M35;20;21M35;21;21M35;22;21M35;23;21M35;24;21M35;25;21M35;26;21M35;27;21M35;27;22M35;28;22M35;29;22M35;30;22M35;31;22M35;32;22M35;33;22M35;34;23M35;36;23M35;37;23M35;39;23M35;41;24M35;43;24M35;45;24M35;47;24M35;48;25M35;50;25M35;51;25M35;52;25M35;53;25M35;55;25M35;55;24M35;54;24M35;54;23M35;54;22M35;53;22M35;53;21M35;53;20M35;53;19M35;53;18M35;53;17M35;54;17M35;54;16M35;54;15M35;54;14M35;55;13M35;55;12M35;55;11M35;56;11M35;56;10M35;57;9M35;58;8M35;59;6M35;60;5M35;61;5M35;61;4M35;62;4M35;62;3M35;63;3M35;64;4M35;65;4M35;65;5M35;66;5M35;66;6M35;67;7M35;67;8M35;68;8M35;68;9M35;69;10M35;69;11M35;70;12M35;71;13M35;71;14M35;72;14M35;72;15M35;73;15M35;73;16M35;74;16M35;74;17M35;75;17M35;75;18M35;76;18M35;76;19M35;77;20M35;77;21M35;77;22M35;77;21M35;76;21M35;76;20M35;76;21M35;76;22M35;77;22M35;77;23M35;77;22M35;77;21M35;77;20M35;76;20M35;76;19M35;75;19M35;75;20M35;75;21M35;74;21M35;74;22M35;73;22M35;73;23M35;72;24M35;72;25M35;56;25M35;55;25M35;54;25M35;53;25M35;52;25M35;52;24M35;51;24M35;50;24M35;49;24M35;48;24M35;47;24M35;46;24M35;45;23M35;44;23M35;43;23M35;42;23M35;41;22M35;40;22M35;39;22M35;38;22M35;37;21M35;36;21M35;35;21M35;34;21M35;32;20M35;30;20M35;28;19M35;24;18M35;21;17M35;18;16M35;17;15M35;15;15M35;14;14M35;13;14M35;12;14M35;12;13M35;11;13M35;11;12M35;12;12M35;13;12M35;14;12M35;15;12M35;16;12M35;17;12M35;18;12M35;19;11M35;20;11M35;21;11M35;22;11M35;24;11M35;25;11M35;26;11M35;27;11M35;28;11M35;29;11M35;30;11M35;31;11M35;33;11M35;34;11M35;35;11M35;36;11M35;37;11M35;38;11M35;39;11M35;39;12M35;40;12M35;41;12M35;42;12M35;43;12M35;44;12M35;45;12M35;46;12M35;47;12M35;48;12M35;49;12M35;50;13M35;51;13M35;52;13M35;53;13M35;55;13M35;57;13M35;58;14M35;61;14M35;64;14M35;67;15M35;69;16M35;72;16M35;74;17M35;76;17M35;78;18M35;79;18M35;81;18M35;82;18M35;83;19M35;84;19M35;85;19M35;85;20M35;86;20M35;87;21M35;88;22M35;89;22M35;89;23M35;90;23M35;90;24M35;91;24M35;91;25M35;90;25M35;89;25M35;77;25M35;75;25M35;74;25M35;73;25M35;72;25M35;71;25M35;70;25M35;69;25M35;68;24M35;67;24M35;66;24M35;65;24M35;64;24M35;63;25M35;62;25M35;61;25M35;60;25M35;59;25M35;58;25M35;57;25M35;56;25M35;55;25M35;33;25M35;32;25M35;32;24M35;31;24M35;31;23M35;30;23M35;30;22M35;29;21M35;29;20M35;28;18M35;27;16M35;27;14M35;26;12M35;25;10M35;25;9M35;25;8M35;24;7M35;24;6M35;24;5M35;24;4M35;23;4M35;23;3M35;22;3M35;22;2M35;21;1M35;18;1M35;17;1M35;15;2M35;13;4M35;11;5M35;9;7M35;8;8M35;7;8M35;7;9M35;8;9M35;9;9M35;10;9M35;11;9M35;12;9M35;13;9M35;14;9M35;15;9M35;16;9M35;17;9M35;18;9M35;19;9M35;20;9M35;21;9M35;22;9M35;24;9M35;25;9M35;27;8M35;28;8M35;29;8M35;30;8M35;31;8M35;32;7M35;33;7M35;34;7M35;35;7M35;35;6M35;35;5M35;34;5M35;33;5M35;32;5M35;31;5M35;30;5M35;29;5M35;28;5M35;27;5M35;26;5M35;25;5M35;24;5M35;23;5M35;22;5M35;21;5M35;20;5M35;19;5M35;18;5M35;17;5M35;16;5M35;15;5M35;14;5M35;13;5M35;13;6M35;12;6M35;11;6M35;10;6M35;9;6M35;8;7M35;7;7M35;6;7M35;6;8M35;7;8M35;8;8M35;9;8M35;10;8M35;11;8M35;12;8M35;13;8M35;13;9M35;14;9M35;15;9M35;16;9M35;17;9M35;18;10M35;19;10M35;20;10M35;21;10M35;22;10M35;23;10M35;23;11M35;24;11M35;25;11M35;26;11M35;27;11M35;29;12M35;30;12M35;31;12M35;33;12M35;34;12M35;35;12M35;36;13M35;37;13M35;38;13M35;38;12M35;38;11M35;37;11M35;37;10M35;36;10M35;36;9M35;35;9M35;34;8M35;33;7M35;32;7M35;32;6M35;31;6M35;30;6M35;29;5M35;28;5M35;27;4M35;26;4M35;25;4M35;24;3M35;23;3M35;22;3M35;21;3M35;20;3M35;19;3M35;18;3M35;18;2M35;17;2M35;16;2M35;15;2M35;14;2M35;13;2M35;12;2M35;11;2M35;10;2M35;9;2M35;8;2M35;7;2M35;6;2M35;5;2M35;4;2M35;3;2M35;3;3M35;2;3M35;1;3M35;1;4M35;2;4M35;2;5M35;3;5M35;4;6M35;5;7M35;5;8M35;6;8M35;6;9M35;7;9M35;7;10M35;7;11M35;8;11M35;8;12M35;9;12M35;10;12M35;11;13M35;12;13M35;13;13M35;13;14M35;14;14M35;15;14M35;15;15M35;16;15M35;17;15M35;17;16M35;18;16M35;19;16M35;19;17M35;20;17M35;21;17M35;21;18M35;22;18M35;23;18M35;23;19M35;24;19M35;25;19M35;26;20M35;27;20M35;28;20M35;28;21M35;29;21M35;30;21M35;31;21M35;31;22M35;32;22M35;33;22M35;34;23M35;35;23M35;36;23M35;37;24M35;38;24M35;39;24M35;40;24M35;40;25M35;41;25M35;42;25M35;43;25M35;44;25M35;78;25M35;77;25M35;76;24M35;75;24M35;74;24M35;73;24M35;73;23M35;72;23M35;71;23M35;70;23M35;69;23M35;68;23M35;67;23M35;65;23M35;64;23M35;62;23M35;61;23M35;59;23M35;55;23M35;50;23M35;45;23M35;42;23M35;40;23M35;39;23M35;38;23M35;37;23M35;36;23M35;34;23M35;30;24M35;25;24M35;18;25M35;11;25M35;7;25M35;5;25M35;2;25M35;5;24M35;10;24M35;16;23M35;22;22M35;26;22M35;30;22M35;32;22M35;33;22M35;34;22M35;35;22M35;35;21M35;35;20M35;35;19M35;36;18M35;37;17M35;38;17M35;39;16M35;40;16M35;41;15M35;42;15M35;45;15M35;48;14M35;52;14M35;55;14M35;57;14M35;59;14M35;60;14M35;62;14M35;64;14M35;65;15M35;66;15M35;67;15M35;68;15M35;69;15M35;70;16M35;71;15M35;70;15M35;69;14M35;67;13M35;65;13M35;61;12M35;58;12M35;56;11M35;54;11M35;52;11M35;51;11M35;49;11M35;48;12M35;47;12M35;46;12M35;45;12M35;44;12M35;42;11M35;39;10M35;35;8M35;32;7M35;30;5M35;28;4M35;26;3M35;24;2M35;23;1M35;19;1M35;18;1M35;14;3M35;8;5M35;3;7M35;1;13M35;2;13M35;3;13M35;5;14M35;7;14M35;9;14M35;11;15M35;14;15M35;16;15M35;19;16M35;21;16M35;23;16M35;25;17M35;27;17M35;29;17M35;31;17M35;32;18M35;34;18M35;35;18M35;36;18M35;37;19M35;38;19M35;39;19M35;40;19M35;41;19M35;42;20M35;44;20M35;45;20M35;46;20M35;47;21M35;49;21M35;50;21M35;51;22M35;52;22M35;53;22M35;54;22M35;55;23M35;56;23M35;57;23M35;58;24M35;59;24M35;60;24M35;61;24M35;62;25M35;63;25M35;64;25M35;65;25M35;53;25M35;52;25M
+ncspot -h
+ncspot -d
+ncspot -d ncspot_debug
+35;11;9M35;8;9M35;5;9M35;2;10M35;3;7M35;6;7M35;10;6M35;13;6M35;16;6M35;19;5M35;22;5M35;24;5M35;26;5M35;27;5M35;28;5M35;29;5M35;30;5M35;31;5M35;32;5M35;33;5M35;34;5M35;35;5M35;36;5M35;37;5M35;38;5M35;39;5M35;40;5M35;40;6M35;41;6M35;42;6M35;43;6M35;44;6M35;45;6M35;45;7M35;46;7M35;47;7M35;48;8M35;49;8M35;47;8M35;44;8M35;41;8M35;37;8M35;35;8M35;33;8M35;31;8M35;29;7M35;28;7M35;26;7M35;25;7M35;24;6M35;23;6M35;22;6M35;22;5M35;23;5M35;23;4M0;23;4M0;23;4m
+35;24;5M35;26;8M35;28;10M35;30;12M35;32;14M35;34;16M35;36;17M35;37;19M35;39;20M35;40;21M35;41;21M35;41;22M35;42;22M35;42;23M35;42;22M35;42;21M35;43;21M35;41;21M35;40;22M35;38;22M35;36;23M35;34;23M35;32;24M35;30;24M35;29;25M35;28;25M35;27;25M35;26;25M35;25;25M35;21;25M35;20;25M35;20;24M35;20;23M35;20;22M35;20;21M35;20;20M35;20;19M35;21;19M35;21;18M35;22;18M35;23;18M
+35;22;18M35;20;19M35;19;19M35;18;20M35;17;20M35;17;21M35;16;21M35;15;21M
+35;14;21M35;13;21M
+35;14;22M35;15;22M35;16;22M35;17;22M
+cargo remove ncspot
+cargo install porsmo
+porsmo
+starship
+cargo install speedtest-rs
+pwd
+where
+whoami
+cargo install wiki-tui
+cd How\ to\ DAD
+mpv HOW\ TO\ HOLD\ A\ BABY\ -\ REVISITED.webm
+cargo info du-dust
+cargo install du-dust
+cd Between\ Two\ Beers\ Podcast
+mpv Behind\ The\ Scenes\ Of\ How\ To\ Dad\'s\ Biggest\ Video\ Everâ€¦\ ðƒ¿ƒ±¼ðƒ¿ƒ²¤.f
+mpv Behind\ The\ Scenes\ Of\ How\ To\ Dad\'s\ Biggest\ Video\ Everâ€¦\ ðƒ¿ƒ±¼ðƒ¿ƒ²¤.f251.webm
+dust
+du Downloads
+dust Downloads
+kill $(pidof anytype)
+pidof waybar
+vim ~/.zshrc
+progkill anytype
+pkgsearch stake
+rust-stakeholder
+which rust-stakeholder
+cargo info rust-stakeholder
+git clone https://github.com/giacomo-b/rust-stakeholder.git
+cd rust-stakeholder
+zed .
+mpv Let\'s\  
+fzf --zsh
+fzf saya
+mpv Let\'s\ Talk\ About\ Saya\ no\ Uta\ \[h0mZEoWP4G4\].mkv
+python Hard/063_Word_Search_II.py
+git add Hard/063_Word_Search_II.py
+mpv 064_Kth\ Largest\ Element\ in\ a\ Stream\ -\ Leetcode\ 703\ -\ Python.webm
+run-help touch
+touch Easy/064_Kth_Largest_Element_in_a_Stream.py
+mpv Uminekoï¼ƒº\ When\ They\ Cry\ ï½ƒ¼\ A\ Dramatic\ Retelling\ and\ Analysis\ ï½ƒ¼\ Episode\ 1ï¼ƒº\ Legend\ of\ The\ Golden\ Witch\ \[F1aj3zXXI6g\].webm
+git commit -m "Adding Solutions to Hard/063 and Easy/064"
+git add ../README.md
+which gsmt
+which gst
+which gcmt
+gcmt "Added ../README.md"
+touch Easy/Last_Stone_Weight.py
+rm Easy/Last_Stone_Weight.py
+touch Easy/065_Last_Stone_Weight.py
+cargo install gitui
+rm ncspot_debug
+rm deno_install.sh
+cd ../Videos/yt-x
+l
+cd videos
+cd Animekana
+mpv Top\ 10\ Popular\ Ecchi\ Anime\ with\ Good\ Story.webm
+ani-cli "my dress up"
+ani-cli "hagani"
+ani-cli "haganai"
+ani-cli "prison school"
+ani-cli -h
+ani-cli --dub 
+ani-cli 
+ani-cli
+where ytx
+vim "$(where ytx)"
+zed "$(where ytx)"
+cd .repos/bin
+cd yt-dlp
+which yt-dlp
+yx
+echo $USERNAME
+python
+zed Codes/BST_Python.py
+cat BST_Python.py
+ls BST_Python.py
+cd leetcode/
+ls Hard
+cd 
+cd BST_Python.py
+rm BST_Python.py
+touch BST_Tree.py
+cd Codes
+zed Codes
+nch
+speedtest-rs
+which speedtest-rs
+cd .cargo
+rm env.fish
+cat env
+cd git
+ls checkouts
+ls db
+cd registry
+cd bin
+cd \$MYVIMDIR
+rm \$MYVIMDIR
+cd ~/Codes
+zed BST_Tree.py
+file BST_Tree.py
+cat README.md
+ls -a
+python BST_Tree.py
+zed leetcode
+mpv 065_Last\ Stone\ Weight\ -\ Priority\ Queue\ -\ Leetcode\ 1046\ -\ Python.webm
+p
+python Easy/065_Last_Stone_Weight.py
+cd ~/.repos
+git clone https://github.com/ynxaron/codes
+cd codes
+cd leetcode
+cd Hard
+cat 063_Word_Search_II.py
+cd ..
+rm codes
+cal
+cd Jamarl\ Thomas
+mpv KJ\ Noh\ ï½ƒ¼\ China\ As\ A\ Hegemonï¼ƒº\ Mearsheimer\ is\ Completely\ Wrong\ On\ China.webm
+cd BreakThrough\ News
+mpv The\ Next\ Ukraineï¼ƒ¿\ US\ Baits\ China\ Over\ Taiwan\ wâ§¸\ Ben\ Norton.webm
+git add Easy/065_Last_Stone_Weight.py
+gcmt "Added Solution to Easy/065"
+touch Medium/066_K_closest_points_to_origin.py
+mpv 069_Design\ Twitter\ -\ Leetcode\ 355\ -\ Python.webm
+mpv 070_Find\ Median\ from\ Data\ Stream\ -\ Heap\ \&\ Priority\ Queue\ -\ Leetcode\ 295.webm
+mpv 071_Subsets\ -\ Backtracking\ -\ Leetcode\ 78.webm
+mpv 072_Combination\ Sum\ -\ Backtracking\ -\ Leetcode\ 39\ -\ Python.webm
+mpv 073_Backtrackingï¼ƒº\ Permutations\ -\ Leetcode\ 46\ -\ Python.webm
+mpv 074_Subsets\ II\ -\ Backtracking\ -\ Leetcode\ 90\ -\ Python.webm
+touch reorder_linked_list.py
+cat Node_Lib.py
+rm reorder_linked_list.py
+python Hard/045_Reverse_Nodes_In_K_Group.py
+mpv Make\ Tech\ Easier/What\ Is\ Doom\ Emacs\ and\ How\ to\ Install\ It.webm
+emacs
+cd .repos
+git clone https://github.com/hlissner/doom-emacs
+zed doom-emacs
+rm doom-emacs
+rm Make\ Tech\ Easier
+cd WhatKamilReads
+mpv The\ Eighth\ Life\ by\ Nino\ Haratischwili\ ï½ƒ¼\ International\ Booker\ Prize\ 2020\ Review.mkv
+which zed
+zed
+zed Co le
+zed Codes/leetcode
+du
+which du
+mpv Fear\&/Doing\ Crimes\ wâ§¸\ @Ididathing\ \&\ @Boy_Boy\ ï½ƒ¼\ Fear\&.webm
+irust
+cd Documents/Free-Algorithms-Books/Library/src
+cd ~
+fzf 
+mpv NeNeiSan/Uminekoï¼ƒº\ An\ Unforgettable\ Masterpiece.mkv
+mpv BLACKDISC/Uminekoï¼ƒº\ When\ They\ Cry\ Is\ A\ Masterpiece\ \(Spoiler\ Free\).webm
+mpv .junk/The\ Dylan\ Thomas\ Prize\ 2025\ longlist\ reaction\ \[W7Upyra51YM\].webm
+mpv ForrestKnight/Rust\ is\ Killing\ C++.webm
+cd Bek\ Brace
+mpv Rust\ Programming\ Full\ Course\ \ ï½ƒ¼\ Learn\ âƒºƒ¹ï¸ƒ¯\ in\ 2024\ ï½ƒ¼\ \#rustprogramming\ \#rust.webm
+rustup update
+cargo --version
+rustc --version
+cargo install ncspot
+btop
+ncspot
+cargo uninstall ncspot
+mpv HasanAbi\ Archive/Is\ This\ Power\ Abuse\ Or\ Still\ Comedyï¼ƒ¿\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ The\ Soft\ Take.webm
+cd v n
+mpv 066
+mpv 066_K\ Closest\ Points\ to\ Origin\ -\ Heap\ â§¸\ Priority\ Queue\ -\ Leetcode\ 973\ -\ Python.webm
+python Medium/066_K_closest_points_to_origin.py
+mpv 067_Kth\ Largest\ Element\ in\ an\ Array\ -\ Quick\ Select\ -\ Leetcode\ 215\ -\ Python.webm
+touch Medium/067_kth_largest_elements_in_an_array.py
+python Medium/067_kth_largest_elements_in_an_array.py
+mpv NeNeiSan/Interpreting\ Truth\ ï½ƒ¼\ Umineko\ Thematic\ Analysis.mkv
+mpv 068_Task\ Scheduler\ -\ Leetcode\ 621\ -\ Python.webm
+git add *
+gst
+gcmt "Slightly updating Hard/045, and adding (subpar) solutions to Medium/066 and Medium/067"
+git push -u origin main
+touch Medium/068_Task_Scheduler.py
+chmod +x zen-x86_64.AppImage
+curl -L https://zellij.dev/launch >> zeiilij_launch.sh
+chmod +x zeiilij_launch.sh
+uname -m
+mv Downloads/zellij-x86_64-unknown-linux-musl.tar.gz ./
+vim zellij-x86_64-unknown-linux-musl.tar.gz
+file zellij-x86_64-unknown-linux-musl.tar.gz
+vim zeiilij_launch.sh
+./zeiilij_launch.sh
+zellij
+zeditor
+which zedito
+which zeditor
+mv Downloads/ungoogled-chromium_134.0.6998.88-1.AppImage ./
+chmod +x ungoogled-chromium_134.0.6998.88-1.AppImage
+vim .zshrc
+cd j
+yt-dlp 'https://www.youtube.com/watch?v=zBHRsYhYb-o'
+yt-dlp 'https://www.youtube.com/watch?v=zbyRTVO9Zgc'
+cd v v
+yt-dlp 'https://www.youtube.com/watch?v=I4mdMMu-3fc'
+rm zen-x86_64.AppImage ungoogled-chromium_134.0.6998.88-1.AppImage
+touch returning_sum_of_linkedlist.py
+python returning_sum_of_linkedlist.py
+rm returning_sum_of_linkedlist.py
+yt-dlp 'https://www.youtube.com/watch?v=c9Xm1bT50DQ'
+yt-dlp 'https://www.youtube.com/watch?v=8y3n_un_OQY'
+cd Videos/VidEssays
+mpv The\ Worst\ YouTubers\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Noah\ Samsen\ \[rRTfwWfIn_g\].webm
+mpv We\ Tried\ CIA\ Interrogation\ Techniques\ ï½ƒ¼\ Hasanabi\ reacts\ to\ Boy\ Boy\ \[8y3n_un_OQY\].webm
+iw
+iwctl --version
+iwctl -v
+iwctl -h
+tldr iwctl
+iwd
+iwctl
+cdi
+cd
+mpv Videos/yt-x/videos/HasanAbi\ Archive/H3\ Ethan\ Klein\ CPS\ Situation\ Is\ Disgusting\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Philip\ DeFranco.webm
+mpv Videos/yt-x/videos/Hasan\ Reactions/America\'s\ Downfall.\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Gattsu.webm
+ytx
+cd Videos/yt-x/videos
+ls
+fzf
+mpv Hasan\ Reactions/How\ Companies\ Plan\ The\ Economy\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Second\ Thought.mkv
+: 1742521353:0;ytx
+: 1742521400:0;fzf
+: 1742527740:0;vim "$(where ytx)"
+: 1742527779:0;ytx
+: 1742528104:0;cd Videos/yt-x/videos
+: 1742528104:0;fzf
+: 1742528118:0;mpv Hasan\ Reactions/Are\ We\ The\ Baddiesï¼ƒ¿\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Second\ Thought.mkv
+: 1742529864:0;ytx
+: 1742530034:0;cd Videos/yt-x/videos
+: 1742530036:0;fzf
+: 1742530038:0;ls
+: 1742530041:0;cd Do\ Not\ Worry\ Podcast
+: 1742530042:0;ls
+: 1742530043:0;mpv Israel\ Breaks\ Gaza\ Ceasefire,\ Matt\ Lieb\ vs\ H3,\ Ross\ from\ Friends\ is\ a\ Zionist\ -\ DO\ NOT\ WORRY\ \#167.mkv
+: 1742533229:0;which pkgsearch
+: 1742533235:0;speedtest-rs
+: 1742533374:0;touch maximum_substring_without_repeating.py
+: 1742539688:0;cd ..
+: 1742539690:0;rm Do\ Not\ Worry\ Podcast
+: 1742539691:0;ls
+: 1742539697:0;ls Bek\ Brace
+: 1742539704:0;rm Bek\ Brace Between\ Two\ Beers\ Podcast
+: 1742539706:0;ls
+: 1742539756:0;rm Al\ Mayadeen\ English DiEM25 Fear\& ForrestKnight HasanAbi\ Archive Hasanabi\ Productions Hasan\ Reactions How\ to\ DAD No\ Boilerplate Times\ Of\ India The\ Deprogram BreakThrough\ News 
+: 1742539757:0;ls
+: 1742539762:0;cd Videos/yt-x/videos
+: 1742539763:0;ls
+: 1742539767:0;rm Al\ Mayadeen\ English DiEM25 Fear\& ForrestKnight HasanAbi\ Archive Hasanabi\ Productions Hasan\ Reactions How\ to\ DAD No\ Boilerplate Times\ Of\ India The\ Deprogram BreakThrough\ News
+: 1742539787:0;rm DiEM25 Fear\& ForrestKnight HasanAbi\ Archive Hasanabi\ Productions Hasan\ Reactions How\ to\ DAD No\ Boilerplate Times\ Of\ India The\ Deprogram BreakThrough\ News
+: 1742539790:0;ls
+: 1742539807:0;rm Fear\&
+: 1742539809:0;rm ForrestKnight
+: 1742539812:0;dm HasanAbi\ Archive
+: 1742539817:0;rm HasanAbi\ Archive
+: 1742539824:0;rm Hasanabi\ Productions
+: 1742539826:0;rm Hasan\ Reactions
+: 1742539830:0;rm How\ to\ DAD
+: 1742539839:0;cd Videos/yt-x
+: 1742539840:0;ls
+: 1742539842:0;rm videos
+: 1742539845:0;mkdir videos
+: 1742539877:0;du
+: 1742539894:0;fzf
+: 1742539904:0;mpv Videos/VidEssays/The\ Worst\ YouTubers\ ï½ƒ¼\ Hasanabi\ Reacts\ to\ Noah\ Samsen\ \[rRTfwWfIn_g\].webm
+: 1742543467:0;chmod +x zen-x86_64.AppImage
+: 1742546867:0;yt-dlp 'https://www.youtube.com/watch?v=cvhddK3tWNY'
+: 1742547006:0;vim videos_to_watch.md
+: 1742547017:0;mv videos_to_watch.md .VIP
+: 1742559818:0;sh <(curl https://create.tauri.app/sh)
+: 1742559877:0;cargo install tauri-cli --version '^2.0.0' --locked
+: 1742560536:0;cargo install trunk --locked
+: 1742560579:0;ls
+: 1742560582:0;cd test-app
+: 1742560583:0;ls
+: 1742560586:0;zed .
+: 1742561119:0;rustup target add wasm32-unknown-unknown
+: 1742561292:0;deno run -A npm:create-tauri-app
+: 1742561344:0;cd another-test
+: 1742561347:0;cargo tauri dev
+: 1742561730:0;rm test-app another-test
+: 1742563946:0;curl -LsSf https://astral.sh/ruff/install.sh >> ruff_install.sh
+: 1742563954:0;vim ruff_install.sh
+: 1742563985:0;curl -LsSf https://astral.sh/ruff/install.sh | sh
+: 1742563996:0;ruff
+: 1742564011:0;cd Codes/leetcode
+: 1742564011:0;ls
+: 1742564016:0;ruff BTree_Lib.py
+: 1742564018:0;ruff -h
+: 1742564024:0;ruff format BTree_Lib.py
+: 1742564030:0;zed BTree_Lib.py
+: 1742566514:0;python
+: 1742566787:0;cd j
+: 1742566799:0;vim longest_recurring.py
+: 1742566819:0;nvim longest_recurring.py
+: 1742566830:0;zed longest_recurring.py
+: 1742567021:0;cd
+: 1742567025:0;cd j
+: 1742567026:0;ls
+: 1742567030:0;python longest_recurring.py
+: 1742567891:0;vim .junk/longest_recurring.py
+: 1742567895:0;zed .junk/longest_recurring.py
+: 1742567958:0;python longest_recurring.py
+: 1742567965:0;python .junk/longest_recurring.py
+: 1742568058:0;python .junk/longest_recurring.py
+: 1742570022:0;cd ../Videos/VidEssays
+: 1742570024:0;fzf
+: 1742570028:0;mpv Who\'s\ Lilaï¼ƒ¿\ ï½ƒ¼\ The\ Best\ Mystery\ You\ Can\'t\ Solve\ \[tO1-xmCfuQE\].mp4
+: 1742570924:0;cd
+: 1742570927:0;yt-dlp 'https://www.youtube.com/watch?v=TiH2SjjowKw'
+: 1742575683:0;python .junk/longest_recurring.py
+: 1742576145:0;ls
+: 1742576148:0;cd .junk
+: 1742576149:0;ls
+: 1742576155:0;mkdir neetcodes
+: 1742576156:0;cd neetcodes
+: 1742576157:0;ls
+: 1742576171:0;touch median_of_two_sorted_arr.py
+: 1742576179:0;zed .junk/neetcodes
+: 1742576577:0;curl https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-nightly/firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+: 1742576579:0;ls
+: 1742576584:0;yay -Rs wget
+: 1742576760:0;nu
+: 1742576815:0;fish
+: 1742576828:0;file .cargo/env
+: 1742576842:0;<i>
+: 1742576848:0;<><<>>
+: 1742576858:0;<><><>
+: 1742576948:0;cd Downloads
+: 1742576949:0;ls
+: 1742576971:0;fzf
+: 1742577005:0;npm install -g leetcode-cli
+: 1742577031:0;curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
+: 1742577042:0;source ~/.zshrc
+: 1742577048:0;nvm install --lts
+: 1742577054:0;leetcode-lts
+: 1742577066:0;npm install -g skygragon/leetcode-cli
+: 1742577081:0;cd ~/.repos
+: 1742577083:0;git clone git clone http://github.com/skygragon/leetcode-cli
+: 1742577087:0;git clone http://github.com/skygragon/leetcode-cli
+: 1742577094:0;cd leetcode-cli
+: 1742577100:0;./bin/install
+: 1742577117:0;node .bin/pkg
+: 1742577204:0;rm zen-x86_64.AppImage
+: 1742577225:0;chmod +x firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+: 1742577242:0;./firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+: 1742577247:0;rm firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+: 1742577277:0;chmod +x firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+: 1742577287:0;rm firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+: 1742577309:0;vim .zshrc
+: 1742577316:0;vim .config/zsh/zsh_history
+: 1742577355:0;atuin
+: 1742577470:0;chmod +x firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+: 1742577487:0;rm firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+: 1742577549:0;vim .config/zsh/zsh_history
+: 1742577576:0;atuin
+: 1742577593:0;atuin history
+: 1742577602:0;atuin history prune
+: 1742577611:0;atuin history 
+: 1742577622:0;atuin history prune -h
+: 1742577640:0;atuin history prune wget
+: 1742577645:0;atuin history prune --help
+: 1742577652:0;atuin
+: 1742577681:0;atuin logout
+: 1742577694:0;atuin history
+: 1742577714:0;atuin history help
+: 1742577726:0;atuin history prune help
+: 1742577731:0;atuin history prune "help"
+: 1742577738:0;atuin history prune --help
+: 1742577746:0;atuin history prune -n
+: 1742577755:0;atuin history prune -n 5
+: 1742577761:0;atuin history
+: 1742577794:0;atuin history begin
+: 1742577798:0;atuin history
+: 1742577803:0;atuin history start
+: 1742577808:0;atuin history 
+: 1742577820:0;cd .config/atuin
+: 1742577821:0;ls
+: 1742577824:0;vim config.toml
+: 1742577861:0;ls
+: 1742577865:0;vim atuin-receipt.json
+: 1742577872:0;cd
+: 1742577894:0;history
+: 1742577904:0;ytx
+: 1742577939:0;cd Videos/yt-x/videos
+: 1742577941:0;fzf
+: 1742577945:0;mpv OSXDaily/How\ to\ Clear\ Command\ Line\ History.mp4
+: 1742577963:0;history -c
+: 1742577967:0;history -h
+: 1742577971:0;history --help
+: 1742577976:0;man history
+: 1742577991:0;history clear
+: 1742577996:0;tldr history
+: 1742578003:0;bash
+: 1742578017:0;ytx
+: 1742578045:0;fzf
+: 1742578048:0;mpv Samir\'s\ Tech\ Tips
+: 1742578083:0;mv .config/zsh/zsh_history .junk/zsh_history

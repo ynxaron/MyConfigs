@@ -1067,3 +1067,200 @@ http get https://127.0.0.1:8080
 http get http://127.0.0.1:8080
 http get https://127.0.0.1:8080
 mail
+cd
+which cd
+ls
+cd Downloads/
+ls
+cd ..
+vim ~/.config/nushell
+nu
+which cd
+cd Downloads/
+ls
+vim ~/.config/nushell
+ls
+cd Downloads/
+ls
+cd ..
+vim ~/.config/nushell
+ls
+cd Documents
+ls
+which cd
+http get https://127.0.0.1:8080
+http
+https
+http post
+ls
+cd Downloads/
+ls
+http get https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp/info/refs
+http get https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp/info/refs | vim
+http get https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp/info/refs | helix
+http get https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-nightly/firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+cd Downloads/
+ls
+cd ..
+lsd
+ls
+lsd
+vim .config/nushell/config.nu
+ls
+cd Downloads/
+ls
+cd .
+cd ..
+chsh
+which nu
+chsh
+chsh -l
+vim /etc/shells
+vim ~/.zshrc
+ytx
+fzf
+./repos/bin
+cd .repos/bin/
+ls
+cd Videos/yt-x/
+ls
+cd videos/
+fzf
+vim .config/nushell/config.nu
+cd
+cd Downloads/
+which cd
+cd
+cdi
+zoxide init nushell | save -f ~/.zoxide.nu
+zoxide
+__zoxide_z 
+__zoxide_zi
+z
+z Downloads/
+ls
+zi
+z
+z j
+cd
+z
+ytx 
+z repo
+ls
+z b
+ls
+vim .config/nushell/config.nu
+ytx
+ls
+rm 'BadEmpanada Explains How Zionists Weaponize Stupidity ｜ Hasanabi Reacts [9MCwb7ojaPw].webm'
+ls
+z v
+ls
+ls `Stats Guruji/`
+z `Stats Guruji/`
+ls
+mpv `Live IPL 2025- DC vs LSG Match Prediction, Delhi Capitals vs Lucknow Super Giants 4th IPL Prediction 2025-03-24 19_09.mp4`
+cd ..
+ls
+rm `Stats Guruji/`
+rm -rf `Stats Guruji/`
+z v
+z v
+ls
+z `CricTalks Live/`
+ls
+mpv `🔴 IPL Live： LSG vs DC, IPL 2025, 4th Match ｜ Live Scores & Commentary ｜ Lucknow vs Delhi 2025-03-24 19_23.mp4.part`
+ytx
+ls
+cd ..
+z v
+ls
+z DNAIndiaNews/
+ls
+mpv `DC Vs LSG Live： Delhi Capitals Vs Lucknow Super Giants Live Match ｜ IPL 2025 ｜ Live Cricket Match 2025-03-24 19_39.mp4.part`
+z v
+ls
+z `RAW AGENT GAMING/`
+ls
+mpv `🔴Live： IPL 2025 - Lsg vs Dc ｜ Lucknow Super Giants vs Delhi Capitals Live Cricket Match Today 2025-03-24 19_39.mp4.part`
+z ..
+ytx
+ls
+ytx
+fzf
+z `RAW AGENT GAMING/`
+ls
+cd ..
+ls
+z `CricTalks Live/`
+ls
+mpv `🔴 IPL Live： LSG vs DC, IPL 2025, 4th Match ｜ Live Scores & Commentary ｜ Lucknow vs Delhi 2025-03-24 19_23.temp.mp4`
+mpv `🔴 IPL Live： LSG vs DC, IPL 2025, 4th Match ｜ Live Scores & Commentary ｜ Lucknow vs Delhi 2025-03-24 19_23.mp4`
+ytx
+ls
+ytx
+ls
+z v
+ls
+z ThePrimeTime/
+ls
+mpv `Creator of Node talks Deno 2.0 and the Future of JS.webm`
+z d
+cd
+z Downloads/
+ls
+z v
+ls
+z `UTV News24/`
+ls
+mpv `🔴 IPL LIVE - DC vs LSG ｜ LSG vs DC 4th Match Live ｜ Delhi vs Lucknow Live ｜ Ipl 4th Match Live 2025-03-24 21_37.mp4.part`
+nvim
+z `UTV News24/`
+z v 
+z `UTV News24/`
+ls
+mpv `🔴 IPL LIVE - DC vs LSG ｜ LSG vs DC 4th Match Live ｜ Delhi vs Lucknow Live ｜ Ipl 4th Match Live 2025-03-24 21_37.mp4.part`
+ytx
+z 
+z v
+ls
+fzf
+mpv `T-Series/Tajdar E Haram Full Video ｜ Satyameva Jayate ｜ John Abraham ｜  Manoj Bajpayee ｜ Sajid Wajid.mp4`
+ytx
+fzf
+z ..
+rm -rf `UTV News24/`
+z v
+ks
+ls
+fzf
+cd CricTalks/
+mpv `Live： Lucknow vs Delhi, IPL 2025, Vizag ｜ IPL Live, Scores & Commentary ｜ LSG v DC 2025-03-24 19_41.mp4`
+ls
+mpv `Live： Lucknow vs Delhi, IPL 2025, Vizag ｜ IPL Live, Scores & Commentary ｜ LSG v DC 2025-03-24 19_41.temp.mp4`
+mpv `Live： Lucknow vs Delhi, IPL 2025, Vizag ｜ IPL Live, Scores & Commentary ｜ LSG v DC 2025-03-24 19_41.mp4`
+z ..
+ls
+z `CricTalks Live/`
+ls
+mpv `🔴 IPL Live： LSG vs DC, IPL 2025, 4th Match ｜ Live Scores & Commentary ｜ Lucknow vs Delhi 2025-03-24 19_23.mp4`
+z ..
+ls
+rm -rf CricTalks `CricTalks Live/` 
+cd `UH Sports/`
+mpv `Coke Studio Pakistan/Coke Studio Season 8｜ Tajdar-e-Haram｜ Atif Aslam.mp4`
+nvim Codes/leetcode/
+z v
+ls
+ls `UH Sports/`
+ls DNAIndiaNews/
+mpv `DNAIndiaNews/DC Vs LSG Live： Delhi Capitals Vs Lucknow Super Giants Live Match ｜ IPL 2025 ｜ Live Cricket Match 2025-03-24 19_39.mp4`
+ls
+ls `RAW AGENT GAMING/`
+mpv `RAW AGENT GAMING/`
+mpv `Hasan Reactions/`
+ytx
+z v
+fzf
+mpv `UTV News24/🔴 IPL LIVE - DC vs LSG ｜ LSG vs DC 4th Match Live ｜ Ipl 4th Match Live ｜ Delhi vs Lucknow Live 2025-03-24 22_30.mp4.part`
+mpv `IPL Live： Lucknow vs Delhi, IPL 2025 4th Match ｜ Live Score & Commentary ｜ LSG Vs DC, LSG IN 15 Over 2025-03-24 22_03.mp4.part`

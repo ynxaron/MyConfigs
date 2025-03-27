@@ -1,0 +1,286 @@
+{
+  "id": "default",
+  "name": "Default",
+  "description": "The default mapping for the DeskThing",
+  "version": "0.9.4",
+  "version_code": 9.4,
+  "mapping": {
+    "Wheel1": {
+      "1": {
+        "enabled": true,
+        "id": "pref",
+        "source": "server",
+        "value": "0"
+      }
+    },
+    "Wheel2": {
+      "1": {
+        "enabled": true,
+        "id": "pref",
+        "source": "server",
+        "value": "1"
+      }
+    },
+    "Wheel3": {
+      "1": {
+        "enabled": true,
+        "id": "pref",
+        "source": "server",
+        "value": "2"
+      }
+    },
+    "Wheel4": {
+      "1": {
+        "enabled": true,
+        "id": "pref",
+        "source": "server",
+        "value": "3"
+      }
+    },
+    "Tray1": {
+      "1": {
+        "enabled": true,
+        "id": "pref",
+        "source": "server",
+        "value": "0"
+      }
+    },
+    "Tray2": {
+      "1": {
+        "enabled": true,
+        "id": "pref",
+        "source": "server",
+        "value": "1"
+      }
+    },
+    "Tray3": {
+      "1": {
+        "enabled": true,
+        "id": "pref",
+        "source": "server",
+        "value": "2"
+      }
+    },
+    "Tray4": {
+      "1": {
+        "enabled": true,
+        "id": "pref",
+        "source": "server",
+        "value": "3"
+      }
+    },
+    "Tray5": {
+      "1": {
+        "enabled": true,
+        "id": "pref",
+        "source": "server",
+        "value": "4"
+      }
+    },
+    "Tray6": {
+      "1": {
+        "enabled": true,
+        "id": "pref",
+        "source": "server",
+        "value": "5"
+      }
+    },
+    "DynamicAction1": {
+      "1": {
+        "id": "shuffle",
+        "source": "server",
+        "value": "toggle",
+        "enabled": true
+      }
+    },
+    "DynamicAction2": {
+      "1": {
+        "id": "repeat",
+        "source": "server",
+        "enabled": true
+      }
+    },
+    "DynamicAction3": {
+      "1": {
+        "id": "rewind",
+        "value": "stop",
+        "source": "server",
+        "enabled": true
+      }
+    },
+    "DynamicAction4": {
+      "1": {
+        "id": "hidden",
+        "source": "server",
+        "enabled": true
+      }
+    },
+    "Action5": {
+      "1": {
+        "id": "hidden",
+        "source": "server",
+        "enabled": true
+      }
+    },
+    "Action6": {
+      "1": {
+        "id": "play",
+        "source": "server",
+        "enabled": true
+      }
+    },
+    "Action7": {
+      "1": {
+        "id": "skip",
+        "source": "server",
+        "enabled": true
+      }
+    },
+    "Digit1": {
+      "10": {
+        "id": "pref",
+        "source": "server",
+        "value": "0",
+        "enabled": true
+      },
+      "11": {
+        "id": "swap",
+        "source": "server",
+        "value": "0",
+        "enabled": true
+      }
+    },
+    "Digit2": {
+      "10": {
+        "id": "pref",
+        "source": "server",
+        "value": "1",
+        "enabled": true
+      },
+      "11": {
+        "id": "swap",
+        "source": "server",
+        "value": "1",
+        "enabled": true
+      }
+    },
+    "Digit3": {
+      "10": {
+        "id": "pref",
+        "source": "server",
+        "value": "2",
+        "enabled": true
+      },
+      "11": {
+        "id": "swap",
+        "source": "server",
+        "value": "2",
+        "enabled": true
+      }
+    },
+    "Digit4": {
+      "10": {
+        "id": "pref",
+        "source": "server",
+        "value": "3",
+        "enabled": true
+      },
+      "11": {
+        "id": "swap",
+        "source": "server",
+        "value": "3",
+        "enabled": true
+      }
+    },
+    "KeyM": {
+      "10": {
+        "id": "open",
+        "source": "server",
+        "value": "dashboard",
+        "enabled": true
+      },
+      "11": {
+        "id": "open",
+        "value": "utility",
+        "source": "server",
+        "enabled": true
+      }
+    },
+    "Scroll": {
+      "2": {
+        "id": "volup",
+        "value": "15",
+        "source": "server",
+        "enabled": true
+      },
+      "3": {
+        "id": "voldown",
+        "value": "15",
+        "source": "server",
+        "enabled": true
+      },
+      "4": {
+        "id": "voldown",
+        "value": "15",
+        "source": "server",
+        "enabled": true
+      },
+      "5": {
+        "id": "volup",
+        "value": "15",
+        "source": "server",
+        "enabled": true
+      }
+    },
+    "Enter": {
+      "1": {
+        "id": "wheel",
+        "source": "server",
+        "enabled": true
+      },
+      "11": {
+        "id": "skip",
+        "source": "server",
+        "enabled": true
+      }
+    },
+    "Escape": {
+      "10": {
+        "id": "appslist",
+        "value": "show",
+        "source": "server",
+        "enabled": true
+      },
+      "11": {
+        "id": "appslist",
+        "value": "hide",
+        "source": "server",
+        "enabled": true
+      }
+    },
+    "Swipe": {
+      "6": {
+        "id": "appslist",
+        "value": "hide",
+        "source": "server",
+        "enabled": true
+      },
+      "7": {
+        "id": "appslist",
+        "value": "show",
+        "source": "server",
+        "enabled": true
+      },
+      "8": {
+        "id": "swipel",
+        "source": "server",
+        "enabled": true
+      },
+      "9": {
+        "id": "swiper",
+        "source": "server",
+        "enabled": true
+      }
+    }
+  }
+}

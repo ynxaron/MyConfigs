@@ -1,0 +1,33 @@
+2025/03/12-17:04:05.325 4 Reusing MANIFEST /home/ynx/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/03/12-17:04:05.333 4 Recovering log #3
+2025/03/12-17:04:05.334 4 Reusing old log /home/ynx/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2025/03/12-17:04:24.130 5 Level-0 table #5: started
+2025/03/12-17:04:24.135 5 Level-0 table #5: 66510 bytes OK
+2025/03/12-17:04:24.140 5 Delete type=0 #3
+2025/03/12-17:05:22.706 5 Level-0 table #7: started
+2025/03/12-17:05:22.710 5 Level-0 table #7: 194653 bytes OK
+2025/03/12-17:05:22.714 5 Delete type=0 #4
+2025/03/12-17:05:33.061 5 Level-0 table #9: started
+2025/03/12-17:05:33.065 5 Level-0 table #9: 48103 bytes OK
+2025/03/12-17:05:33.069 5 Delete type=0 #6
+2025/03/12-17:05:43.267 5 Level-0 table #11: started
+2025/03/12-17:05:43.271 5 Level-0 table #11: 59021 bytes OK
+2025/03/12-17:05:43.275 5 Delete type=0 #8
+2025/03/12-17:09:51.880 5 Level-0 table #13: started
+2025/03/12-17:09:51.884 5 Level-0 table #13: 33444 bytes OK
+2025/03/12-17:09:51.887 5 Delete type=0 #10
+2025/03/12-17:13:51.880 5 Level-0 table #15: started
+2025/03/12-17:13:51.882 5 Level-0 table #15: 54028 bytes OK
+2025/03/12-17:13:51.885 5 Delete type=0 #12
+2025/03/12-17:13:51.885 5 Compacting 4@0 + 1@1 files
+2025/03/12-17:13:51.889 5 Generated table #16@0: 205 keys, 287306 bytes
+2025/03/12-17:13:51.889 5 Compacted 4@0 + 1@1 files => 287306 bytes
+2025/03/12-17:13:51.891 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/12-17:13:51.892 5 Delete type=2 #7
+2025/03/12-17:13:51.892 5 Delete type=2 #9
+2025/03/12-17:13:51.892 5 Delete type=2 #11
+2025/03/12-17:13:51.892 5 Delete type=2 #13
+2025/03/12-17:13:51.892 5 Delete type=2 #15
+2025/03/12-17:15:21.826 5 Level-0 table #18: started
+2025/03/12-17:15:21.829 5 Level-0 table #18: 58118 bytes OK
+2025/03/12-17:15:21.834 5 Delete type=0 #14
