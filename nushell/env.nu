@@ -16,4 +16,7 @@
 #
 # You can remove these comments if you want or leave
 # them for future reference.
-zoxide init nushell | save -f ~/.zoxide.nu
+$env.config.show_banner = false
+$env.config.buffer_editor = "zed"
+$env.HOME = "/home/ynx"
+#zoxide init nushell | save -f ~/.zoxide.nu

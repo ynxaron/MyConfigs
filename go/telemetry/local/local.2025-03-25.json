@@ -1,0 +1,97 @@
+{
+ "Week": "2025-03-25",
+ "LastWeek": "",
+ "X": 0.9579923384755327,
+ "Programs": [
+  {
+   "Program": "cmd/asm",
+   "Version": "go1.24.0",
+   "GoVersion": "go1.24.0",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {},
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/compile",
+   "Version": "go1.24.0",
+   "GoVersion": "go1.24.0",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "compile/invocations": 17
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/go",
+   "Version": "go1.24.0",
+   "GoVersion": "go1.24.0",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "go/buildcache/hit": 110,
+    "go/buildcache/miss": 4,
+    "go/env/flag:json": 2,
+    "go/goroot:usr-lib-go": 22,
+    "go/invocations": 22,
+    "go/list/flag:compiled": 4,
+    "go/list/flag:deps": 4,
+    "go/list/flag:e": 10,
+    "go/list/flag:export": 4,
+    "go/list/flag:f": 10,
+    "go/list/flag:find": 4,
+    "go/list/flag:json": 4,
+    "go/list/flag:pgo": 4,
+    "go/list/flag:test": 4,
+    "go/mod-tidy/flag:modfile": 2,
+    "go/mode:gopath": 6,
+    "go/mode:module": 16,
+    "go/platform/host/linux/major-version:6": 22,
+    "go/platform/host/linux/version:6-13": 22,
+    "go/platform/target/goamd64:v1": 22,
+    "go/platform/target/goarch:amd64": 22,
+    "go/platform/target/goos:linux": 22,
+    "go/subcommand:env": 2,
+    "go/subcommand:list": 14,
+    "go/subcommand:mod-tidy": 2,
+    "go/subcommand:version": 4
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "golang.org/x/tools/gopls",
+   "Version": "v0.18.1",
+   "GoVersion": "go1.24.0",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "gopls/client-other:Zed": 2,
+    "gopls/client:other": 2,
+    "gopls/gotoolchain:auto": 2,
+    "gopls/setting/hints/assignVariableTypes:true": 2,
+    "gopls/setting/hints/compositeLiteralFields:true": 2,
+    "gopls/setting/hints/compositeLiteralTypes:true": 2,
+    "gopls/setting/hints/constantValues:true": 2,
+    "gopls/setting/hints/functionTypeParameters:true": 2,
+    "gopls/setting/hints/parameterNames:true": 2,
+    "gopls/setting/hints/rangeVariableTypes:true": 2,
+    "gopls/setting/usePlaceholders:true": 2,
+    "gopls/telemetryprompt/attempts:0": 2
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "cmd/link",
+   "Version": "go1.24.0",
+   "GoVersion": "go1.24.0",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "link/invocations": 2
+   },
+   "Stacks": {}
+  }
+ ],
+ "Config": "v0.0.0-0"
+}

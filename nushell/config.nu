@@ -1,5 +1,9 @@
-$env.config.buffer_editor = "zed"
-$env.config.show_banner = false
+$env.path = ["$HOME/.repos/bin",
+        "$HOME/.local/bin",
+        "$HOME/.cargo/bin",
+        "$HOME/.atuin/bin",
+        "$HOME/.spicetify",
+        "$HOME/.repos/go"]
 
 alias ls = ~/.repos/bin/lsd
 alias nch = ping -c 5 8.8.8.8
@@ -23,5 +27,4 @@ def --env y [...args] {
 	rm -fp $tmp
 }
 
-/home/ynx/.repos/bin/pfetch
-source ~/.zoxide.nu
+#source ~/.zoxide.nu

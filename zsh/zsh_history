@@ -1,4 +1,3 @@
-wget https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-nightly/firefox-nightly-138.0.r20250321040811-x86_64.AppImage
 chmod +x firefox-nightly-138.0.r20250321040811-x86_64.AppImage
 atuin search --delete
 atuin search --delete-it-all
@@ -7,7 +6,6 @@ git push
 git push -o origin main
 vim ~/.junk/zsh_history
 cd ~/Writings
-git push -u origin main
 gnome-nettool
 
 mv ~/.junk/zsh_history ./
@@ -242,7 +240,6 @@ vim .zshrc
 ls .cargo/bin
 cd .cargo/bin
 mpv Better\ Stack/The\ BEST\ Shell\ Youâ€ƒ¹re\ Not\ Using\ -\ Fish.mp4
-cd
 zed .config/fish
 oh-my-posh init fish | zed
 oh-my-posh init fish >> fish_shell.fish
@@ -279,4 +276,12 @@ mpv MIKE\ HESSON\ Previews\ \#IPL2025\ \#RCB\ vs\ \#KKR\ ï½ƒ¼\ the\ in-depth\ pr
 ls
 rm Mike\ Hesson\ Previews\ IPL\ Match\ 6\ -\ Rajasthan\ Royals\ vs\ Kolkata\ Knight\ Riders\ \#RRvKKR.mp4
 ytx
+cd
+./bin/atuin init nu >> atuin_nu
+git push -u origin main
+wget https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-nightly/firefox-nightly-138.0.r20250321040811-x86_64.AppImage
 nch
+mpv Firefox-Appimage
+file Firefox-Appimage
+wget https://github.com/srevinsaju/Firefox-Appimage
+wget https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-nightly

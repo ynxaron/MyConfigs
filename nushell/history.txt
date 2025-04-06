@@ -1264,3 +1264,91 @@ z v
 fzf
 mpv `UTV News24/🔴 IPL LIVE - DC vs LSG ｜ LSG vs DC 4th Match Live ｜ Ipl 4th Match Live ｜ Delhi vs Lucknow Live 2025-03-24 22_30.mp4.part`
 mpv `IPL Live： Lucknow vs Delhi, IPL 2025 4th Match ｜ Live Score & Commentary ｜ LSG Vs DC, LSG IN 15 Over 2025-03-24 22_03.mp4.part`
+ls
+cd Downloads/
+ls
+cd ..
+ls
+which ls
+cd ..
+cd 
+ls
+chsh -l
+chsh -h
+chsh -s
+chsh
+cat /etc/shells
+/bin/sh
+vim ~/.config/fish/config.fish
+chsh
+vim .bashrc
+ls
+cd Videos/yt-x/
+which cd
+ytx
+fzf
+cd `videos/Trusty Rusty Depot/`
+ls
+mpv `Lesson 4 - Configuring Nushell.mp4`
+cd `Videos/yt-x/videos/Trusty Rusty Depot/`
+zed .config/nushell
+cd .config/nushell/
+ls
+mkdir PromptTheme
+mv oh_my_posh_theme.json PromptTheme/
+vim config.nu
+zed .config/nushell
+zed .
+cd .atuin/
+ls
+ls bin
+./bin/atuin
+./bin/atuin init
+./bin/atuin init nu
+./bin/atuin init nu | source
+./bin/atuin init nu >> atuin_nushell
+./bin/atuin init nu | vim
+zsh
+source atuin_nu
+which cd
+mpv `Lesson 4 - Configuring Nushell.mp4`
+ytx
+cd ../pwned
+ls
+pfetch
+open 
+mpv `🐚 NuShell  - An Introduction.mp4`
+~/.cargo/bin/lsd
+cd ..
+~/.repos/bin/ytx
+~/.repos/bin/pfetch
+http get https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-nightly/firefox-nightly-138.0.r20250321040811-x86_64.AppImage
+vim ~/.config/nushell
+vim
+nvim
+chsh
+ls
+cd
+cd Downloads/
+cd ..
+unzip
+zip
+oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/amro.omp.json
+oh-my-posh
+/usr/bin/oh-my-posh
+/usr/bin/oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/amro.omp.json
+ls
+ls `$MYVIMDIR/`
+rm -r `$MYVIMDIR/`
+/usr/bin/oh-my-posh init nu
+/usr/bin/oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/amro.omp.json
+/usr/bin/oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/amro.omp.json | source
+source atuin_nu
+source /usr/bin/oh-my-posh init nu --config https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/amro.omp.json
+vim .zshrc
+./atuin init nu
+./atuin_nu
+source ./atuin_nu
+./atuin_nu
+ls
+source ./atuin_nu

@@ -167,3 +167,15 @@ Use --utf-force argument to force start if you're sure your terminal can handle 
 2025/03/25 (22:04:18) | ===> btop++ v.1.4.0
 2025/03/25 (22:04:18) | WARNING: Intel GPU: Failed to initialize PMU
 2025/03/25 (22:04:26) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/28 (21:31:07) | ===> btop++ v.1.4.0
+2025/03/28 (21:31:07) | ERROR: No UTF-8 locale detected!
+Use --utf-force argument to force start if you're sure your terminal can handle it.
+
+2025/03/28 (21:31:44) | ===> btop++ v.1.4.0
+2025/03/28 (21:31:44) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/28 (21:31:48) | WARNING: Failed to join _runner thread on exit!
+
+2025/04/04 (23:38:26) | ===> btop++ v.1.4.0
+2025/04/04 (23:38:26) | WARNING: Intel GPU: Failed to initialize PMU
+2025/04/04 (23:38:35) | WARNING: Failed to join _runner thread on exit!
