@@ -10,7 +10,7 @@ alias cdi=zi
 alias ls=lsd
 alias nch="ping -c 5 8.8.8.8"
 alias du=dust
-alias yt-dlp=$HOME/.repos/yt-dlp/yt-dlp
+alias yt-dlp=$HOME/.repos/yt-dlp/yt-dlp.sh
 
 function zmm
 	mpv "$(fzf)"
@@ -22,6 +22,10 @@ end
 
 function zmz
 	zed "$(fzf)"
+end
+
+function ytsrch
+	$HOME/.repos/yt-dlp/yt-dlp.sh "ytsearch:$argv[1]"
 end
 
 function rm

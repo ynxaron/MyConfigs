@@ -1,3 +1,15 @@
-2025/04/06-11:42:40.299 1023b Reusing MANIFEST /home/ynx/.config/YouTube Music/Session Storage/MANIFEST-000001
-2025/04/06-11:42:40.299 1023b Recovering log #10
-2025/04/06-11:42:40.299 1023b Reusing old log /home/ynx/.config/YouTube Music/Session Storage/000010.log 
+2025/04/16-14:59:42.390 5779 Reusing MANIFEST /home/ynx/.config/YouTube Music/Session Storage/MANIFEST-000001
+2025/04/16-14:59:42.390 5779 Recovering log #16
+2025/04/16-14:59:42.390 5779 Reusing old log /home/ynx/.config/YouTube Music/Session Storage/000016.log 
+2025/04/16-18:54:52.547 577a Level-0 table #20: started
+2025/04/16-18:54:52.550 577a Level-0 table #20: 37005 bytes OK
+2025/04/16-18:54:52.554 577a Delete type=0 #16
+2025/04/16-18:54:52.554 577a Compacting 4@0 + 1@1 files
+2025/04/16-18:54:52.559 577a Generated table #21@0: 665 keys, 15845 bytes
+2025/04/16-18:54:52.559 577a Compacted 4@0 + 1@1 files => 15845 bytes
+2025/04/16-18:54:52.561 577a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/16-18:54:52.561 577a Delete type=2 #8
+2025/04/16-18:54:52.561 577a Delete type=2 #11
+2025/04/16-18:54:52.562 577a Delete type=2 #14
+2025/04/16-18:54:52.562 577a Delete type=2 #17
+2025/04/16-18:54:52.562 577a Delete type=2 #20

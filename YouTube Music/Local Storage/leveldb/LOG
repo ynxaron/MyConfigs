@@ -1,18 +1,6 @@
-2025/04/06-11:42:39.740 1023c Reusing MANIFEST /home/ynx/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
-2025/04/06-11:42:39.745 1023c Recovering log #108
-2025/04/06-11:42:39.745 1023c Reusing old log /home/ynx/.config/YouTube Music/Local Storage/leveldb/000108.log 
-2025/04/06-12:20:42.107 1023b Level-0 table #112: started
-2025/04/06-12:20:42.111 1023b Level-0 table #112: 15227 bytes OK
-2025/04/06-12:20:42.115 1023b Delete type=0 #108
-2025/04/06-12:20:42.115 1023b Compacting 4@0 + 1@1 files
-2025/04/06-12:20:42.117 1023b Generated table #113@0: 9 keys, 1163 bytes
-2025/04/06-12:20:42.117 1023b Compacted 4@0 + 1@1 files => 1163 bytes
-2025/04/06-12:20:42.121 1023b compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/04/06-12:20:42.121 1023b Delete type=2 #103
-2025/04/06-12:20:42.122 1023b Delete type=2 #105
-2025/04/06-12:20:42.122 1023b Delete type=2 #107
-2025/04/06-12:20:42.122 1023b Delete type=2 #109
-2025/04/06-12:20:42.122 1023b Delete type=2 #112
-2025/04/06-13:29:17.033 1023b Level-0 table #115: started
-2025/04/06-13:29:17.035 1023b Level-0 table #115: 14877 bytes OK
-2025/04/06-13:29:17.039 1023b Delete type=0 #111
+2025/04/16-14:59:41.889 577a Reusing MANIFEST /home/ynx/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
+2025/04/16-14:59:41.892 577a Recovering log #253
+2025/04/16-14:59:41.893 577a Reusing old log /home/ynx/.config/YouTube Music/Local Storage/leveldb/000253.log 
+2025/04/16-18:09:33.137 577a Level-0 table #258: started
+2025/04/16-18:09:33.140 577a Level-0 table #258: 14907 bytes OK
+2025/04/16-18:09:33.144 577a Delete type=0 #253

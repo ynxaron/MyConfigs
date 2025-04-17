@@ -3,12 +3,12 @@
 		"width": 1280,
 		"height": 720
 	},
-	"window-maximized": true,
+	"window-maximized": false,
 	"window-position": {
 		"x": 0,
 		"y": 0
 	},
-	"url": "https://music.youtube.com/watch?v=xRb8hxwN5zc&list=RDAMVMCb6wuzOurPc&index=0",
+	"url": "https://music.youtube.com/watch?v=AkACpMBJrWg",
 	"options": {
 		"tray": false,
 		"appVisible": true,

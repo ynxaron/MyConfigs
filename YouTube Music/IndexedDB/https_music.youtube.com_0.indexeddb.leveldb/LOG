@@ -1,3 +1,12 @@
-2025/04/06-11:42:40.546 1023b Reusing MANIFEST /home/ynx/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/06-11:42:40.547 1023b Recovering log #97
-2025/04/06-11:42:40.550 1023b Reusing old log /home/ynx/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000097.log 
+2025/04/16-14:59:42.436 578c Reusing MANIFEST /home/ynx/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/16-14:59:42.436 578c Recovering log #137
+2025/04/16-14:59:42.443 578c Reusing old log /home/ynx/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000137.log 
+2025/04/16-15:04:02.855 5779 Level-0 table #142: started
+2025/04/16-15:04:02.877 5779 Level-0 table #142: 1790302 bytes OK
+2025/04/16-15:04:02.882 5779 Delete type=0 #137
+2025/04/16-17:57:39.624 578c Compacting 1@1 + 1@2 files
+2025/04/16-17:57:39.637 578c Generated table #143@1: 2447 keys, 82946 bytes
+2025/04/16-17:57:39.638 578c Compacted 1@1 + 1@2 files => 82946 bytes
+2025/04/16-17:57:39.640 578c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/16-17:57:39.641 578c Delete type=2 #139
+2025/04/16-17:57:39.641 578c Delete type=2 #142
